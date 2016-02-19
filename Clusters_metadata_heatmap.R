@@ -56,6 +56,7 @@ batchIDdF <- rbind(data.frame(LibraryBatch = "1", CaptureWellID = batc1ID)
                    , data.frame(LibraryBatch = "2", CaptureWellID = batc2ID))
 metDatDF <- merge(x = metDatDF, y = batchIDdF,
                   by.x = "CaptureWellID", by.y = "CaptureWellID")
+# Add read depth from Run 2 to metadata
 metDatDF <- merge(metDatDF, totReadsRun2dF, by.x = "CellID", by.y = "CellID")
 metDatDF$TotalReads <- metDatDF$NumReads + metDatDF$NumReads2
 
