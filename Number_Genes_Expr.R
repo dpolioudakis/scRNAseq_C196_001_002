@@ -1,6 +1,7 @@
 # Damon Polioudakis
 # 2016-01-03
-# Graph of number of genes expressed in 2015-12 scRNAseq run SxaQSEQsXbp060L2
+# Graph of number of genes expressed in 2015-12 scRNAseq run C196-001
+# SxaQSEQsXbp060L2 and 2015-12 scRNAseq additional sequencing C196-002
 rm(list=ls())
 sessionInfo()
 
@@ -11,12 +12,12 @@ fpm1DF <- read.csv("../data/FPM.csv", header = TRUE)
 dim(exDat1DF)
 dim(exDat2DF)
 
-
+# Combine counts from scRNAseq Run1 and Run2
 exDatDF <- Reduce('+', list(exDat2DF, exDat1DF))
 
+# Subset to cells remaining after Jason's ERCC filters
 fpmCells <- gsub("X", "Cell", colnames(fpm1DF))
 exDatDF <- exDatDF[ , colnames(exDatDF) %in% fpmCells]
-colnames() <- gsub("_.*", "", colnames(exDat1DF))
 ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
 ex2fTdF <- exDat2DF[ , colnames(exDat2DF) %in% fpmCells]
 
