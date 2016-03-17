@@ -1,14 +1,7 @@
 # Damon Polioudakis
-# 2016-02-10
-# Plot bulk RNAseq of VZ and CP from Luis and Jason's ATAC versus pooled
-# scRNAseq VZ and CP
-
-# Inputs
-#   HTseq counts for bulk RNAseq VZ and CP from Luis and Jason's ATAC
-#   HTseq counts for scRNAseq C196-001_002
-
-# Outputs
-
+# 2016-03-17
+# Compare total number of reads, number of reads mapped, and number of reads
+# mapped to exons
 ################################################################################
 
 rm(list=ls())
@@ -33,6 +26,8 @@ graphCodeTitle <- "Mapped_To_Exons_VS_Mapped.R"
 outGraph <- "../analysis/graphs/Mapped_To_Exons_VS_Mapped_"
 ################################################################################
 
+### Format and process
+
 # Remove ERCCs
 exDatDF <- head(exDatDF, -97)
 
@@ -45,6 +40,8 @@ picStatsDF <- picStatsDF[order(picStatsDF$X), ]
 # Calc number mapped to exons
 nMapToExons <- apply(exDatDF, 2, sum)
 ################################################################################
+
+### Graph
 
 pdf(paste0(outGraph, "Aligned_Vs_Exons.pdf"))
 plot(picStatsDF$PF_READS_ALIGNED, nMapToExons
