@@ -3,13 +3,6 @@
 # 2016-02-10
 # Plot bulk RNAseq of VZ and CP from Luis and Jason's ATAC versus pooled
 # scRNAseq VZ and CP
-
-# Inputs
-#   HTseq counts for bulk RNAseq VZ and CP from Luis and Jason's ATAC
-#   HTseq counts for scRNAseq C196-001_002
-
-# Outputs
-
 ################################################################################
 
 rm(list=ls())
@@ -29,8 +22,9 @@ scExDatDF <- read.csv("../data/htseq/merged/Exprs_HTSCexon.csv", row.names = 1)
 # Picard Sequencing Statistics - scRNAseq
 picStatsScDF <- read.csv("../metadata/PicardToolsQC.csv")
 
-# Picard Sequencing Statistics - scRNAseq
-picStatsBuDF
+# Picard Sequencing Statistics - bulk RNAseq
+picStatsBuDF <- read.table("../metadata/bulk/alignment_summary.txt", fill = TRUE
+                           , header = TRUE)
 
 # GC and Gene Length
 load("../../source/ENSEMBLhg19_UnionAnno.rda")
@@ -42,7 +36,11 @@ rm(ENSEMBLhg19.70UnionAnno)
 
 graphCodeTitle <- "Compare_Bulk_to_scRNAseq.R"
 outGraph <- "../analysis/graphs/Compare_Bulk_to_scRNAseq_"
-
+outGenesListDir <- "../analysis/GO_enrichment/Subsets_MAplot_0.5_-0.5_0"
+dir.create(file.path(outGenesListDir, "Lists"))
+dir.create(file.path(outGenesListDir, "Background"))
+dir.create(file.path(outGenesListDir, "Background_HighExpr"))
+dir.create(file.path(outGenesListDir, "Background_LowExpr"))
 ################################################################################
 
 ### Functions
@@ -50,47 +48,13 @@ outGraph <- "../analysis/graphs/Compare_Bulk_to_scRNAseq_"
 
 ################################################################################
 
-# Remove ERCCs
+### Remove ERCCs
 buExDatDF <- head(buExDatDF, -97)
 scExDatDF <- head(scExDatDF, -97)
 ################################################################################
 
-# Average counts for bulk for each transcript and counts of scRNAseq for each
-# transript
-
-# Pool scRNAseq
-pScEx <- apply(scExDatDF, 1, sum)
-head(pScEx)
-tail(pScEx)
-
-# Mean expression for bulk for each gene
-mnBuEx <- apply(buExDatDF, 1, mean)
-
-# Median for bulk for each gene
-mdBuEx <- apply(buExDatDF, 1, median)
-################################################################################
-
-## Log2 (counts + 1) Pooled scRNAseq vs bulk
-
-# Spearman correlation
-sprCor <- round(cor(pScEx, mnBuEx, method = "spearman"), 2)
-
-# Format for ggplot2
-ggDF <- data.frame(Pooled = log(pScEx + 1, 2), Bulk = log(mnBuEx + 1, 2))
-
-ggplot(ggDF, aes(x = Pooled, y = Bulk)) +
-  geom_point(alpha = 0.5, shape = 1) +
-  theme_bw(base_size = 18) +
-  ylab("Bulk: log2(Mean Counts + 1)") +
-  xlab("Pooled: log2(Mean Counts + 1)") +
-  ggtitle(paste0(graphCodeTitle
-          , "\nPooled scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-          , "\n Mean of counts across samples"
-          , "\nSpearman correlation: ", sprCor))
-ggsave(paste0(outGraph, "Bulk_vs_Pooled_log2p1.pdf"))
-################################################################################
-
-### Filter, read depth normalize, and pool in groups bulk and scRNAseq
+### Process data - Mean counts, Filter, read depth normalize, and pool in groups
+### bulk and scRNAseq
 
 ## Filter for number of mapped reads > 1.5*10^6
 
@@ -100,260 +64,367 @@ pfCells <- picStatsScDF$X[picStatsScDF$PF_READS_ALIGNED > 1.5*10^6]
 ftScExDatDF <- scExDatDF[ ,colnames(scExDatDF) %in% pfCells]
 
 
-## Randomly split into 5 pooled groups
+## Read depth normalize
+
+# Randomly split into 5 pooled groups
 
 set.seed(11)
 ncol(ftScExDatDF)
 rNums <- sample(1:130, 130, replace = FALSE)
 rndmGroups <- split(rNums, ceiling(seq_along(rNums) / (length(rNums) / 5)))
 pScExDF <- data.frame(lapply(rndmGroups
-                        , function (group) {apply(ftScExDatDF[ ,group], 1, sum)}))
+                             , function (group) {apply(ftScExDatDF[ ,group], 1, sum)}))
 head(pScExDF, 20)
+pScIDs <- lapply(rndmGroups
+                 , function (group) colnames(ftScExDatDF)[group])
 
-
-## Read depth normalize
-
-# Read depth normalize pooled scRNAseq
+# Read depth normalize pooled scRNAseq by number mapped to exons
 rDep <- (apply(pScExDF, 2, sum) / 10^6)
-pScRdnExDatDF <- pScExDF / rDep
+pScTpmExonExDatDF <- pScExDF / rDep
 
-# Read depth normalize bulk
+# Read depth normalize bulk by number mapped to exons
 rDep <- (apply(buExDatDF, 2, sum) / 10^6)
-buRdNExDatDF <- buExDatDF / rDep
-################################################################################
+buTpmExonExDatDF <- buExDatDF / rDep
 
-### Plot read depth normalized
+# Read depth normalize by number of mapped reads
 
-# Boxplot read depth normalized bulk log2 (counts)
-boxplot(log(data.frame(buRdNExDatDF, pScRdnExDatDF) + 1, 2), range = 0)
+# pooled scRNAseq
+sel <- lapply(pScIDs, function(group) picStatsScDF$X %in% group)
+splitStats <- lapply(sel, function(group) picStatsScDF[group, ])
+mappedReads <- sapply(splitStats, function(group) sum(as.numeric(group$PF_READS_ALIGNED)))
+pScTpmExDatDF <- pScExDF / (mappedReads / 10^6)
 
-
-## Log2 mean bulk vs pooled TPM
-
-# Mean counts for bulk RNAseq
-mnBuEx <- apply(buRdNExDatDF, 1, mean)
-
-# Mean counts for pooled scRNAseq groups
-mnPdScEx <- apply(pScRdnExDatDF, 1, mean)
-
-# Spearman correlation
-sprCor <- round(cor(mnPdScEx, mnBuEx, method = "spearman"), 2)
-
-# Format for ggplot2
-ggDF <- data.frame(Pooled = log(mnPdScEx + 1, 2), Bulk = log(mnBuEx + 1, 2))
-
-ggplot(ggDF, aes(x = Pooled, y = Bulk)) +
-  geom_point(alpha = 0.5, shape = 1) +
-  stat_smooth() +
-  theme_bw(base_size = 18) +
-  ylab("Bulk: log2(Mean TPM + 1)") +
-  xlab("Pooled: log2(Mean TPM + 1)") +
-  ggtitle(paste0(graphCodeTitle
-                 , "\nFive Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-                 , "\nMean of TPM across samples"
-                 , "\nSpearman correlation: ", sprCor))
-ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_log2p1.pdf"))
+# Read depth normalize bulk by number mapped reads
+buTpmExDatDF <- buExDatDF / (picStatsBuDF$PF_READS_ALIGNED / 10^6)
 
 
-## Log2 median bulk vs pooled TPM
-
-# Median counts for bulk RNAseq
-mdBuEx <- apply(buRdNExDatDF, 1, median)
-
-# Median counts for pooled scRNAseq groups
-mdPdScEx <- apply(pScRdnExDatDF, 1, median)
-
-# Spearman correlation
-sprCor <- round(cor(mdPdScEx, mdBuEx, method = "spearman"), 2)
-
-# Format for ggplot2
-ggDF <- data.frame(Pooled = log(mdPdScEx + 1, 2), Bulk = log(mdBuEx + 1, 2))
-
-ggplot(ggDF, aes(x = Pooled, y = Bulk)) +
-  geom_point(alpha = 0.5, shape = 1) +
-  stat_smooth() +
-  theme_bw(base_size = 18) +
-  ylab("Bulk: log2(Median TPM + 1)") +
-  xlab("Pooled: log2(Median TPM + 1)") +
-  ggtitle(paste0(graphCodeTitle
-                 , "\nFive Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-                 , "\nMedian of TPM across samples"
-                 , "\nSpearman correlation: ", sprCor))
-ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_median_log2p1.pdf"))
-
-
-## MA Plot
-
-# Added +1 to all counts to prevent Inf values
-ggDF <- data.frame(Avg = (0.5*log((mnPdScEx + 1) * (mnBuEx + 1), 2))
-                   , Log2Ratio = log(((mnPdScEx + 1) / (mnBuEx + 1)), 2))
-head(ggDF)
-ggplot(ggDF, aes(x = Avg, y = Log2Ratio)) +
-  geom_point(shape = 1, alpha = 0.5) +
-  stat_smooth() +
-  geom_vline(xintercept = 3.5) +
-  geom_hline(yintercept = -0.5) +
-  geom_hline(yintercept = 0.5) +
-  theme_bw(base_size = 14) +
-  xlab("0.5*log2((Mean Pools TPM + 1) * (Mean Bulk TPM + 1))") +
-  ylab("log2((Mean Pools TPM + 1) / (Mean Bulk TPM + 1))") +
-  ggtitle(paste0(graphCodeTitle
-                 , "\nMA Plot: Five Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-                 , "\nMean of TPM across samples"))
-ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_MAPlot_TPM_mean_p1.pdf"))
-
-
-## MA Plot: Mean Average > 3.5 (~10 TPM)
-
-# Added +1 to all counts to prevent Inf values
-ggDF <- data.frame(Avg = (0.5*log((mnPdScEx + 1) * (mnBuEx + 1), 2))
-                   , Log2Ratio = log(((mnPdScEx + 1) / (mnBuEx + 1)), 2))
-ggDF <- ggDF[ggDF$Avg > 3.5, ]
-
-head(ggDF)
-ggplot(ggDF, aes(x = Avg, y = Log2Ratio)) +
-  geom_point(shape = 1, alpha = 0.5) +
-  stat_smooth() +
-  theme_bw(base_size = 14) +
-  xlab("0.5*log2((Mean Pools TPM + 1) * (Mean Bulk TPM + 1))") +
-  ylab("log2((Mean Pools TPM + 1) / (Mean Bulk TPM + 1))") +
-  ggtitle(paste0(graphCodeTitle
-                 , "\nMA Plot: Five Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-                 , "\nMean of TPM across samples"
-                 , "\nFiltered for Mean Average > 3.5 (~10 TPM)"))
-ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_MAPlot_AG3.5_TPM_mean_p1.pdf"))
-
-  # stat_smooth(method = lm)
-# + coord_cartesian(xlim = c(0, 500000), ylim = c(0, 2500))
-
-
-
-# Standard deviation for bulk RNAseq
-sdBuEx <- apply(buRdNExDatDF, 1, sd)
-################################################################################
-
-
-###### Artifactual looking points at top of ScCov are most likely due to 4 of the
-# pooled groups having 0 counts and 1 group having 1 count, not sure what the
-# 1 normalizes to after TPM, but that math should carry through
-
-
-rDep <- (apply(ftScExDatDF, 2, sum) / 10^6)
-scRdnExDatDF <- ftScExDatDF / rDep
-
-
-
-Coef_Of_Var <- function(x) {
-  sd(x) / mean(x)
-}
-
-buCov <- apply(buRdNExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
-pdScCov <- apply(pScRdnExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
-scCov <- apply(scRdnExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
+## Mean counts
 
 # Mean counts for bulk RNAseq
-mnBuEx <- apply(buRdNExDatDF, 1, mean)
+mnBuEx <- apply(buTpmExDatDF, 1, mean)
 lg2mnBuEx <- log(mnBuEx, 2)
 
 # Mean counts for pooled scRNAseq groups
-mnPdScEx <- apply(pScRdnExDatDF, 1, mean)
+mnPdScEx <- apply(pScTpmExDatDF, 1, mean)
 lg2mnPdScEx <- log(mnPdScEx, 2)
-
-# Mean counts for scRNAseq
-mnScEx <- apply(scRdnExDatDF, 1, mean)
-lg2mnScEx <- log(mnScEx, 2)
-
-plot(lg2mnBuEx, buCov)
-
-sel <- ! is.na(pdScCov)
-pdScCov <- pdScCov[sel]
-lg2mnPdScEx <- lg2mnPdScEx[sel]
-plot(lg2mnPdScEx, pdScCov)
-
-
-plot(lg2mnScEx, scCov)
-
-
 ################################################################################
 
 ### Subset transcripts
 
 ## Use MA plot values to subset
 
-# Mean counts for bulk RNAseq
-mnBuEx <- apply(buRdNExDatDF, 1, mean)
-lg2mnBuEx <- log(mnBuEx, 2)
+# Added + 0.01 to all counts to prevent Inf values
+maDF <- data.frame(Avg = (0.5*log((mnPdScEx + 0.01) * (mnBuEx + 0.01), 2))
+                   , Log2Ratio = log(((mnPdScEx + 0.01) / (mnBuEx + 0.01)), 2))
 
-# Mean counts for pooled scRNAseq groups
-mnPdScEx <- apply(pScRdnExDatDF, 1, mean)
-lg2mnPdScEx <- log(mnPdScEx, 2)
+# Split genes into groups based off expression level and bias towards bulk
+# or scRNAseq
+biasDF <- rbind(
+  data.frame(
+  # Low expressed bias towards bulk
+  # Transcripts > 0.5 M (log ratio) towards bulk and > 0 A (mean average)
+  # (expression > ~1 TPM)
+    Genes = maDF[maDF$Avg < 0 & maDF$Log2Ratio < -0.5, ]
+    , Gene_Set = "Low Expression, Higher Bulk")
+  
+  , data.frame(
+  # Low expressed bias towards scRNAseq
+  # Transcripts > 0.5 M (log ratio) towards pooled scRNAseq and > 0 A (mean
+  # average) (expression > ~1 TPM)
+    Genes = maDF[maDF$Avg < 0 & maDF$Log2Ratio > 0.5, ]
+    , Gene_Set = "Low Expression, Higher Pooled")
+  
+  , data.frame(
+  # High expressed bias towards bulk
+  # Transcripts > 0.5 M (log ratio) towards bulk and > 0 A (mean average)
+  # (expression > ~1 TPM)
+    Genes = maDF[maDF$Avg > 0 & maDF$Log2Ratio < -0.5, ]
+    , Gene_Set = "Higher Expression, Higher Bulk")
+  
+  , data.frame(
+  # How expressed bias towards scRNAseq
+  # Transcripts > 0.5 M (log ratio) towards pooled scRNAseq and > 0 A (mean
+  # average) (expression > ~1 TPM)
+    Genes = maDF[maDF$Avg > 0 & maDF$Log2Ratio > 0.5, ]
+    , Gene_Set = "Higher Expression, Higher Pooled")
+)
+################################################################################
 
-# Added +1 to all counts to prevent Inf values
-maDF <- data.frame(Avg = (0.5*log((mnPdScEx + 1) * (mnBuEx + 1), 2))
-                   , Log2Ratio = log(((mnPdScEx + 1) / (mnBuEx + 1)), 2))
+### Plot Length and GC content for gene subsets
 
-# Low expressed bias towards bulk
-# Transcripts > 0.5 M (log ratio) towards bulk and > 3.5 A (mean average)
-# (expression > ~11 TPM)
-biasLExBuDF <- maDF[maDF$Avg < 3.5 & maDF$Log2Ratio < -0.5, ]
-dim(biasLExBuDF) # 4100
-biasLExBuDF <- merge(biasLExBuDF, lengthGCdF, by.x = "row.names", by.y = "row.names")
-sum(biasLExBuDF$UnionExonLength) / nrow(biasLExBuDF)
-sum(biasLExBuDF$UnionGCcontent, na.rm = TRUE) / nrow(biasLExBuDF)
+# Add length and gc content
+biasDF <- merge(biasDF, lengthGCdF, by.x = "row.names", by.y = "row.names")
 
-# Low expressed bias towards scRNAseq
-# Transcripts > 0.5 M (log ratio) towards pooled scRNAseq and > 3.5 A (mean
-# average) (expression > ~11 TPM)
-biasLExScDF <- maDF[maDF$Avg < 3.5 & maDF$Log2Ratio > 0.5, ]
-dim(biasLExScDF) # 2461
-biasLExScDF <- merge(biasLExScDF, lengthGCdF, by.x = "row.names", by.y = "row.names")
-sum(biasLExScDF$UnionExonLength) / nrow(biasLExScDF)
-sum(biasLExScDF$UnionGCcontent) / nrow(biasLExScDF)
+# Calc means - to add to plot
+meansLength <- aggregate(UnionExonLength ~ Gene_Set, biasDF, mean)
+meansGC <- aggregate(UnionGCcontent ~ Gene_Set, biasDF, mean)
 
-# High expressed bias towards bulk
-# Transcripts > 0.5 M (log ratio) towards bulk and > 3.5 A (mean average)
-# (expression > ~11 TPM)
-biasHExBuDF <- maDF[maDF$Avg > 3.5 & maDF$Log2Ratio < -0.5, ]
-dim(biasHExBuDF) # 4100
-biasHExBuDF <- merge(biasHExBuDF, lengthGCdF, by.x = "row.names", by.y = "row.names")
-sum(biasHExBuDF$UnionExonLength) / nrow(biasHExBuDF)
-sum(biasHExBuDF$UnionGCcontent) / nrow(biasHExBuDF)
+# Calc number of samples - to add to plot
+nSamples <- data.frame(table(biasDF$Gene_Set))
+colnames(nSamples) <- c("Gene_Set", "Number_of_Samples")
 
-# How expressed bias towards scRNAseq
-# Transcripts > 0.5 M (log ratio) towards pooled scRNAseq and > 3.5 A (mean
-# average) (expression > ~11 TPM)
-biasHExScDF <- maDF[maDF$Avg > 3.5 & maDF$Log2Ratio > 0.5, ]
-dim(biasHExScDF) # 2461
-biasHExScDF <- merge(biasHExScDF, lengthGCdF, by.x = "row.names", by.y = "row.names")
-sum(biasHExScDF$UnionExonLength) / nrow(biasHExScDF)
-sum(biasHExScDF$UnionGCcontent) / nrow(biasHExScDF)
 
-boxplot(biasLExBuDF$UnionExonLength, biasLExScDF$UnionExonLength
-        , biasHExBuDF$UnionExonLength, biasHExScDF$UnionExonLength
-        , col = c(2:5), outline = FALSE)
+## Barplot number of samples in each subset
 
-boxplot(biasLExBuDF$UnionGCcontent, biasLExScDF$UnionGCcontent
-        , biasHExBuDF$UnionGCcontent, biasHExScDF$UnionGCcontent
-        , col = c(2:5), outline = FALSE)
+ggplot(nSamples, aes(y = Number_of_Samples, x = Gene_Set, fill = Gene_Set)) +
+  geom_bar(stat = "identity") +
+  theme_bw(base_size = 16) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(legend.position = "none") +
+  xlab("Gene Sets") +
+  ylab("Number of Samples") +
+  ggtitle(paste0("Compare_Bulk_to_scRNAseq.R"
+               , "\nNumber of Genes in Subsets with Biased Expression"))
+ggsave(paste0(outGraph, "Subsets_Numbers.pdf"))
 
-ggDF <- rbind(data.frame(Length = biasLExBuDF$UnionExonLength
-                         , Gene_Set = "Low Expression, Higher Bulk")
-             , data.frame(Length = biasLExScDF$UnionExonLength
-                          , Gene_Set = "Low Expression, Lower Bulk")
-             , data.frame(Length = biasHExBuDF$UnionExonLength
-                          , Gene_Set = "Higher Expression, Higher Bulk")
-             , data.frame(Length = biasHExScDF$UnionExonLength
-                          , Gene_Set = "Higher Expression, Lower Bulk"))
-ggplot(ggDF, aes(y = Length, x = Gene_Set, col = Gene_Set)) +
+
+## Length Bias Plot
+
+ggplot(biasDF, aes(y = UnionExonLength, x = Gene_Set, col = Gene_Set)) +
   geom_boxplot(outlier.shape = NA) +
   # Adjust limits after outlier removal
-  coord_cartesian(ylim = range(boxplot(ggDF$Length, plot = FALSE)$stats) * c(.9, 1.1)) +
+  coord_cartesian(ylim = range(boxplot(biasDF[
+    biasDF$Gene_Set == "Higher Expression, Higher Bulk", ]$UnionExonLength
+    , plot = FALSE)$stats) * c(.9, 1.1)) +
+  geom_text(data = meansLength, aes(label = paste("Mean:", round(UnionExonLength, 2)), y = UnionExonLength)) +
+  geom_text(data = nSamples, aes(label = paste("n =", Number_of_Samples)
+                                 , y = meansLength$UnionExonLength - 200)) +
+  theme_bw(base_size = 16) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(legend.position = "none") +
+  xlab("Gene Sets") +
+  ylab("Length") +
   ggtitle(paste0("Compare_Bulk_to_scRNAseq.R"
-                 , "\nGene Length for Subsets of Genes with Biased Expression"
-                 , "\nP-value Low Expression, Higher Bulk vs Higher Pooled scRNA-seq: ",
-                 signif(t.test(x = biasLExBuDF$UnionExonLength, y = biasLExScDF$UnionExonLength)$p.value, 3)
-                 ,"\nP-value High Expression, Higher Bulk vs Higher Pooled scRNA-seq: ",
-                 signif(t.test(x = biasHExBuDF$UnionExonLength, y = biasHExScDF$UnionExonLength)$p.value, 3)
-))
-###### Add number of genes to graph (n)
-#### Repeat for GC
+    , "\nGene Length for Subsets of Genes with Biased Expression"
+    , "\nP-value: Low Expression, Higher Bulk vs Higher Pooled scRNA-seq: "
+      ,signif(t.test(x = biasDF[biasDF$Gene_Set == "Low Expression, Higher Bulk", ]$UnionExonLength
+      , y = biasDF[biasDF$Gene_Set == "Low Expression, Higher Pooled", ]$UnionExonLength)$p.value, 3)
+    ,"\nP-value: High Expression, Higher Bulk vs Higher Pooled scRNA-seq: "
+      ,signif(t.test(x = biasDF[biasDF$Gene_Set == "Higher Expression, Higher Bulk", ]$UnionExonLength
+      , y = biasDF[biasDF$Gene_Set == "Higher Expression, Higher Pooled", ]$UnionExonLength)$p.value, 3))
+)
+ggsave(paste0(outGraph, "Subsets_Length.pdf"))
+
+
+## GC Bias Plot
+
+# Filter genes with NA GC content (2 genes)
+ggDF <- biasDF[! is.na(biasDF$UnionGCcontent), ]
+
+ggplot(ggDF, aes(y = UnionGCcontent, x = Gene_Set, col = Gene_Set)) +
+  geom_boxplot(outlier.shape = NA) +
+  # Adjust limits after outlier removal
+  coord_cartesian(ylim = range(boxplot(ggDF[
+    ggDF$Gene_Set == "Higher Expression, Higher Bulk", ]$UnionGCcontent
+    , plot = FALSE)$stats) * c(.9, 1.1)) +
+  geom_text(data = meansGC, aes(label = paste("Mean:", round(UnionGCcontent, 2)), y = UnionGCcontent + 0.02)) +
+  geom_text(data = nSamples, aes(label = paste("n =", Number_of_Samples)
+                                 , y = meansGC$UnionGCcontent - 0.02)) +
+  theme_bw(base_size = 16) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  theme(legend.position = "none") +
+  xlab("Gene Sets") +
+  ylab("GC Content") +
+  ggtitle(paste0("Compare_Bulk_to_scRNAseq.R"
+                 , "\nGC Content for Subsets of Genes with Biased Expression"
+                 , "\nP-value: Low Expression, Higher Bulk vs Higher Pooled scRNA-seq: "
+                 ,signif(t.test(x = ggDF[ggDF$Gene_Set == "Low Expression, Higher Bulk", ]$UnionGCcontent
+                                , y = ggDF[ggDF$Gene_Set == "Low Expression, Higher Pooled", ]$UnionGCcontent)$p.value, 3)
+                 ,"\nP-value: High Expression, Higher Bulk vs Higher Pooled scRNA-seq: "
+                 ,signif(t.test(x = ggDF[ggDF$Gene_Set == "Higher Expression, Higher Bulk", ]$UnionGCcontent
+                                , y = ggDF[ggDF$Gene_Set == "Higher Expression, Higher Pooled", ]$UnionGCcontent)$p.value, 3))
+)
+ggsave(paste0(outGraph, "Subsets_GCcontent.pdf"))
+################################################################################
+
+### GO Analysis of subsets of genes
+
+# Format gene names to Ensembl
+fixEnsNamesDF <- biasDF
+fixEnsNamesDF$Row.names <- gsub("\\..*", "", fixEnsNamesDF$Row.names)
+
+# Split dataframe by gene subset
+dfList <- split(fixEnsNamesDF, fixEnsNamesDF$Gene_Set)
+
+
+## Background gene lists
+
+# All genes
+# Format background gene list names
+bgListAll <- gsub("\\..*", "", names(mnPdScEx))
+
+# High expressed
+# > 0 A (mean average) (expression > ~1 TPM)
+bgListHigh <- row.names(maDF)[maDF$Avg > 0]
+# Format background gene list names
+bgListHigh <- gsub("\\..*", "", names(mnPdScEx))
+
+# Low expressed
+# < 0 A (mean average) (expression > ~1 TPM)
+bgListLow <- row.names(maDF)[maDF$Avg < 0]
+# Format background gene list names
+bgListLow <- gsub("\\..*", "", names(mnPdScEx))
+
+
+## Write out tables of genes for each subset
+
+write.table(data.frame(
+  ensembl_gene_id = dfList$"Low Expression, Higher Bulk"$Row.names
+    , systemCode = "En")
+  , file = paste(outGenesListDir, "/lists/LowExpr_HigherBulk.txt", sep = "")
+  , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+write.table(data.frame(
+  ensembl_gene_id = dfList$"Low Expression, Higher Pooled"$Row.names, systemCode = "En")
+            , file = paste(outGenesListDir, "/lists/LowExpr_HigherPooled.txt", sep = "")
+            , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+write.table(data.frame(
+  ensembl_gene_id = dfList$"Higher Expression, Higher Bulk"$Row.names
+    , systemCode = "En")
+  , file = paste(outGenesListDir, "/lists/HighExpr_HigherBulk.txt", sep = "")
+  , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+write.table(data.frame(
+  ensembl_gene_id = dfList$"Higher Expression, Higher Pooled"$Row.names
+    , systemCode = "En")
+  , file = paste(outGenesListDir, "/lists/HighExpr_HigherPooled.txt", sep = "")
+  , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+
+# Write out table of all genes (for background)
+write.table(data.frame(ensembl_gene_id = bgListAll, systemCode = "En")
+            , file = paste(outGenesListDir, "/Background/background.txt", sep = "")
+            , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+# Write out table of high expressed genes (for background)
+write.table(data.frame(ensembl_gene_id = bgListHigh, systemCode = "En")
+            , file = paste(outGenesListDir, "/Background_HighExpr/background.txt", sep = "")
+            , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+# Write out table of low expressed genes (for background)
+write.table(data.frame(ensembl_gene_id = bgListLow, systemCode = "En")
+            , file = paste(outGenesListDir, "/Background_LowExpr/background.txt", sep = "")
+            , row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t"
+)
+
+
+## RUN GO ELITE ##
+
+## Plotting the GO Output
+
+Make_GO_Elite_File_List <- function (filesDir) {
+  goEliteFiles <- list.files(filesDir)
+  idx <- grep(".*GO_z-score_elite.txt", goEliteFiles)
+  goEliteFiles <- goEliteFiles[idx]
+  head(read.csv(file = paste0(goElitePath, goEliteFiles[1]), sep = "\t"))$Ontology.Type
+  goEliteFiles
+}
+
+Plot_GO_Elite_Results <- function (goEliteFileNamesL) {
+  for(i in 1:length(goEliteFileNamesL)){
+    thismod = goEliteFileNamesL[i]
+    nameThisMod = goEliteFileNamesL[i]
+    print(nameThisMod)
+    tmp = read.csv(file = paste0(goElitePath, goEliteFileNamesL[i]), sep = "\t")
+    # Loop through ontology types
+    lapply(unique(tmp$Ontology.Type), function(GOtype) {
+      tmp = subset(tmp, Ontology.Type==GOtype)
+      tmp = tmp[ ,c(2,4,9)] ## Select GO-terms and Z-score
+      tmp = tmp[order(tmp$Z.Score, decreasing = TRUE), ] #
+      tmp = tmp[which(tmp[ ,2] >= 1), ]
+      
+      if (nrow(tmp) == 0){
+        print(paste("No enriched GO-terms for:", nameThisMod))
+        next
+      } else if (nrow(tmp) < 10) {
+        tmp1 = tmp ## Take top 10 Z-score
+        tmp1 = tmp1[order(tmp1$Z.Score),] ##Re-arrange by increasing Z-score
+        par(mar=c(4,22,4,4))
+        barplot(tmp1$Z.Score, horiz = TRUE, col = "blue"
+                , names.arg = tmp1$Ontology.Name, cex.names=1.2, las=1
+                , main = paste("Gene Ontology Plot of", GOtype
+                               , "\n", thismod)
+                , xlab = "Z-Score")
+        abline(v=2,col="red")
+        next
+      } else {
+        tmp1 = tmp[c(1:20), ] ## Take top 10 Z-score
+      }
+      tmp1 = tmp1[order(tmp1$Z.Score), ] ##Re-arrange by increasing Z-score
+      par(mar = c(4, 22, 4, 4))
+      barplot(tmp1$Z.Score, horiz = TRUE, col = "blue"
+              , names.arg = tmp1$Ontology.Name
+              , cex.names = 1.2, las = 1
+              , main = paste("Gene Ontology Plot of", GOtype
+                             , "\n", thismod)
+              , xlab = "Z-Score")
+      abline(v = 2, col = "red")
+      cat('Done ...', thismod, GOtype, '\n')
+    })
+  }
+}
+
+# Using all genes as background
+goEliteFileList <- Make_GO_Elite_File_List("../analysis/GO_enrichment/Subsets_MAplot_0.5_-0.5_0/GO_Elite_Output/GO-Elite_results/CompleteResults/ORA_pruned/")
+pdf("../analysis/graphs/GO_Elite.pdf", height = 6, width = 8)
+Plot_GO_Elite_Results(goEliteFileList)
+dev.off()
+
+# Using high expressed genes as background for high expresse
+goEliteFileList <- Make_GO_Elite_File_List("../analysis/GO_enrichment/Subsets_MAplot_0.5_-0.5_0/GO_Elite_Output_HighExpr/GO-Elite_results/CompleteResults/ORA_pruned/")
+pdf("../analysis/graphs/GO_Elite_HighExpr.pdf", height = 6, width = 8)
+Plot_GO_Elite_Results(goEliteFileList)
+dev.off()
+
+# Using low expressed genes as background for low expressed
+goEliteFileList <- Make_GO_Elite_File_List("../analysis/GO_enrichment/Subsets_MAplot_0.5_-0.5_0/GO_Elite_Output_LowExpr/GO-Elite_results/CompleteResults/ORA_pruned/")
+pdf("../analysis/graphs/GO_Elite_LowExpr.pdf", height = 6, width = 8)
+Plot_GO_Elite_Results(goEliteFileList)
+dev.off()
+
+
+
+
+
+
+uniquemodcolors = unique(colors)
+uniquemodcolors = uniquemodcolors[-which(uniquemodcolors=="grey")]
+
+pdf(outGOgraphs, height = 6, width = 8)
+
+for(i in 1:length(uniquemodcolors)){
+  thismod= uniquemodcolors[i]
+  nameThisMod = paste("MM",uniquemodcolors[i],sep="")
+  print(nameThisMod)
+  tmp=read.csv(file = paste(outModsLists
+                            , "/GO-Elite_results/CompleteResults/ORA/"
+                            , nameThisMod, "-GO_z-score_elite.txt", sep = "")
+               , sep = "\t")
+  tmp=subset(tmp,Ontology.Type=="biological_process")
+  tmp=tmp[,c(2,4,9)] ## Select GO-terms and Z-score
+  tmp=tmp[order(tmp$Z.Score,decreasing=T),] #
+  tmp=tmp[which(tmp[,2] >= 1),]
+  
+  if (nrow(tmp) == 0){
+    print(paste("No enriched GO-terms for:", nameThisMod))
+    next
+  } else if (nrow(tmp)<10) {
+    tmp1=tmp ## Take top 10 Z-score
+    tmp1 = tmp1[order(tmp1$Z.Score),] ##Re-arrange by increasing Z-score
+    par(mar=c(4,22,4,4))
+    barplot(tmp1$Z.Score,horiz=T,col="blue",names.arg= tmp1$Ontology.Name,cex.names=1.2,las=1,main=paste("Gene Ontology Plot of",thismod,"Module"),xlab="Z-Score")
+    abline(v=2,col="red")
+    next
+  } else {
+    tmp1=tmp[c(1:10),] ## Take top 10 Z-score
+  }
+  tmp1 = tmp1[order(tmp1$Z.Score),] ##Re-arrange by increasing Z-score
+  par(mar=c(4,22,4,4))
+  barplot(tmp1$Z.Score,horiz=T,col="blue",names.arg= tmp1$Ontology.Name,cex.names=1.2,las=1,main=paste("Gene Ontology Plot of",thismod,"Module"),xlab="Z-Score")
+  abline(v=2,col="red")
+  
+  cat('Done ...',thismod,'\n')
+}
+
+dev.off()
