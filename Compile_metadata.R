@@ -111,7 +111,6 @@ metDatDF <- merge(x = metDatDF, y = batchIDdF,
 
 row.names(avgLengthDF) <- gsub("_e.*", "", row.names(avgLengthDF))
 avgLengthDF$CellID <- gsub("_e.*", "", row.names(avgLengthDF))
-avgLengthDF <- avgLengthDF[2:(nrow(avgLengthDF)-1), ]
 metDatDF <- merge(x = metDatDF, y = avgLengthDF, by.x = "CellID", by.y = "CellID")
 
 ##
@@ -119,7 +118,6 @@ metDatDF <- merge(x = metDatDF, y = avgLengthDF, by.x = "CellID", by.y = "CellID
 
 row.names(avgGCdF) <- gsub("_e.*", "", row.names(avgGCdF))
 avgGCdF$CellID <- gsub("_e.*", "", row.names(avgGCdF))
-avgGCdF <- avgGCdF[2:(nrow(avgGCdF)-1), ]
 metDatDF <- merge(x = metDatDF, y = avgGCdF, by.x = "CellID", by.y = "CellID")
 
 ##
