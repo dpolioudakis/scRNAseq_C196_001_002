@@ -1,5 +1,5 @@
 # Damon Polioudakis
-# 2016-02-10
+# 2016-03-17
 # Compare variance between groups of pooled scRNAseq
 
 ################################################################################
@@ -22,8 +22,8 @@ picStatsScDF <- read.csv("../metadata/PicardToolsQC.csv")
 
 ## Variables
 
-graphCodeTitle <- "Compare_Bulk_to_scRNAseq.R"
-outGraph <- "../analysis/graphs/Compare_Bulk_to_scRNAseq_"
+graphCodeTitle <- "Compare_Variance_Between_Pooled_Groups.R"
+outGraph <- "../analysis/graphs/Compare_Variance_Between_Pooled_Groups_"
 
 ################################################################################
 
@@ -53,33 +53,75 @@ rndmGroups <- split(rNums, ceiling(seq_along(rNums) / (length(rNums) / 2)))
 pScExDF <- data.frame(lapply(rndmGroups
                              , function (group) {apply(ftScExDatDF[ ,group], 1, sum)}))
 head(pScExDF, 20)
+pScIDs <- lapply(rndmGroups
+                 , function (group) colnames(ftScExDatDF)[group])
 dim(pScExDF)
 
 
 ## Read depth normalize
 
 # Read depth normalize pooled scRNAseq
-rDep <- (apply(pScExDF, 2, sum) / 10^6)
-pScRdnExDatDF <- pScExDF / rDep
-head(pScRdnExDatDF)
+sel <- lapply(pScIDs, function(group) picStatsScDF$X %in% group)
+splitStats <- lapply(sel, function(group) picStatsScDF[group, ])
+mappedReads <- sapply(splitStats, function(group) sum(as.numeric(group$PF_READS_ALIGNED)))
+pScTpmExDatDF <- pScExDF / (mappedReads / 10^6)
 ################################################################################
 
+## Plot Pool 1 vs Pool 2 TPM
 
-# Spearman correlation
-sprCor <- round(cor(pScRdnExDatDF$X1, pScRdnExDatDF$X2, method = "spearman"), 2)
+# Pearson correlation
+peaCor <- round(cor(pScTpmExDatDF$X1, pScTpmExDatDF$X2, method = "pearson"), 2)
 
 # Format for ggplot2
-ggDF <- data.frame(Pool1 = log(pScRdnExDatDF$X1 + 1, 2)
-                   , Pool2 = log(pScRdnExDatDF$X2 + 1, 2))
+ggDF <- data.frame(Pool1 = log(pScTpmExDatDF$X1 + 1, 2)
+                   , Pool2 = log(pScTpmExDatDF$X2 + 1, 2))
 
 ggplot(ggDF, aes(x = Pool1, y = Pool2)) +
   geom_point(alpha = 0.5, shape = 1) +
   stat_smooth() +
   theme_bw(base_size = 18) +
-  ylab("Bulk: log2(Mean TPM + 1)") +
-  xlab("Pooled: log2(Mean TPM + 1)") +
+  ylab("Pool 2: log2(Mean TPM + 1)") +
+  xlab("Pool 1: log2(Mean TPM + 1)") +
   ggtitle(paste0(graphCodeTitle
-                 , "\nFive Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
-                 , "\nMean of TPM across samples"
-                 , "\nSpearman correlation: ", sprCor))
-ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_log2p1.pdf"))
+                 , "\nHuman Fetal Brain VZ and CP"
+                 , "\nscRNAseq Split Into Two Groups and Pooled"
+                 , "\nPearson correlation: ", peaCor))
+ggsave(paste0(outGraph, "Pool1_Vs_2_TPM_log2p1.pdf"))
+
+
+## Split Pool 1 TPM into 10 even ranges from max to min TPM and calculate
+## correlation between Pool 1 and Pool 2 for that range of TPM values
+
+df <- data.frame(Lg2Exp = log(pScTpmExDatDF + 1, 2))
+
+splits <- seq(0, range(df$Lg2Exp.X1)[2], length.out = 11)
+
+df$split <- with(df, cut(Lg2Exp.X1, 
+                            breaks = splits, 
+                            include.lowest = TRUE))
+splitDF <- split(df, df$split)
+
+# Pearson correlation for each range
+pcorDF <- data.frame(sapply(splitDF, function(subgroup) cor(subgroup$Lg2Exp.X1
+                                                        , subgroup$Lg2Exp.X2)))
+colnames(pcorDF) <- "Pearson_Correlation"
+
+# Number of genes with TPM for Pool 1 that falls in range
+nGenes <- data.frame(Number_of_Genes = sapply(splitDF, nrow))
+
+# Plot pearson correlation for each range
+# Set factor to set order on x-axis
+ggplot(pcorDF, aes(x = factor(row.names(pcorDF), levels = row.names(pcorDF))
+                   , y =  Pearson_Correlation)) +
+  geom_bar(stat = "identity") +
+  geom_text(data = nGenes, aes(label = paste("n =", Number_of_Genes)
+                                 , y = pcorDF$Pearson_Correlation + 0.05)) +
+  theme_bw(base_size = 18) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  xlab("TPM ranges") +
+  ylab("Pearson Correlation Between Pool 1 and Pool 2") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nHuman Fetal Brain VZ and CP"
+                 , "\nscRNAseq Split Into Two Groups and Pooled"
+                 , "\nPearson Correlation Between Pool 1 and Pool 2"))
+ggsave(paste0(outGraph, "Ranges_PearCor_TPM_log2p1.pdf"))
