@@ -35,8 +35,8 @@ rm(ENSEMBLhg19.70UnionAnno)
 
 ## Variables
 
-graphCodeTitle <- "Compare_Bulk_to_scRNAseq.R"
-outGraph <- "../analysis/graphs/Compare_Bulk_to_scRNAseq_"
+graphCodeTitle <- "Plot_Bulk_Vs_Pooled_scRNAseq.R"
+outGraph <- "../analysis/graphs/Plot_Bulk_Vs_Pooled_scRNAseq_"
 
 ################################################################################
 
@@ -206,20 +206,20 @@ ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_median_log2p1.pdf"))
 
 ## MA Plot TPM (mapped reads)
 
-# Added +1 to all counts to prevent Inf values
-ggDF <- data.frame(Avg = (0.5*log((mnPdScEx + 1) * (mnBuEx + 1), 2))
-                   , Log2Ratio = log(((mnPdScEx + 1) / (mnBuEx + 1)), 2))
+# Added + 0.01 to all counts to prevent Inf values
+ggDF <- data.frame(Avg = (0.5*log((mnPdScEx + 0.01) * (mnBuEx + 0.01), 2))
+                   , Log2Ratio = log(((mnPdScEx + 0.01) / (mnBuEx + 0.01)), 2))
 
 head(ggDF)
 ggplot(ggDF, aes(x = Avg, y = Log2Ratio)) +
   geom_point(shape = 1, alpha = 0.5) +
   stat_smooth() +
-  geom_vline(xintercept = 3.5) +
-  geom_hline(yintercept = -0.5) +
-  geom_hline(yintercept = 0.5) +
+  geom_vline(xintercept = 0, col = "red") +
+  geom_hline(yintercept = -0.5, col = "red") +
+  geom_hline(yintercept = 0.5, col = "red") +
   theme_bw(base_size = 14) +
-  xlab("0.5*log2((Mean Pools TPM + 1) * (Mean Bulk TPM + 1))") +
-  ylab("log2((Mean Pools TPM + 1) / (Mean Bulk TPM + 1))") +
+  xlab("0.5*log2((Mean Pools TPM + 0.01) * (Mean Bulk TPM + 0.01))") +
+  ylab("log2((Mean Pools TPM + 0.01) / (Mean Bulk TPM + 0.01))") +
   ggtitle(paste0(graphCodeTitle
                  , "\nMA Plot: Five Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
                  , "\nMean of TPM across samples"))
@@ -249,20 +249,20 @@ ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_MAPlot_AG3.5_TPM_mean_p1.pdf"))
 
 ## MA Plot: TPM (Mapped to Exons)
 
-# Added +1 to all counts to prevent Inf values
-ggDF <- data.frame(Avg = (0.5*log((mnPdScTpmExonEx + 1) * (mnBuTpmExonEx + 1), 2))
-                   , Log2Ratio = log(((mnPdScTpmExonEx + 1) / (mnBuTpmExonEx + 1)), 2))
+# Added + 0.01 to all counts to prevent Inf values
+ggDF <- data.frame(Avg = (0.5*log((mnPdScTpmExonEx + 0.01) * (mnBuTpmExonEx + 0.01), 2))
+                   , Log2Ratio = log(((mnPdScTpmExonEx + 0.01) / (mnBuTpmExonEx + 0.01)), 2))
 
 head(ggDF)
 ggplot(ggDF, aes(x = Avg, y = Log2Ratio)) +
   geom_point(shape = 1, alpha = 0.5) +
   stat_smooth() +
-  geom_vline(xintercept = 3.5) +
-  geom_hline(yintercept = -0.5) +
-  geom_hline(yintercept = 0.5) +
+  geom_vline(xintercept = 0, col = "red") +
+  geom_hline(yintercept = -0.5, col = "red") +
+  geom_hline(yintercept = 0.5, col = "red") +
   theme_bw(base_size = 14) +
-  xlab("0.5*log2((Mean Pools TPM + 1) * (Mean Bulk TPM + 1))") +
-  ylab("log2((Mean Pools TPM + 1) / (Mean Bulk TPM + 1))") +
+  xlab("0.5*log2((Mean Pools TPM + 0.01) * (Mean Bulk TPM + 0.01))") +
+  ylab("log2((Mean Pools TPM + 0.01) / (Mean Bulk TPM + 0.01))") +
   ggtitle(paste0(graphCodeTitle
                  , "\nMA Plot: Five Pools scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
                  , "\nMean of TPM (read depth normalized by number mapped to exons) across samples"))
