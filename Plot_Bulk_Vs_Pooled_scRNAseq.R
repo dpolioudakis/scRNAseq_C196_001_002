@@ -270,31 +270,20 @@ ggsave(paste0(outGraph, "Bulk_vs_Pools_TPM_MAPlot_TPMexon_mean_p1.pdf"))
 
 # stat_smooth(method = lm)
 # + coord_cartesian(xlim = c(0, 500000), ylim = c(0, 2500))
-
-
-
-# Standard deviation for bulk RNAseq
-sdBuEx <- apply(buTpmExDatDF, 1, sd)
 ################################################################################
 
+### CoV versus TPM
 
-###### Artifactual looking points at top of ScCov are most likely due to 4 of the
+# Artifactual looking points at top of ScCov are most likely due to 4 of the
 # pooled groups having 0 counts and 1 group having 1 count, not sure what the
 # 1 normalizes to after TPM, but that math should carry through
 
-
+## TPM
 rDep <- (apply(ftScExDatDF, 2, sum) / 10^6)
 scRdnExDatDF <- ftScExDatDF / rDep
 
 
-
-Coef_Of_Var <- function(x) {
-  sd(x) / mean(x)
-}
-
-buCov <- apply(buTpmExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
-pdScCov <- apply(pScTpmExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
-scCov <- apply(scRdnExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
+## Mean counts
 
 # Mean counts for bulk RNAseq
 mnBuEx <- apply(buTpmExDatDF, 1, mean)
@@ -308,12 +297,112 @@ lg2mnPdScEx <- log(mnPdScEx, 2)
 mnScEx <- apply(scRdnExDatDF, 1, mean)
 lg2mnScEx <- log(mnScEx, 2)
 
-plot(lg2mnBuEx, buCov)
 
-sel <- ! is.na(pdScCov)
-pdScCov <- pdScCov[sel]
-lg2mnPdScEx <- lg2mnPdScEx[sel]
-plot(lg2mnPdScEx, pdScCov)
+## CoV
+
+Coef_Of_Var <- function(x) {
+  sd(x) / mean(x)
+}
+
+buCov <- apply(buTpmExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
+pdScCov <- apply(pScTpmExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
+scCov <- apply(scRdnExDatDF, 1, function(tpm) Coef_Of_Var(tpm))
 
 
-plot(lg2mnScEx, scCov)
+## Plot Bulk CoV vs TPM
+ggDF <- data.frame(CoV = buCov, Mean_lg2TPM = lg2mnBuEx)
+nMisVals <- table(is.na(ggDF$CoV))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs CoV: Bulk RNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after CoV calculation: "
+                  , nMisVals[2], " out of ", nMisVals[1], " genes"))
+ggsave(paste0(outGraph, "CoV_Bulk_TPM.pdf"))
+
+
+## Plot pooled scRNAseq CoV vs TPM
+ggDF <- data.frame(CoV = pdScCov, Mean_lg2TPM = lg2mnPdScEx)
+nMisVals <- table(is.na(ggDF$CoV))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs CoV: Pooled scRNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after CoV calculation: "
+                 , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+ggsave(paste0(outGraph, "CoV_pooledSc_TPM.pdf"))
+
+
+## Plot scRNAseq CoV vs TPM
+ggDF <- data.frame(CoV = scCov, Mean_lg2TPM = lg2mnScEx)
+nMisVals <- table(is.na(ggDF$CoV))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs CoV: scRNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after CoV calculation: "
+                 , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+ggsave(paste0(outGraph, "CoV_scRNAseq_TPM.pdf"))
+
+
+
+
+
+
+
+## Median absolute deviation / median rather than coefficient of variation
+# The steps to find the MAD include:
+# 1. find the mean (average)
+# 2. find the difference between each data value and the mean
+# 3. take the absolute value of each difference
+# 4. find the mean (average) of these differences
+MADmedian <- function(x) {
+  tmp <- sapply(x, function(tpm) abs(tpm - median(x)))
+  median(tmp) / median(x)
+}
+buMADm <- apply(buTpmExDatDF, 1, function(tpm) MADmedian(tpm))
+pdScMADm <- apply(pScTpmExDatDF, 1, function(tpm) MADmedian(tpm))
+scMADm <- apply(scRdnExDatDF, 1, function(tpm) MADmedian(tpm))
+# High number of 0 values results from MAD frequently having same value as median
+
+# Median counts for bulk RNAseq
+mdBuEx <- apply(buTpmExDatDF, 1, median)
+lg2mdBuEx <- log(mdBuEx, 2)
+
+# Median counts for pooled scRNAseq groups
+mdPdScEx <- apply(pScTpmExDatDF, 1, median)
+lg2mdPdScEx <- log(mdPdScEx, 2)
+
+# Median counts for scRNAseq
+mdScEx <- apply(scRdnExDatDF, 1, median)
+lg2mdScEx <- log(mdScEx, 2)
+
+plot(lg2mdBuEx, buMADm)
+plot(lg2mdPdScEx, pdScMADm)
+plot(lg2mdScEx, scMADm)
+
+sel <- ! is.na(pdScMADm)
+pdScMADm <- pdScMADm[sel]
+lg2mdPdScEx <- lg2mdPdScEx[sel]
+plot(lg2mdPdScEx, pdScMADm)
+
+sel <- ! is.na(scMADm)
+scMADm <- scMADm[sel]
+lg2mdScEx <- lg2mdScEx[sel]
+plot(lg2mdScEx, scMADm)
+
+
+ggDF <- data.frame(CoV = buCov, Mean_lg2TPM = lg2mnBuEx)
+ggDF <- ggDF[ggDF$Mean_lg2TPM > 0, ]
