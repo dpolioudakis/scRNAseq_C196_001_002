@@ -321,7 +321,7 @@ ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
                  , "\nlog2 TPM vs CoV: Bulk RNAseq - Human Fetal Brain VZ and CP"
                  , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
                  , "\nNAs removed after CoV calculation: "
-                  , nMisVals[2], " out of ", nMisVals[1], " genes"))
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
 ggsave(paste0(outGraph, "CoV_Bulk_TPM.pdf"))
 
 
@@ -337,7 +337,7 @@ ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
                  , "\nlog2 TPM vs CoV: Pooled scRNAseq - Human Fetal Brain VZ and CP"
                  , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
                  , "\nNAs removed after CoV calculation: "
-                 , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
 ggsave(paste0(outGraph, "CoV_pooledSc_TPM.pdf"))
 
 
@@ -353,21 +353,19 @@ ggplot(ggDF, aes(x = Mean_lg2TPM, y = CoV)) +
                  , "\nlog2 TPM vs CoV: scRNAseq - Human Fetal Brain VZ and CP"
                  , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
                  , "\nNAs removed after CoV calculation: "
-                 , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
 ggsave(paste0(outGraph, "CoV_scRNAseq_TPM.pdf"))
 
 
+### Median absolute deviation / median rather than coefficient of variation
 
-
-
-
-
-## Median absolute deviation / median rather than coefficient of variation
 # The steps to find the MAD include:
 # 1. find the mean (average)
 # 2. find the difference between each data value and the mean
 # 3. take the absolute value of each difference
 # 4. find the mean (average) of these differences
+
+## MAD / median
 MADmedian <- function(x) {
   tmp <- sapply(x, function(tpm) abs(tpm - median(x)))
   median(tmp) / median(x)
@@ -377,32 +375,50 @@ pdScMADm <- apply(pScTpmExDatDF, 1, function(tpm) MADmedian(tpm))
 scMADm <- apply(scRdnExDatDF, 1, function(tpm) MADmedian(tpm))
 # High number of 0 values results from MAD frequently having same value as median
 
-# Median counts for bulk RNAseq
-mdBuEx <- apply(buTpmExDatDF, 1, median)
-lg2mdBuEx <- log(mdBuEx, 2)
 
-# Median counts for pooled scRNAseq groups
-mdPdScEx <- apply(pScTpmExDatDF, 1, median)
-lg2mdPdScEx <- log(mdPdScEx, 2)
-
-# Median counts for scRNAseq
-mdScEx <- apply(scRdnExDatDF, 1, median)
-lg2mdScEx <- log(mdScEx, 2)
-
-plot(lg2mdBuEx, buMADm)
-plot(lg2mdPdScEx, pdScMADm)
-plot(lg2mdScEx, scMADm)
-
-sel <- ! is.na(pdScMADm)
-pdScMADm <- pdScMADm[sel]
-lg2mdPdScEx <- lg2mdPdScEx[sel]
-plot(lg2mdPdScEx, pdScMADm)
-
-sel <- ! is.na(scMADm)
-scMADm <- scMADm[sel]
-lg2mdScEx <- lg2mdScEx[sel]
-plot(lg2mdScEx, scMADm)
+## Plot Bulk MAD/median vs TPM
+ggDF <- data.frame(MADmedian = buMADm, Mean_lg2TPM = lg2mnBuEx)
+nMisVals <- table(is.na(ggDF$MADmedian))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = MADmedian)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs MAD / median: Bulk RNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after MAD / median calculation: "
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+ggsave(paste0(outGraph, "MADmedian_Bulk_TPM.pdf"))
 
 
-ggDF <- data.frame(CoV = buCov, Mean_lg2TPM = lg2mnBuEx)
-ggDF <- ggDF[ggDF$Mean_lg2TPM > 0, ]
+## Plot pooled scRNAseq MAD/median vs TPM
+ggDF <- data.frame(MADmedian = pdScCov, Mean_lg2TPM = lg2mnPdScEx)
+nMisVals <- table(is.na(ggDF$MADmedian))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = MADmedian)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs MAD / median: Pooled scRNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after MAD / median calculation: "
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+ggsave(paste0(outGraph, "MADmedian_pooledSc_TPM.pdf"))
+
+
+## Plot scRNAseq MAD/median vs TPM
+ggDF <- data.frame(MADmedian = scCov, Mean_lg2TPM = lg2mnScEx)
+nMisVals <- table(is.na(ggDF$MADmedian))
+ggplot(ggDF, aes(x = Mean_lg2TPM, y = MADmedian)) +
+  geom_point(shape = 1, alpha = 0.25) +
+  theme_bw(base_size = 14) +
+  xlab("Mean log2 TPM") +
+  ylab("Coefficient of Variation of TPM") +
+  ggtitle(paste0(graphCodeTitle
+                 , "\nlog2 TPM vs MAD / median: scRNAseq - Human Fetal Brain VZ and CP"
+                 , "\nMean of TPM across samples (TPM: normalized by number mapped reads)"
+                 , "\nNAs removed after MAD / median calculation: "
+                  , nMisVals[2], " out of ", sum(nMisVals[1:2]), " genes"))
+ggsave(paste0(outGraph, "MADmedian_scRNAseq_TPM.pdf"))
