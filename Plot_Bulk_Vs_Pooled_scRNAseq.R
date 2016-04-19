@@ -83,7 +83,7 @@ ggplot(ggDF, aes(x = Pooled, y = Bulk)) +
   geom_point(alpha = 0.5, shape = 1) +
   theme_bw(base_size = 18) +
   ylab("Bulk: log2(Mean Counts + 1)") +
-  xlab("Pooled: log2(Mean Counts + 1)") +
+  xlab("Pooled: log2(Counts + 1)") +
   ggtitle(paste0(graphCodeTitle
                  , "\nPooled scRNAseq vs Bulk RNAseq - Human Fetal Brain VZ and CP"
                  , "\n Mean of counts across samples"
