@@ -47,12 +47,16 @@ dupDF <- read.table("../data/QC/merged/duplication_stats.txt", fill = TRUE)
 pctHq <- picAlign[,"PF_HQ_ALIGNED_BASES"]/picAlign[,"PF_ALIGNED_BASES"]
 
 pdf("../analysis/graphs/Plot_QC_Percent_Location.pdf")
-boxplot(cbind(pctHq, picSeq[,c(15,11:14)]), ylab = "Percent of Bases"
+boxplot(cbind(pctHq, picSeq[,c(14, 10:13)]), ylab = "Percent of Bases"
         , main = "Plot_and_Compile_QC_Stats.R
-RNA-seq QC metrics across samples"
-        , names = c("High\nQuality", "mRNA\nBases", "Protein\nCoding"
-                    , "Untranslated\nRegion", "Intronic\nRegion"
-                    , "Intergenic\nRegion"), ylim = c(0, 1))
+        RNA-seq QC metrics across samples"
+        , names = c("High\nQuality"
+                    , "mRNA\nBases"
+                    , "Protein\nCoding"
+                    , "Untranslated\nRegion"
+                    , "Intronic\nRegion"
+                    , "Intergenic\nRegion")
+        , ylim = c(0, 1))
 dev.off()
 ################################################################################
 
@@ -65,6 +69,8 @@ ggDF <- melt(ggDF)
 
 ggplot(ggDF, aes(x = variable, y = value, col = variable)) +
   geom_boxplot(aes()) +
+  # Adjust limits after outlier removal
+  coord_cartesian(ylim = range(boxplot(ggDF[ggDF$variable == "Total", ]$value, plot = FALSE)$stats) * c(.9, 1.1)) +
   theme_bw(base_size = 18) +
   guides(col = FALSE) +
   ylab("Number of Fragments Aligned") +
@@ -133,37 +139,47 @@ lines(x=as.numeric(colnames(gc.coverage.quant)),y=gc.qual.quant[3,],col="grey")
 plot(density(x=as.numeric(colnames(gc.coverage.quant)),y=gc.bins.quant),xlab="%GC content",ylab="Proportion of 100bp bins",pch=19,ylim=c(0,max(gc.bins.quant)+0.01),main="Proportion of bins corresponding to each GC percentile")
 ################################################################################
 
-# Duplication Metrics
+### Duplication Metrics
 
-# Percent Duplicate
+## Percent Duplicate for all capture sites
 
-ggDF <- data.frame(PERCENT_DUPLICATION = dupDF$PERCENT_DUPLICATION
-                  , SAMPLE = rownames(dupDF))
+# For Single End RNAseq
+ggDF <- data.frame(PERCENT_DUPLICATION = dupDF$PERCENT_DUPLICATION * 100
+                   , SAMPLE = rownames(dupDF))
+# Order by percent duplication
+ggDF <- ggDF[order(ggDF$PERCENT_DUPLICATION), ]
+ggDF$SAMPLE <- factor(ggDF$SAMPLE, levels = ggDF$SAMPLE)
+mPctDup <- mean(ggDF$PERCENT_DUPLICATION)
 
 ggplot(ggDF, aes(x = SAMPLE, y = PERCENT_DUPLICATION)) +
   geom_bar(stat = "identity") +
   theme_bw(base_size = 16) +
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(axis.ticks = element_blank(), axis.text.x = element_blank()) +
   ylab("Percentage Duplication") +
   xlab("Samples") +
-  ggtitle("Plot_and_Compile_QC_Stats.R
-Percentage of Mapped Sequence Marked as Duplicate")
+  ggtitle(paste0("Plot_and_Compile_QC_Stats.R"
+                 , "\nPercentage of Mapped Sequence Marked as Duplicate"
+                 , "\nMean Percent Duplicate: ", mPctDup))
 ggsave("../analysis/graphs/Plot_QC_Percent_Duplication.pdf")
 
-# Percent of duplicates that are optical duplicates
+## Percent of duplicates that are optical duplicates
 
 ggDF <- data.frame(SAMPLE = rownames(dupDF)
-  , PERCENT_OPTICAL_DUPLICATES = dupDF$READ_PAIR_OPTICAL_DUPLICATES
-  / dupDF$READ_PAIR_DUPLICATES)
+                   , PERCENT_OPTICAL_DUPLICATES = dupDF$READ_PAIR_OPTICAL_DUPLICATES
+                   / dupDF$READ_PAIR_DUPLICATES * 100)
+ggDF <- ggDF[order(ggDF$PERCENT_OPTICAL_DUPLICATES), ]
+ggDF$SAMPLE <- factor(ggDF$SAMPLE, levels = ggDF$SAMPLE)
+mPctDup <- mean(ggDF$PERCENT_OPTICAL_DUPLICATES, na.rm = TRUE)
 
 ggplot(ggDF, aes(x = SAMPLE, y = PERCENT_OPTICAL_DUPLICATES)) +
   geom_bar(stat = "identity") +
   theme_bw(base_size = 16) +
-  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(axis.ticks = element_blank(), axis.text.x = element_blank()) +
   ylab("Percent Optical Duplicates") +
   xlab("Samples") +
-  ggtitle("Plot_and_Compile_QC_Stats.R
-Percentage of Duplicates that are Optical Duplicates")
+  ggtitle(paste0("Plot_and_Compile_QC_Stats.R"
+                 , "\nPercentage of Duplicates that are Optical Duplicates:"
+                 , "\nMean Percent Duplicate: ", mPctDup))
 ggsave("../analysis/graphs/Plot_QC_Percent_Optical.pdf")
 ################################################################################
 
