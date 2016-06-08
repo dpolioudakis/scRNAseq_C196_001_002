@@ -39,7 +39,8 @@ gcBiasDF <- read.table("../data/QC/merged/gcbias_summary.txt", header = TRUE)
 
 # duplication_stats.txt
 # Add NA to blanks
-dupDF <- read.table("../data/QC/merged/duplication_stats.txt", fill = TRUE)
+dupL1DF <- read.table("../data/QC/SxaQSEQsXap089L2/duplication_stats.txt", fill = TRUE)
+dupL2DF <- read.table("../data/QC/SxaQSEQsXbp060L2/duplication_stats.txt", fill = TRUE)
 ################################################################################
 
 # RNAseq Percentage of Bases Aligned by Location
@@ -143,9 +144,12 @@ plot(density(x=as.numeric(colnames(gc.coverage.quant)),y=gc.bins.quant),xlab="%G
 
 ## Percent Duplicate for all capture sites
 
+# Mean of both lanes
+dup <- rowMeans(cbind(dupL1DF$PERCENT_DUPLICATION, dupL2DF$PERCENT_DUPLICATION)) * 100
+
 # For Single End RNAseq
-ggDF <- data.frame(PERCENT_DUPLICATION = dupDF$PERCENT_DUPLICATION * 100
-                   , SAMPLE = rownames(dupDF))
+ggDF <- data.frame(PERCENT_DUPLICATION = dup
+                   , SAMPLE = rownames(dupL1DF))
 # Order by percent duplication
 ggDF <- ggDF[order(ggDF$PERCENT_DUPLICATION), ]
 ggDF$SAMPLE <- factor(ggDF$SAMPLE, levels = ggDF$SAMPLE)
