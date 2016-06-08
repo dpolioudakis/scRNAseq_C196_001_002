@@ -12,38 +12,36 @@ fpm1DF <- read.csv("../data/FPM.csv", header = TRUE)
 dim(exDat1DF)
 dim(exDat2DF)
 
+# Picard Sequencing Statistics - scRNAseq
+picStatsDF <- read.csv("../metadata/PicardToolsQC.csv")
+
 # Combine counts from scRNAseq Run1 and Run2
 exDatDF <- Reduce('+', list(exDat2DF, exDat1DF))
 
+# Calculate CPM
+exDatDF <- exDatDF[ ,order(names(exDatDF))]
+cpmDF <- exDatDF / (picStatsDF$PF_READS_ALIGNED / 10^6)
+
 # Subset to cells remaining after Jason's ERCC filters
 fpmCells <- gsub("X", "Cell", colnames(fpm1DF))
-exDatDF <- exDatDF[ , colnames(exDatDF) %in% fpmCells]
+cpmDF <- cpmDF[ , colnames(cpmDF) %in% fpmCells]
 ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
 ex2fTdF <- exDat2DF[ , colnames(exDat2DF) %in% fpmCells]
 
-
 # Number of genes expressed
-gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))
-gExprd <- sort(gExprd)
-mgExprd <- mean(gExprd)
-
-pdf("../analysis/graphs/Alignment_Stats_Graph_Genes_Expressed.pdf")
-barplot(gExprd, xlab = "Cells", ylab = "Number of genes TPM > 0", xaxt = 'n'
-        , main = paste("Kriegstein 2015: Number of Genes Expressed"
-                       ,"\nMean: ", mgExprd, sep=""))
-Axis(side = 1, labels = FALSE)
-dev.off()
-
-
-gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 1)))
+gExprd <- apply(cpmDF, 2, function(genes) length(subset(genes, genes >= 1)))
 mgExprd <- mean(gExprd)
 mean(gExprd)
 median(gExprd)
-pdf("../analysis/graphs/Histogram_Genes_Expressed.pdf")
-png("../analysis/graphs/Histogram_Genes_Expressed.png")
-hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"
-	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep=""))
+pdf("../analysis/graphs/Number_Genes_Detected_Histogram.pdf")
+hist(gExprd, breaks = 20, col = "blue", xlab = "Number of genes with >=1 CPM"
+	, main = paste("Number of Genes Detected Per Cell", "\nMean: ", mgExprd, sep=""))
 dev.off()
+
+
+
+
+
 
 gExprd <- apply(exDat2DF, 2, function(genes) length(subset(genes, genes > 1)))
 mean(gExprd)
