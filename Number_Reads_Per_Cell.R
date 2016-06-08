@@ -6,7 +6,6 @@
 rm(list=ls())
 
 library(xlsx)
-library(gridExtra)
 
 # Load data and assign variables
 
