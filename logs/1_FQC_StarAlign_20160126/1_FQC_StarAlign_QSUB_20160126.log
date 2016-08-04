@@ -1,0 +1,4998 @@
+Sequencing Lane:
+SxaQSEQsXap089L2
+Total files: 192
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell100.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell100.R2.fastq.gz
+Sample ID:
+Cell100
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell100
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell100.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell100.R2.fastq.gz
+Your job 227995 ("A1_Cell100") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell101.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell101.R2.fastq.gz
+Sample ID:
+Cell101
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell101
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell101.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell101.R2.fastq.gz
+Your job 227996 ("A1_Cell101") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell102.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell102.R2.fastq.gz
+Sample ID:
+Cell102
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell102
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell102.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell102.R2.fastq.gz
+Your job 227997 ("A1_Cell102") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell103.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell103.R2.fastq.gz
+Sample ID:
+Cell103
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell103
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell103.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell103.R2.fastq.gz
+Your job 227998 ("A1_Cell103") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell104.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell104.R2.fastq.gz
+Sample ID:
+Cell104
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell104
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell104.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell104.R2.fastq.gz
+Your job 227999 ("A1_Cell104") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell105.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell105.R2.fastq.gz
+Sample ID:
+Cell105
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell105
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell105.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell105.R2.fastq.gz
+Your job 228000 ("A1_Cell105") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell106.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell106.R2.fastq.gz
+Sample ID:
+Cell106
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell106
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell106.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell106.R2.fastq.gz
+Your job 228001 ("A1_Cell106") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell107.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell107.R2.fastq.gz
+Sample ID:
+Cell107
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell107
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell107.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell107.R2.fastq.gz
+Your job 228002 ("A1_Cell107") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell108.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell108.R2.fastq.gz
+Sample ID:
+Cell108
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell108
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell108.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell108.R2.fastq.gz
+Your job 228003 ("A1_Cell108") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell109.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell109.R2.fastq.gz
+Sample ID:
+Cell109
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell109
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell109.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell109.R2.fastq.gz
+Your job 228004 ("A1_Cell109") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell10.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell10.R2.fastq.gz
+Sample ID:
+Cell10
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell10
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell10.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell10.R2.fastq.gz
+Your job 228005 ("A1_Cell10") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell110.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell110.R2.fastq.gz
+Sample ID:
+Cell110
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell110
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell110.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell110.R2.fastq.gz
+Your job 228006 ("A1_Cell110") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell111.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell111.R2.fastq.gz
+Sample ID:
+Cell111
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell111
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell111.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell111.R2.fastq.gz
+Your job 228007 ("A1_Cell111") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell112.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell112.R2.fastq.gz
+Sample ID:
+Cell112
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell112
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell112.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell112.R2.fastq.gz
+Your job 228008 ("A1_Cell112") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell113.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell113.R2.fastq.gz
+Sample ID:
+Cell113
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell113
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell113.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell113.R2.fastq.gz
+Your job 228009 ("A1_Cell113") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell114.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell114.R2.fastq.gz
+Sample ID:
+Cell114
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell114
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell114.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell114.R2.fastq.gz
+Your job 228010 ("A1_Cell114") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell115.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell115.R2.fastq.gz
+Sample ID:
+Cell115
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell115
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell115.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell115.R2.fastq.gz
+Your job 228011 ("A1_Cell115") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell116.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell116.R2.fastq.gz
+Sample ID:
+Cell116
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell116
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell116.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell116.R2.fastq.gz
+Your job 228012 ("A1_Cell116") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell117.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell117.R2.fastq.gz
+Sample ID:
+Cell117
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell117
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell117.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell117.R2.fastq.gz
+Your job 228013 ("A1_Cell117") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell118.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell118.R2.fastq.gz
+Sample ID:
+Cell118
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell118
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell118.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell118.R2.fastq.gz
+Your job 228014 ("A1_Cell118") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell119.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell119.R2.fastq.gz
+Sample ID:
+Cell119
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell119
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell119.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell119.R2.fastq.gz
+Your job 228015 ("A1_Cell119") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell11.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell11.R2.fastq.gz
+Sample ID:
+Cell11
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell11
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell11.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell11.R2.fastq.gz
+Your job 228016 ("A1_Cell11") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell120.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell120.R2.fastq.gz
+Sample ID:
+Cell120
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell120
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell120.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell120.R2.fastq.gz
+Your job 228017 ("A1_Cell120") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell121.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell121.R2.fastq.gz
+Sample ID:
+Cell121
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell121
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell121.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell121.R2.fastq.gz
+Your job 228018 ("A1_Cell121") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell122.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell122.R2.fastq.gz
+Sample ID:
+Cell122
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell122
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell122.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell122.R2.fastq.gz
+Your job 228019 ("A1_Cell122") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell123.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell123.R2.fastq.gz
+Sample ID:
+Cell123
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell123
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell123.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell123.R2.fastq.gz
+Your job 228020 ("A1_Cell123") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell124.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell124.R2.fastq.gz
+Sample ID:
+Cell124
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell124
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell124.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell124.R2.fastq.gz
+Your job 228021 ("A1_Cell124") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell125.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell125.R2.fastq.gz
+Sample ID:
+Cell125
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell125
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell125.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell125.R2.fastq.gz
+Your job 228022 ("A1_Cell125") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell126.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell126.R2.fastq.gz
+Sample ID:
+Cell126
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell126
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell126.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell126.R2.fastq.gz
+Your job 228023 ("A1_Cell126") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell127.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell127.R2.fastq.gz
+Sample ID:
+Cell127
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell127
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell127.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell127.R2.fastq.gz
+Your job 228024 ("A1_Cell127") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell128.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell128.R2.fastq.gz
+Sample ID:
+Cell128
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell128
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell128.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell128.R2.fastq.gz
+Your job 228025 ("A1_Cell128") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell129.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell129.R2.fastq.gz
+Sample ID:
+Cell129
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell129
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell129.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell129.R2.fastq.gz
+Your job 228026 ("A1_Cell129") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell12.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell12.R2.fastq.gz
+Sample ID:
+Cell12
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell12
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell12.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell12.R2.fastq.gz
+Your job 228027 ("A1_Cell12") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell130.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell130.R2.fastq.gz
+Sample ID:
+Cell130
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell130
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell130.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell130.R2.fastq.gz
+Your job 228028 ("A1_Cell130") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell131.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell131.R2.fastq.gz
+Sample ID:
+Cell131
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell131
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell131.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell131.R2.fastq.gz
+Your job 228029 ("A1_Cell131") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell132.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell132.R2.fastq.gz
+Sample ID:
+Cell132
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell132
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell132.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell132.R2.fastq.gz
+Your job 228030 ("A1_Cell132") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell133.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell133.R2.fastq.gz
+Sample ID:
+Cell133
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell133
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell133.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell133.R2.fastq.gz
+Your job 228031 ("A1_Cell133") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell134.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell134.R2.fastq.gz
+Sample ID:
+Cell134
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell134
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell134.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell134.R2.fastq.gz
+Your job 228032 ("A1_Cell134") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell135.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell135.R2.fastq.gz
+Sample ID:
+Cell135
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell135
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell135.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell135.R2.fastq.gz
+Your job 228033 ("A1_Cell135") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell136.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell136.R2.fastq.gz
+Sample ID:
+Cell136
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell136
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell136.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell136.R2.fastq.gz
+Your job 228034 ("A1_Cell136") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell137.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell137.R2.fastq.gz
+Sample ID:
+Cell137
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell137
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell137.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell137.R2.fastq.gz
+Your job 228035 ("A1_Cell137") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell138.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell138.R2.fastq.gz
+Sample ID:
+Cell138
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell138
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell138.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell138.R2.fastq.gz
+Your job 228036 ("A1_Cell138") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell139.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell139.R2.fastq.gz
+Sample ID:
+Cell139
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell139
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell139.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell139.R2.fastq.gz
+Your job 228037 ("A1_Cell139") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell13.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell13.R2.fastq.gz
+Sample ID:
+Cell13
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell13
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell13.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell13.R2.fastq.gz
+Your job 228038 ("A1_Cell13") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell140.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell140.R2.fastq.gz
+Sample ID:
+Cell140
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell140
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell140.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell140.R2.fastq.gz
+Your job 228039 ("A1_Cell140") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell141.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell141.R2.fastq.gz
+Sample ID:
+Cell141
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell141
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell141.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell141.R2.fastq.gz
+Your job 228040 ("A1_Cell141") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell142.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell142.R2.fastq.gz
+Sample ID:
+Cell142
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell142
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell142.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell142.R2.fastq.gz
+Your job 228041 ("A1_Cell142") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell143.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell143.R2.fastq.gz
+Sample ID:
+Cell143
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell143
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell143.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell143.R2.fastq.gz
+Your job 228042 ("A1_Cell143") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell144.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell144.R2.fastq.gz
+Sample ID:
+Cell144
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell144
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell144.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell144.R2.fastq.gz
+Your job 228043 ("A1_Cell144") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell145.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell145.R2.fastq.gz
+Sample ID:
+Cell145
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell145
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell145.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell145.R2.fastq.gz
+Your job 228044 ("A1_Cell145") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell146.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell146.R2.fastq.gz
+Sample ID:
+Cell146
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell146
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell146.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell146.R2.fastq.gz
+Your job 228045 ("A1_Cell146") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell147.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell147.R2.fastq.gz
+Sample ID:
+Cell147
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell147
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell147.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell147.R2.fastq.gz
+Your job 228046 ("A1_Cell147") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell148.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell148.R2.fastq.gz
+Sample ID:
+Cell148
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell148
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell148.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell148.R2.fastq.gz
+Your job 228047 ("A1_Cell148") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell149.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell149.R2.fastq.gz
+Sample ID:
+Cell149
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell149
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell149.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell149.R2.fastq.gz
+Your job 228048 ("A1_Cell149") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell14.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell14.R2.fastq.gz
+Sample ID:
+Cell14
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell14
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell14.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell14.R2.fastq.gz
+Your job 228049 ("A1_Cell14") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell150.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell150.R2.fastq.gz
+Sample ID:
+Cell150
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell150
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell150.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell150.R2.fastq.gz
+Your job 228050 ("A1_Cell150") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell151.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell151.R2.fastq.gz
+Sample ID:
+Cell151
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell151
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell151.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell151.R2.fastq.gz
+Your job 228051 ("A1_Cell151") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell152.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell152.R2.fastq.gz
+Sample ID:
+Cell152
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell152
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell152.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell152.R2.fastq.gz
+Your job 228052 ("A1_Cell152") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell153.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell153.R2.fastq.gz
+Sample ID:
+Cell153
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell153
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell153.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell153.R2.fastq.gz
+Your job 228053 ("A1_Cell153") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell154.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell154.R2.fastq.gz
+Sample ID:
+Cell154
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell154
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell154.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell154.R2.fastq.gz
+Your job 228054 ("A1_Cell154") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell155.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell155.R2.fastq.gz
+Sample ID:
+Cell155
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell155
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell155.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell155.R2.fastq.gz
+Your job 228055 ("A1_Cell155") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell156.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell156.R2.fastq.gz
+Sample ID:
+Cell156
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell156
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell156.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell156.R2.fastq.gz
+Your job 228056 ("A1_Cell156") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell157.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell157.R2.fastq.gz
+Sample ID:
+Cell157
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell157
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell157.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell157.R2.fastq.gz
+Your job 228057 ("A1_Cell157") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell158.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell158.R2.fastq.gz
+Sample ID:
+Cell158
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell158
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell158.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell158.R2.fastq.gz
+Your job 228058 ("A1_Cell158") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell159.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell159.R2.fastq.gz
+Sample ID:
+Cell159
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell159
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell159.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell159.R2.fastq.gz
+Your job 228059 ("A1_Cell159") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell15.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell15.R2.fastq.gz
+Sample ID:
+Cell15
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell15
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell15.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell15.R2.fastq.gz
+Your job 228060 ("A1_Cell15") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell160.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell160.R2.fastq.gz
+Sample ID:
+Cell160
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell160
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell160.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell160.R2.fastq.gz
+Your job 228061 ("A1_Cell160") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell161.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell161.R2.fastq.gz
+Sample ID:
+Cell161
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell161
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell161.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell161.R2.fastq.gz
+Your job 228062 ("A1_Cell161") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell162.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell162.R2.fastq.gz
+Sample ID:
+Cell162
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell162
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell162.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell162.R2.fastq.gz
+Your job 228063 ("A1_Cell162") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell163.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell163.R2.fastq.gz
+Sample ID:
+Cell163
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell163
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell163.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell163.R2.fastq.gz
+Your job 228064 ("A1_Cell163") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell164.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell164.R2.fastq.gz
+Sample ID:
+Cell164
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell164
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell164.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell164.R2.fastq.gz
+Your job 228065 ("A1_Cell164") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell165.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell165.R2.fastq.gz
+Sample ID:
+Cell165
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell165
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell165.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell165.R2.fastq.gz
+Your job 228066 ("A1_Cell165") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell166.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell166.R2.fastq.gz
+Sample ID:
+Cell166
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell166
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell166.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell166.R2.fastq.gz
+Your job 228067 ("A1_Cell166") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell167.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell167.R2.fastq.gz
+Sample ID:
+Cell167
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell167
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell167.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell167.R2.fastq.gz
+Your job 228068 ("A1_Cell167") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell168.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell168.R2.fastq.gz
+Sample ID:
+Cell168
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell168
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell168.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell168.R2.fastq.gz
+Your job 228069 ("A1_Cell168") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell169.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell169.R2.fastq.gz
+Sample ID:
+Cell169
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell169
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell169.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell169.R2.fastq.gz
+Your job 228070 ("A1_Cell169") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell16.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell16.R2.fastq.gz
+Sample ID:
+Cell16
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell16
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell16.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell16.R2.fastq.gz
+Your job 228071 ("A1_Cell16") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell170.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell170.R2.fastq.gz
+Sample ID:
+Cell170
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell170
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell170.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell170.R2.fastq.gz
+Your job 228072 ("A1_Cell170") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell171.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell171.R2.fastq.gz
+Sample ID:
+Cell171
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell171
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell171.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell171.R2.fastq.gz
+Your job 228073 ("A1_Cell171") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell172.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell172.R2.fastq.gz
+Sample ID:
+Cell172
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell172
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell172.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell172.R2.fastq.gz
+Your job 228074 ("A1_Cell172") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell173.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell173.R2.fastq.gz
+Sample ID:
+Cell173
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell173
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell173.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell173.R2.fastq.gz
+Your job 228075 ("A1_Cell173") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell174.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell174.R2.fastq.gz
+Sample ID:
+Cell174
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell174
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell174.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell174.R2.fastq.gz
+Your job 228076 ("A1_Cell174") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell175.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell175.R2.fastq.gz
+Sample ID:
+Cell175
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell175
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell175.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell175.R2.fastq.gz
+Your job 228077 ("A1_Cell175") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell176.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell176.R2.fastq.gz
+Sample ID:
+Cell176
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell176
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell176.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell176.R2.fastq.gz
+Your job 228078 ("A1_Cell176") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell177.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell177.R2.fastq.gz
+Sample ID:
+Cell177
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell177
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell177.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell177.R2.fastq.gz
+Your job 228079 ("A1_Cell177") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell178.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell178.R2.fastq.gz
+Sample ID:
+Cell178
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell178
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell178.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell178.R2.fastq.gz
+Your job 228080 ("A1_Cell178") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell179.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell179.R2.fastq.gz
+Sample ID:
+Cell179
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell179
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell179.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell179.R2.fastq.gz
+Your job 228081 ("A1_Cell179") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell17.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell17.R2.fastq.gz
+Sample ID:
+Cell17
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell17
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell17.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell17.R2.fastq.gz
+Your job 228082 ("A1_Cell17") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell180.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell180.R2.fastq.gz
+Sample ID:
+Cell180
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell180
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell180.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell180.R2.fastq.gz
+Your job 228083 ("A1_Cell180") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell181.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell181.R2.fastq.gz
+Sample ID:
+Cell181
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell181
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell181.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell181.R2.fastq.gz
+Your job 228084 ("A1_Cell181") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell182.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell182.R2.fastq.gz
+Sample ID:
+Cell182
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell182
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell182.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell182.R2.fastq.gz
+Your job 228085 ("A1_Cell182") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell183.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell183.R2.fastq.gz
+Sample ID:
+Cell183
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell183
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell183.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell183.R2.fastq.gz
+Your job 228086 ("A1_Cell183") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell184.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell184.R2.fastq.gz
+Sample ID:
+Cell184
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell184
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell184.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell184.R2.fastq.gz
+Your job 228087 ("A1_Cell184") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell185.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell185.R2.fastq.gz
+Sample ID:
+Cell185
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell185
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell185.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell185.R2.fastq.gz
+Your job 228088 ("A1_Cell185") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell186.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell186.R2.fastq.gz
+Sample ID:
+Cell186
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell186
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell186.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell186.R2.fastq.gz
+Your job 228089 ("A1_Cell186") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell187.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell187.R2.fastq.gz
+Sample ID:
+Cell187
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell187
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell187.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell187.R2.fastq.gz
+Your job 228090 ("A1_Cell187") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell188.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell188.R2.fastq.gz
+Sample ID:
+Cell188
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell188
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell188.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell188.R2.fastq.gz
+Your job 228091 ("A1_Cell188") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell189.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell189.R2.fastq.gz
+Sample ID:
+Cell189
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell189
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell189.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell189.R2.fastq.gz
+Your job 228092 ("A1_Cell189") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell18.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell18.R2.fastq.gz
+Sample ID:
+Cell18
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell18
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell18.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell18.R2.fastq.gz
+Your job 228093 ("A1_Cell18") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell190.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell190.R2.fastq.gz
+Sample ID:
+Cell190
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell190
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell190.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell190.R2.fastq.gz
+Your job 228094 ("A1_Cell190") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell191.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell191.R2.fastq.gz
+Sample ID:
+Cell191
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell191
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell191.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell191.R2.fastq.gz
+Your job 228095 ("A1_Cell191") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell192.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell192.R2.fastq.gz
+Sample ID:
+Cell192
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell192
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell192.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell192.R2.fastq.gz
+Your job 228096 ("A1_Cell192") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell19.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell19.R2.fastq.gz
+Sample ID:
+Cell19
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell19
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell19.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell19.R2.fastq.gz
+Your job 228097 ("A1_Cell19") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell1.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell1.R2.fastq.gz
+Sample ID:
+Cell1
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell1
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell1.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell1.R2.fastq.gz
+Your job 228098 ("A1_Cell1") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell20.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell20.R2.fastq.gz
+Sample ID:
+Cell20
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell20
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell20.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell20.R2.fastq.gz
+Your job 228099 ("A1_Cell20") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell21.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell21.R2.fastq.gz
+Sample ID:
+Cell21
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell21
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell21.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell21.R2.fastq.gz
+Your job 228100 ("A1_Cell21") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell22.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell22.R2.fastq.gz
+Sample ID:
+Cell22
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell22
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell22.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell22.R2.fastq.gz
+Your job 228101 ("A1_Cell22") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell23.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell23.R2.fastq.gz
+Sample ID:
+Cell23
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell23
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell23.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell23.R2.fastq.gz
+Your job 228102 ("A1_Cell23") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell24.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell24.R2.fastq.gz
+Sample ID:
+Cell24
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell24
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell24.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell24.R2.fastq.gz
+Your job 228103 ("A1_Cell24") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell25.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell25.R2.fastq.gz
+Sample ID:
+Cell25
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell25
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell25.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell25.R2.fastq.gz
+Your job 228104 ("A1_Cell25") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell26.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell26.R2.fastq.gz
+Sample ID:
+Cell26
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell26
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell26.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell26.R2.fastq.gz
+Your job 228105 ("A1_Cell26") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell27.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell27.R2.fastq.gz
+Sample ID:
+Cell27
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell27
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell27.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell27.R2.fastq.gz
+Your job 228106 ("A1_Cell27") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell28.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell28.R2.fastq.gz
+Sample ID:
+Cell28
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell28
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell28.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell28.R2.fastq.gz
+Your job 228107 ("A1_Cell28") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell29.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell29.R2.fastq.gz
+Sample ID:
+Cell29
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell29
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell29.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell29.R2.fastq.gz
+Your job 228108 ("A1_Cell29") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell2.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell2.R2.fastq.gz
+Sample ID:
+Cell2
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell2
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell2.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell2.R2.fastq.gz
+Your job 228109 ("A1_Cell2") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell30.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell30.R2.fastq.gz
+Sample ID:
+Cell30
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell30
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell30.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell30.R2.fastq.gz
+Your job 228110 ("A1_Cell30") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell31.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell31.R2.fastq.gz
+Sample ID:
+Cell31
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell31
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell31.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell31.R2.fastq.gz
+Your job 228111 ("A1_Cell31") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell32.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell32.R2.fastq.gz
+Sample ID:
+Cell32
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell32
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell32.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell32.R2.fastq.gz
+Your job 228112 ("A1_Cell32") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell33.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell33.R2.fastq.gz
+Sample ID:
+Cell33
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell33
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell33.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell33.R2.fastq.gz
+Your job 228113 ("A1_Cell33") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell34.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell34.R2.fastq.gz
+Sample ID:
+Cell34
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell34
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell34.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell34.R2.fastq.gz
+Your job 228114 ("A1_Cell34") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell35.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell35.R2.fastq.gz
+Sample ID:
+Cell35
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell35
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell35.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell35.R2.fastq.gz
+Your job 228115 ("A1_Cell35") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell36.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell36.R2.fastq.gz
+Sample ID:
+Cell36
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell36
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell36.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell36.R2.fastq.gz
+Your job 228116 ("A1_Cell36") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell37.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell37.R2.fastq.gz
+Sample ID:
+Cell37
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell37
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell37.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell37.R2.fastq.gz
+Your job 228117 ("A1_Cell37") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell38.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell38.R2.fastq.gz
+Sample ID:
+Cell38
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell38
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell38.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell38.R2.fastq.gz
+Your job 228118 ("A1_Cell38") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell39.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell39.R2.fastq.gz
+Sample ID:
+Cell39
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell39
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell39.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell39.R2.fastq.gz
+Your job 228119 ("A1_Cell39") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell3.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell3.R2.fastq.gz
+Sample ID:
+Cell3
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell3
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell3.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell3.R2.fastq.gz
+Your job 228120 ("A1_Cell3") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell40.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell40.R2.fastq.gz
+Sample ID:
+Cell40
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell40
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell40.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell40.R2.fastq.gz
+Your job 228121 ("A1_Cell40") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell41.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell41.R2.fastq.gz
+Sample ID:
+Cell41
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell41
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell41.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell41.R2.fastq.gz
+Your job 228122 ("A1_Cell41") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell42.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell42.R2.fastq.gz
+Sample ID:
+Cell42
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell42
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell42.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell42.R2.fastq.gz
+Your job 228123 ("A1_Cell42") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell43.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell43.R2.fastq.gz
+Sample ID:
+Cell43
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell43
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell43.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell43.R2.fastq.gz
+Your job 228124 ("A1_Cell43") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell44.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell44.R2.fastq.gz
+Sample ID:
+Cell44
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell44
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell44.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell44.R2.fastq.gz
+Your job 228125 ("A1_Cell44") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell45.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell45.R2.fastq.gz
+Sample ID:
+Cell45
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell45
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell45.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell45.R2.fastq.gz
+Your job 228126 ("A1_Cell45") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell46.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell46.R2.fastq.gz
+Sample ID:
+Cell46
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell46
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell46.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell46.R2.fastq.gz
+Your job 228127 ("A1_Cell46") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell47.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell47.R2.fastq.gz
+Sample ID:
+Cell47
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell47
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell47.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell47.R2.fastq.gz
+Your job 228128 ("A1_Cell47") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell48.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell48.R2.fastq.gz
+Sample ID:
+Cell48
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell48
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell48.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell48.R2.fastq.gz
+Your job 228129 ("A1_Cell48") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell49.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell49.R2.fastq.gz
+Sample ID:
+Cell49
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell49
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell49.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell49.R2.fastq.gz
+Your job 228130 ("A1_Cell49") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell4.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell4.R2.fastq.gz
+Sample ID:
+Cell4
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell4
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell4.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell4.R2.fastq.gz
+Your job 228131 ("A1_Cell4") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell50.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell50.R2.fastq.gz
+Sample ID:
+Cell50
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell50
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell50.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell50.R2.fastq.gz
+Your job 228132 ("A1_Cell50") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell51.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell51.R2.fastq.gz
+Sample ID:
+Cell51
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell51
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell51.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell51.R2.fastq.gz
+Your job 228133 ("A1_Cell51") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell52.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell52.R2.fastq.gz
+Sample ID:
+Cell52
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell52
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell52.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell52.R2.fastq.gz
+Your job 228134 ("A1_Cell52") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell53.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell53.R2.fastq.gz
+Sample ID:
+Cell53
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell53
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell53.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell53.R2.fastq.gz
+Your job 228135 ("A1_Cell53") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell54.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell54.R2.fastq.gz
+Sample ID:
+Cell54
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell54
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell54.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell54.R2.fastq.gz
+Your job 228136 ("A1_Cell54") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell55.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell55.R2.fastq.gz
+Sample ID:
+Cell55
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell55
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell55.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell55.R2.fastq.gz
+Your job 228137 ("A1_Cell55") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell56.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell56.R2.fastq.gz
+Sample ID:
+Cell56
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell56
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell56.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell56.R2.fastq.gz
+Your job 228138 ("A1_Cell56") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell57.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell57.R2.fastq.gz
+Sample ID:
+Cell57
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell57
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell57.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell57.R2.fastq.gz
+Your job 228139 ("A1_Cell57") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell58.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell58.R2.fastq.gz
+Sample ID:
+Cell58
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell58
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell58.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell58.R2.fastq.gz
+Your job 228140 ("A1_Cell58") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell59.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell59.R2.fastq.gz
+Sample ID:
+Cell59
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell59
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell59.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell59.R2.fastq.gz
+Your job 228141 ("A1_Cell59") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell5.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell5.R2.fastq.gz
+Sample ID:
+Cell5
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell5
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell5.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell5.R2.fastq.gz
+Your job 228142 ("A1_Cell5") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell60.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell60.R2.fastq.gz
+Sample ID:
+Cell60
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell60
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell60.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell60.R2.fastq.gz
+Your job 228143 ("A1_Cell60") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell61.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell61.R2.fastq.gz
+Sample ID:
+Cell61
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell61
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell61.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell61.R2.fastq.gz
+Your job 228144 ("A1_Cell61") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell62.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell62.R2.fastq.gz
+Sample ID:
+Cell62
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell62
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell62.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell62.R2.fastq.gz
+Your job 228145 ("A1_Cell62") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell63.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell63.R2.fastq.gz
+Sample ID:
+Cell63
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell63
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell63.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell63.R2.fastq.gz
+Your job 228146 ("A1_Cell63") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell64.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell64.R2.fastq.gz
+Sample ID:
+Cell64
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell64
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell64.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell64.R2.fastq.gz
+Your job 228147 ("A1_Cell64") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell65.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell65.R2.fastq.gz
+Sample ID:
+Cell65
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell65
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell65.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell65.R2.fastq.gz
+Your job 228148 ("A1_Cell65") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell66.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell66.R2.fastq.gz
+Sample ID:
+Cell66
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell66
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell66.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell66.R2.fastq.gz
+Your job 228149 ("A1_Cell66") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell67.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell67.R2.fastq.gz
+Sample ID:
+Cell67
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell67
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell67.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell67.R2.fastq.gz
+Your job 228150 ("A1_Cell67") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell68.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell68.R2.fastq.gz
+Sample ID:
+Cell68
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell68
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell68.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell68.R2.fastq.gz
+Your job 228151 ("A1_Cell68") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell69.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell69.R2.fastq.gz
+Sample ID:
+Cell69
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell69
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell69.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell69.R2.fastq.gz
+Your job 228152 ("A1_Cell69") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell6.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell6.R2.fastq.gz
+Sample ID:
+Cell6
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell6
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell6.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell6.R2.fastq.gz
+Your job 228153 ("A1_Cell6") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell70.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell70.R2.fastq.gz
+Sample ID:
+Cell70
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell70
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell70.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell70.R2.fastq.gz
+Your job 228154 ("A1_Cell70") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell71.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell71.R2.fastq.gz
+Sample ID:
+Cell71
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell71
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell71.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell71.R2.fastq.gz
+Your job 228155 ("A1_Cell71") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell72.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell72.R2.fastq.gz
+Sample ID:
+Cell72
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell72
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell72.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell72.R2.fastq.gz
+Your job 228156 ("A1_Cell72") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell73.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell73.R2.fastq.gz
+Sample ID:
+Cell73
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell73
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell73.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell73.R2.fastq.gz
+Your job 228157 ("A1_Cell73") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell74.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell74.R2.fastq.gz
+Sample ID:
+Cell74
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell74
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell74.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell74.R2.fastq.gz
+Your job 228158 ("A1_Cell74") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell75.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell75.R2.fastq.gz
+Sample ID:
+Cell75
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell75
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell75.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell75.R2.fastq.gz
+Your job 228159 ("A1_Cell75") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell76.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell76.R2.fastq.gz
+Sample ID:
+Cell76
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell76
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell76.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell76.R2.fastq.gz
+Your job 228160 ("A1_Cell76") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell77.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell77.R2.fastq.gz
+Sample ID:
+Cell77
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell77
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell77.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell77.R2.fastq.gz
+Your job 228161 ("A1_Cell77") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell78.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell78.R2.fastq.gz
+Sample ID:
+Cell78
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell78
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell78.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell78.R2.fastq.gz
+Your job 228162 ("A1_Cell78") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell79.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell79.R2.fastq.gz
+Sample ID:
+Cell79
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell79
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell79.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell79.R2.fastq.gz
+Your job 228163 ("A1_Cell79") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell7.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell7.R2.fastq.gz
+Sample ID:
+Cell7
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell7
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell7.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell7.R2.fastq.gz
+Your job 228164 ("A1_Cell7") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell80.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell80.R2.fastq.gz
+Sample ID:
+Cell80
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell80
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell80.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell80.R2.fastq.gz
+Your job 228165 ("A1_Cell80") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell81.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell81.R2.fastq.gz
+Sample ID:
+Cell81
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell81
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell81.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell81.R2.fastq.gz
+Your job 228166 ("A1_Cell81") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell82.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell82.R2.fastq.gz
+Sample ID:
+Cell82
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell82
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell82.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell82.R2.fastq.gz
+Your job 228167 ("A1_Cell82") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell83.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell83.R2.fastq.gz
+Sample ID:
+Cell83
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell83
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell83.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell83.R2.fastq.gz
+Your job 228168 ("A1_Cell83") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell84.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell84.R2.fastq.gz
+Sample ID:
+Cell84
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell84
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell84.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell84.R2.fastq.gz
+Your job 228169 ("A1_Cell84") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell85.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell85.R2.fastq.gz
+Sample ID:
+Cell85
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell85
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell85.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell85.R2.fastq.gz
+Your job 228170 ("A1_Cell85") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell86.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell86.R2.fastq.gz
+Sample ID:
+Cell86
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell86
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell86.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell86.R2.fastq.gz
+Your job 228171 ("A1_Cell86") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell87.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell87.R2.fastq.gz
+Sample ID:
+Cell87
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell87
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell87.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell87.R2.fastq.gz
+Your job 228172 ("A1_Cell87") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell88.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell88.R2.fastq.gz
+Sample ID:
+Cell88
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell88
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell88.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell88.R2.fastq.gz
+Your job 228173 ("A1_Cell88") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell89.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell89.R2.fastq.gz
+Sample ID:
+Cell89
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell89
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell89.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell89.R2.fastq.gz
+Your job 228174 ("A1_Cell89") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell8.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell8.R2.fastq.gz
+Sample ID:
+Cell8
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell8
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell8.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell8.R2.fastq.gz
+Your job 228175 ("A1_Cell8") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell90.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell90.R2.fastq.gz
+Sample ID:
+Cell90
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell90
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell90.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell90.R2.fastq.gz
+Your job 228176 ("A1_Cell90") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell91.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell91.R2.fastq.gz
+Sample ID:
+Cell91
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell91
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell91.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell91.R2.fastq.gz
+Your job 228177 ("A1_Cell91") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell92.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell92.R2.fastq.gz
+Sample ID:
+Cell92
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell92
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell92.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell92.R2.fastq.gz
+Your job 228178 ("A1_Cell92") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell93.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell93.R2.fastq.gz
+Sample ID:
+Cell93
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell93
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell93.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell93.R2.fastq.gz
+Your job 228179 ("A1_Cell93") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell94.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell94.R2.fastq.gz
+Sample ID:
+Cell94
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell94
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell94.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell94.R2.fastq.gz
+Your job 228180 ("A1_Cell94") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell95.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell95.R2.fastq.gz
+Sample ID:
+Cell95
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell95
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell95.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell95.R2.fastq.gz
+Your job 228181 ("A1_Cell95") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell96.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell96.R2.fastq.gz
+Sample ID:
+Cell96
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell96
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell96.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell96.R2.fastq.gz
+Your job 228182 ("A1_Cell96") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell97.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell97.R2.fastq.gz
+Sample ID:
+Cell97
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell97
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell97.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell97.R2.fastq.gz
+Your job 228183 ("A1_Cell97") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell98.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell98.R2.fastq.gz
+Sample ID:
+Cell98
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell98
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell98.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell98.R2.fastq.gz
+Your job 228184 ("A1_Cell98") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell99.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell99.R2.fastq.gz
+Sample ID:
+Cell99
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell99
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell99.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell99.R2.fastq.gz
+Your job 228185 ("A1_Cell99") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXap089L2/Cell9.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXap089L2/Cell9.R2.fastq.gz
+Sample ID:
+Cell9
+Alignment output directory:
+../data/bam/SxaQSEQsXap089L2/Cell9
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXap089L2/Cell9.R1.fastq.gz
+../data/fastq/SxaQSEQsXap089L2/Cell9.R2.fastq.gz
+Your job 228186 ("A1_Cell9") has been submitted
+Sequencing Lane:
+SxaQSEQsXbp060L2
+Total files: 192
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell100.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell100.R2.fastq.gz
+Sample ID:
+Cell100
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell100
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell100.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell100.R2.fastq.gz
+Your job 228187 ("A1_Cell100") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell101.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell101.R2.fastq.gz
+Sample ID:
+Cell101
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell101
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell101.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell101.R2.fastq.gz
+Your job 228188 ("A1_Cell101") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell102.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell102.R2.fastq.gz
+Sample ID:
+Cell102
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell102
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell102.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell102.R2.fastq.gz
+Your job 228189 ("A1_Cell102") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell103.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell103.R2.fastq.gz
+Sample ID:
+Cell103
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell103
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell103.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell103.R2.fastq.gz
+Your job 228190 ("A1_Cell103") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell104.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell104.R2.fastq.gz
+Sample ID:
+Cell104
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell104
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell104.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell104.R2.fastq.gz
+Your job 228191 ("A1_Cell104") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell105.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell105.R2.fastq.gz
+Sample ID:
+Cell105
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell105
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell105.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell105.R2.fastq.gz
+Your job 228192 ("A1_Cell105") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell106.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell106.R2.fastq.gz
+Sample ID:
+Cell106
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell106
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell106.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell106.R2.fastq.gz
+Your job 228193 ("A1_Cell106") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell107.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell107.R2.fastq.gz
+Sample ID:
+Cell107
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell107
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell107.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell107.R2.fastq.gz
+Your job 228194 ("A1_Cell107") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell108.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell108.R2.fastq.gz
+Sample ID:
+Cell108
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell108
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell108.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell108.R2.fastq.gz
+Your job 228195 ("A1_Cell108") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell109.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell109.R2.fastq.gz
+Sample ID:
+Cell109
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell109
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell109.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell109.R2.fastq.gz
+Your job 228196 ("A1_Cell109") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell10.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell10.R2.fastq.gz
+Sample ID:
+Cell10
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell10
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell10.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell10.R2.fastq.gz
+Your job 228197 ("A1_Cell10") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell110.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell110.R2.fastq.gz
+Sample ID:
+Cell110
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell110
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell110.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell110.R2.fastq.gz
+Your job 228198 ("A1_Cell110") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell111.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell111.R2.fastq.gz
+Sample ID:
+Cell111
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell111
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell111.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell111.R2.fastq.gz
+Your job 228199 ("A1_Cell111") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell112.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell112.R2.fastq.gz
+Sample ID:
+Cell112
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell112
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell112.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell112.R2.fastq.gz
+Your job 228200 ("A1_Cell112") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell113.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell113.R2.fastq.gz
+Sample ID:
+Cell113
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell113
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell113.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell113.R2.fastq.gz
+Your job 228201 ("A1_Cell113") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell114.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell114.R2.fastq.gz
+Sample ID:
+Cell114
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell114
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell114.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell114.R2.fastq.gz
+Your job 228202 ("A1_Cell114") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell115.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell115.R2.fastq.gz
+Sample ID:
+Cell115
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell115
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell115.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell115.R2.fastq.gz
+Your job 228203 ("A1_Cell115") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell116.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell116.R2.fastq.gz
+Sample ID:
+Cell116
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell116
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell116.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell116.R2.fastq.gz
+Your job 228204 ("A1_Cell116") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell117.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell117.R2.fastq.gz
+Sample ID:
+Cell117
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell117
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell117.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell117.R2.fastq.gz
+Your job 228205 ("A1_Cell117") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell118.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell118.R2.fastq.gz
+Sample ID:
+Cell118
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell118
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell118.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell118.R2.fastq.gz
+Your job 228206 ("A1_Cell118") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell119.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell119.R2.fastq.gz
+Sample ID:
+Cell119
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell119
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell119.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell119.R2.fastq.gz
+Your job 228207 ("A1_Cell119") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell11.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell11.R2.fastq.gz
+Sample ID:
+Cell11
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell11
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell11.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell11.R2.fastq.gz
+Your job 228208 ("A1_Cell11") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell120.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell120.R2.fastq.gz
+Sample ID:
+Cell120
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell120
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell120.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell120.R2.fastq.gz
+Your job 228209 ("A1_Cell120") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell121.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell121.R2.fastq.gz
+Sample ID:
+Cell121
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell121
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell121.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell121.R2.fastq.gz
+Your job 228210 ("A1_Cell121") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell122.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell122.R2.fastq.gz
+Sample ID:
+Cell122
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell122
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell122.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell122.R2.fastq.gz
+Your job 228211 ("A1_Cell122") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell123.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell123.R2.fastq.gz
+Sample ID:
+Cell123
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell123
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell123.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell123.R2.fastq.gz
+Your job 228212 ("A1_Cell123") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell124.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell124.R2.fastq.gz
+Sample ID:
+Cell124
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell124
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell124.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell124.R2.fastq.gz
+Your job 228213 ("A1_Cell124") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell125.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell125.R2.fastq.gz
+Sample ID:
+Cell125
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell125
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell125.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell125.R2.fastq.gz
+Your job 228214 ("A1_Cell125") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell126.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell126.R2.fastq.gz
+Sample ID:
+Cell126
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell126
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell126.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell126.R2.fastq.gz
+Your job 228215 ("A1_Cell126") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell127.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell127.R2.fastq.gz
+Sample ID:
+Cell127
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell127
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell127.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell127.R2.fastq.gz
+Your job 228216 ("A1_Cell127") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell128.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell128.R2.fastq.gz
+Sample ID:
+Cell128
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell128
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell128.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell128.R2.fastq.gz
+Your job 228217 ("A1_Cell128") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell129.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell129.R2.fastq.gz
+Sample ID:
+Cell129
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell129
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell129.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell129.R2.fastq.gz
+Your job 228218 ("A1_Cell129") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell12.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell12.R2.fastq.gz
+Sample ID:
+Cell12
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell12
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell12.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell12.R2.fastq.gz
+Your job 228219 ("A1_Cell12") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell130.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell130.R2.fastq.gz
+Sample ID:
+Cell130
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell130
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell130.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell130.R2.fastq.gz
+Your job 228220 ("A1_Cell130") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell131.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell131.R2.fastq.gz
+Sample ID:
+Cell131
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell131
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell131.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell131.R2.fastq.gz
+Your job 228221 ("A1_Cell131") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell132.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell132.R2.fastq.gz
+Sample ID:
+Cell132
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell132
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell132.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell132.R2.fastq.gz
+Your job 228222 ("A1_Cell132") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell133.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell133.R2.fastq.gz
+Sample ID:
+Cell133
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell133
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell133.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell133.R2.fastq.gz
+Your job 228223 ("A1_Cell133") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell134.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell134.R2.fastq.gz
+Sample ID:
+Cell134
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell134
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell134.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell134.R2.fastq.gz
+Your job 228224 ("A1_Cell134") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell135.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell135.R2.fastq.gz
+Sample ID:
+Cell135
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell135
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell135.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell135.R2.fastq.gz
+Your job 228225 ("A1_Cell135") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell136.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell136.R2.fastq.gz
+Sample ID:
+Cell136
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell136
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell136.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell136.R2.fastq.gz
+Your job 228226 ("A1_Cell136") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell137.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell137.R2.fastq.gz
+Sample ID:
+Cell137
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell137
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell137.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell137.R2.fastq.gz
+Your job 228227 ("A1_Cell137") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell138.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell138.R2.fastq.gz
+Sample ID:
+Cell138
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell138
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell138.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell138.R2.fastq.gz
+Your job 228228 ("A1_Cell138") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell139.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell139.R2.fastq.gz
+Sample ID:
+Cell139
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell139
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell139.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell139.R2.fastq.gz
+Your job 228229 ("A1_Cell139") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell13.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell13.R2.fastq.gz
+Sample ID:
+Cell13
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell13
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell13.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell13.R2.fastq.gz
+Your job 228230 ("A1_Cell13") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell140.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell140.R2.fastq.gz
+Sample ID:
+Cell140
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell140
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell140.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell140.R2.fastq.gz
+Your job 228231 ("A1_Cell140") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell141.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell141.R2.fastq.gz
+Sample ID:
+Cell141
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell141
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell141.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell141.R2.fastq.gz
+Your job 228232 ("A1_Cell141") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell142.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell142.R2.fastq.gz
+Sample ID:
+Cell142
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell142
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell142.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell142.R2.fastq.gz
+Your job 228233 ("A1_Cell142") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell143.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell143.R2.fastq.gz
+Sample ID:
+Cell143
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell143
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell143.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell143.R2.fastq.gz
+Your job 228234 ("A1_Cell143") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell144.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell144.R2.fastq.gz
+Sample ID:
+Cell144
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell144
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell144.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell144.R2.fastq.gz
+Your job 228235 ("A1_Cell144") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell145.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell145.R2.fastq.gz
+Sample ID:
+Cell145
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell145
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell145.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell145.R2.fastq.gz
+Your job 228236 ("A1_Cell145") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell146.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell146.R2.fastq.gz
+Sample ID:
+Cell146
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell146
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell146.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell146.R2.fastq.gz
+Your job 228237 ("A1_Cell146") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell147.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell147.R2.fastq.gz
+Sample ID:
+Cell147
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell147
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell147.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell147.R2.fastq.gz
+Your job 228238 ("A1_Cell147") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell148.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell148.R2.fastq.gz
+Sample ID:
+Cell148
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell148
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell148.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell148.R2.fastq.gz
+Your job 228239 ("A1_Cell148") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell149.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell149.R2.fastq.gz
+Sample ID:
+Cell149
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell149
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell149.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell149.R2.fastq.gz
+Your job 228240 ("A1_Cell149") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell14.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell14.R2.fastq.gz
+Sample ID:
+Cell14
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell14
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell14.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell14.R2.fastq.gz
+Your job 228241 ("A1_Cell14") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell150.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell150.R2.fastq.gz
+Sample ID:
+Cell150
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell150
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell150.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell150.R2.fastq.gz
+Your job 228242 ("A1_Cell150") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell151.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell151.R2.fastq.gz
+Sample ID:
+Cell151
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell151
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell151.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell151.R2.fastq.gz
+Your job 228243 ("A1_Cell151") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell152.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell152.R2.fastq.gz
+Sample ID:
+Cell152
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell152
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell152.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell152.R2.fastq.gz
+Your job 228244 ("A1_Cell152") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell153.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell153.R2.fastq.gz
+Sample ID:
+Cell153
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell153
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell153.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell153.R2.fastq.gz
+Your job 228245 ("A1_Cell153") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell154.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell154.R2.fastq.gz
+Sample ID:
+Cell154
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell154
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell154.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell154.R2.fastq.gz
+Your job 228246 ("A1_Cell154") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell155.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell155.R2.fastq.gz
+Sample ID:
+Cell155
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell155
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell155.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell155.R2.fastq.gz
+Your job 228247 ("A1_Cell155") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell156.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell156.R2.fastq.gz
+Sample ID:
+Cell156
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell156
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell156.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell156.R2.fastq.gz
+Your job 228248 ("A1_Cell156") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell157.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell157.R2.fastq.gz
+Sample ID:
+Cell157
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell157
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell157.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell157.R2.fastq.gz
+Your job 228249 ("A1_Cell157") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell158.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell158.R2.fastq.gz
+Sample ID:
+Cell158
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell158
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell158.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell158.R2.fastq.gz
+Your job 228250 ("A1_Cell158") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell159.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell159.R2.fastq.gz
+Sample ID:
+Cell159
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell159
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell159.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell159.R2.fastq.gz
+Your job 228251 ("A1_Cell159") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell15.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell15.R2.fastq.gz
+Sample ID:
+Cell15
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell15
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell15.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell15.R2.fastq.gz
+Your job 228252 ("A1_Cell15") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell160.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell160.R2.fastq.gz
+Sample ID:
+Cell160
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell160
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell160.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell160.R2.fastq.gz
+Your job 228253 ("A1_Cell160") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell161.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell161.R2.fastq.gz
+Sample ID:
+Cell161
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell161
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell161.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell161.R2.fastq.gz
+Your job 228254 ("A1_Cell161") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell162.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell162.R2.fastq.gz
+Sample ID:
+Cell162
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell162
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell162.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell162.R2.fastq.gz
+Your job 228255 ("A1_Cell162") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell163.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell163.R2.fastq.gz
+Sample ID:
+Cell163
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell163
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell163.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell163.R2.fastq.gz
+Your job 228256 ("A1_Cell163") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell164.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell164.R2.fastq.gz
+Sample ID:
+Cell164
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell164
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell164.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell164.R2.fastq.gz
+Your job 228257 ("A1_Cell164") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell165.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell165.R2.fastq.gz
+Sample ID:
+Cell165
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell165
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell165.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell165.R2.fastq.gz
+Your job 228258 ("A1_Cell165") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell166.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell166.R2.fastq.gz
+Sample ID:
+Cell166
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell166
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell166.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell166.R2.fastq.gz
+Your job 228259 ("A1_Cell166") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell167.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell167.R2.fastq.gz
+Sample ID:
+Cell167
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell167
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell167.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell167.R2.fastq.gz
+Your job 228260 ("A1_Cell167") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell168.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell168.R2.fastq.gz
+Sample ID:
+Cell168
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell168
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell168.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell168.R2.fastq.gz
+Your job 228261 ("A1_Cell168") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell169.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell169.R2.fastq.gz
+Sample ID:
+Cell169
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell169
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell169.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell169.R2.fastq.gz
+Your job 228262 ("A1_Cell169") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell16.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell16.R2.fastq.gz
+Sample ID:
+Cell16
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell16
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell16.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell16.R2.fastq.gz
+Your job 228263 ("A1_Cell16") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell170.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell170.R2.fastq.gz
+Sample ID:
+Cell170
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell170
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell170.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell170.R2.fastq.gz
+Your job 228264 ("A1_Cell170") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell171.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell171.R2.fastq.gz
+Sample ID:
+Cell171
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell171
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell171.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell171.R2.fastq.gz
+Your job 228265 ("A1_Cell171") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell172.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell172.R2.fastq.gz
+Sample ID:
+Cell172
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell172
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell172.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell172.R2.fastq.gz
+Your job 228266 ("A1_Cell172") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell173.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell173.R2.fastq.gz
+Sample ID:
+Cell173
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell173
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell173.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell173.R2.fastq.gz
+Your job 228267 ("A1_Cell173") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell174.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell174.R2.fastq.gz
+Sample ID:
+Cell174
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell174
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell174.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell174.R2.fastq.gz
+Your job 228268 ("A1_Cell174") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell175.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell175.R2.fastq.gz
+Sample ID:
+Cell175
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell175
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell175.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell175.R2.fastq.gz
+Your job 228269 ("A1_Cell175") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell176.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell176.R2.fastq.gz
+Sample ID:
+Cell176
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell176
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell176.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell176.R2.fastq.gz
+Your job 228270 ("A1_Cell176") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell177.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell177.R2.fastq.gz
+Sample ID:
+Cell177
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell177
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell177.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell177.R2.fastq.gz
+Your job 228271 ("A1_Cell177") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell178.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell178.R2.fastq.gz
+Sample ID:
+Cell178
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell178
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell178.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell178.R2.fastq.gz
+Your job 228272 ("A1_Cell178") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell179.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell179.R2.fastq.gz
+Sample ID:
+Cell179
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell179
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell179.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell179.R2.fastq.gz
+Your job 228273 ("A1_Cell179") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell17.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell17.R2.fastq.gz
+Sample ID:
+Cell17
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell17
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell17.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell17.R2.fastq.gz
+Your job 228274 ("A1_Cell17") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell180.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell180.R2.fastq.gz
+Sample ID:
+Cell180
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell180
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell180.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell180.R2.fastq.gz
+Your job 228275 ("A1_Cell180") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell181.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell181.R2.fastq.gz
+Sample ID:
+Cell181
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell181
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell181.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell181.R2.fastq.gz
+Your job 228276 ("A1_Cell181") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell182.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell182.R2.fastq.gz
+Sample ID:
+Cell182
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell182
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell182.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell182.R2.fastq.gz
+Your job 228277 ("A1_Cell182") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell183.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell183.R2.fastq.gz
+Sample ID:
+Cell183
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell183
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell183.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell183.R2.fastq.gz
+Your job 228278 ("A1_Cell183") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell184.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell184.R2.fastq.gz
+Sample ID:
+Cell184
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell184
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell184.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell184.R2.fastq.gz
+Your job 228279 ("A1_Cell184") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell185.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell185.R2.fastq.gz
+Sample ID:
+Cell185
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell185
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell185.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell185.R2.fastq.gz
+Your job 228280 ("A1_Cell185") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell186.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell186.R2.fastq.gz
+Sample ID:
+Cell186
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell186
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell186.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell186.R2.fastq.gz
+Your job 228281 ("A1_Cell186") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell187.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell187.R2.fastq.gz
+Sample ID:
+Cell187
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell187
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell187.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell187.R2.fastq.gz
+Your job 228282 ("A1_Cell187") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell188.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell188.R2.fastq.gz
+Sample ID:
+Cell188
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell188
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell188.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell188.R2.fastq.gz
+Your job 228283 ("A1_Cell188") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell189.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell189.R2.fastq.gz
+Sample ID:
+Cell189
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell189
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell189.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell189.R2.fastq.gz
+Your job 228284 ("A1_Cell189") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell18.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell18.R2.fastq.gz
+Sample ID:
+Cell18
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell18
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell18.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell18.R2.fastq.gz
+Your job 228285 ("A1_Cell18") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell190.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell190.R2.fastq.gz
+Sample ID:
+Cell190
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell190
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell190.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell190.R2.fastq.gz
+Your job 228286 ("A1_Cell190") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell191.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell191.R2.fastq.gz
+Sample ID:
+Cell191
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell191
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell191.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell191.R2.fastq.gz
+Your job 228287 ("A1_Cell191") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell192.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell192.R2.fastq.gz
+Sample ID:
+Cell192
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell192
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell192.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell192.R2.fastq.gz
+Your job 228288 ("A1_Cell192") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell19.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell19.R2.fastq.gz
+Sample ID:
+Cell19
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell19
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell19.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell19.R2.fastq.gz
+Your job 228289 ("A1_Cell19") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell1.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell1.R2.fastq.gz
+Sample ID:
+Cell1
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell1
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell1.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell1.R2.fastq.gz
+Your job 228290 ("A1_Cell1") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell20.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell20.R2.fastq.gz
+Sample ID:
+Cell20
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell20
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell20.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell20.R2.fastq.gz
+Your job 228291 ("A1_Cell20") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell21.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell21.R2.fastq.gz
+Sample ID:
+Cell21
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell21
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell21.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell21.R2.fastq.gz
+Your job 228292 ("A1_Cell21") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell22.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell22.R2.fastq.gz
+Sample ID:
+Cell22
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell22
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell22.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell22.R2.fastq.gz
+Your job 228293 ("A1_Cell22") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell23.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell23.R2.fastq.gz
+Sample ID:
+Cell23
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell23
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell23.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell23.R2.fastq.gz
+Your job 228294 ("A1_Cell23") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell24.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell24.R2.fastq.gz
+Sample ID:
+Cell24
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell24
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell24.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell24.R2.fastq.gz
+Your job 228295 ("A1_Cell24") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell25.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell25.R2.fastq.gz
+Sample ID:
+Cell25
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell25
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell25.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell25.R2.fastq.gz
+Your job 228296 ("A1_Cell25") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell26.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell26.R2.fastq.gz
+Sample ID:
+Cell26
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell26
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell26.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell26.R2.fastq.gz
+Your job 228297 ("A1_Cell26") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell27.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell27.R2.fastq.gz
+Sample ID:
+Cell27
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell27
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell27.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell27.R2.fastq.gz
+Your job 228298 ("A1_Cell27") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell28.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell28.R2.fastq.gz
+Sample ID:
+Cell28
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell28
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell28.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell28.R2.fastq.gz
+Your job 228299 ("A1_Cell28") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell29.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell29.R2.fastq.gz
+Sample ID:
+Cell29
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell29
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell29.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell29.R2.fastq.gz
+Your job 228300 ("A1_Cell29") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell2.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell2.R2.fastq.gz
+Sample ID:
+Cell2
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell2
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell2.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell2.R2.fastq.gz
+Your job 228301 ("A1_Cell2") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell30.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell30.R2.fastq.gz
+Sample ID:
+Cell30
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell30
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell30.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell30.R2.fastq.gz
+Your job 228302 ("A1_Cell30") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell31.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell31.R2.fastq.gz
+Sample ID:
+Cell31
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell31
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell31.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell31.R2.fastq.gz
+Your job 228303 ("A1_Cell31") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell32.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell32.R2.fastq.gz
+Sample ID:
+Cell32
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell32
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell32.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell32.R2.fastq.gz
+Your job 228304 ("A1_Cell32") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell33.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell33.R2.fastq.gz
+Sample ID:
+Cell33
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell33
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell33.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell33.R2.fastq.gz
+Your job 228305 ("A1_Cell33") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell34.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell34.R2.fastq.gz
+Sample ID:
+Cell34
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell34
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell34.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell34.R2.fastq.gz
+Your job 228306 ("A1_Cell34") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell35.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell35.R2.fastq.gz
+Sample ID:
+Cell35
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell35
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell35.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell35.R2.fastq.gz
+Your job 228307 ("A1_Cell35") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell36.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell36.R2.fastq.gz
+Sample ID:
+Cell36
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell36
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell36.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell36.R2.fastq.gz
+Your job 228308 ("A1_Cell36") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell37.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell37.R2.fastq.gz
+Sample ID:
+Cell37
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell37
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell37.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell37.R2.fastq.gz
+Your job 228309 ("A1_Cell37") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell38.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell38.R2.fastq.gz
+Sample ID:
+Cell38
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell38
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell38.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell38.R2.fastq.gz
+Your job 228310 ("A1_Cell38") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell39.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell39.R2.fastq.gz
+Sample ID:
+Cell39
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell39
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell39.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell39.R2.fastq.gz
+Your job 228311 ("A1_Cell39") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell3.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell3.R2.fastq.gz
+Sample ID:
+Cell3
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell3
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell3.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell3.R2.fastq.gz
+Your job 228312 ("A1_Cell3") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell40.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell40.R2.fastq.gz
+Sample ID:
+Cell40
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell40
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell40.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell40.R2.fastq.gz
+Your job 228313 ("A1_Cell40") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell41.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell41.R2.fastq.gz
+Sample ID:
+Cell41
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell41
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell41.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell41.R2.fastq.gz
+Your job 228314 ("A1_Cell41") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell42.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell42.R2.fastq.gz
+Sample ID:
+Cell42
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell42
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell42.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell42.R2.fastq.gz
+Your job 228315 ("A1_Cell42") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell43.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell43.R2.fastq.gz
+Sample ID:
+Cell43
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell43
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell43.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell43.R2.fastq.gz
+Your job 228316 ("A1_Cell43") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell44.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell44.R2.fastq.gz
+Sample ID:
+Cell44
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell44
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell44.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell44.R2.fastq.gz
+Your job 228317 ("A1_Cell44") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell45.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell45.R2.fastq.gz
+Sample ID:
+Cell45
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell45
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell45.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell45.R2.fastq.gz
+Your job 228318 ("A1_Cell45") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell46.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell46.R2.fastq.gz
+Sample ID:
+Cell46
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell46
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell46.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell46.R2.fastq.gz
+Your job 228319 ("A1_Cell46") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell47.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell47.R2.fastq.gz
+Sample ID:
+Cell47
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell47
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell47.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell47.R2.fastq.gz
+Your job 228320 ("A1_Cell47") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell48.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell48.R2.fastq.gz
+Sample ID:
+Cell48
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell48
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell48.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell48.R2.fastq.gz
+Your job 228321 ("A1_Cell48") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell49.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell49.R2.fastq.gz
+Sample ID:
+Cell49
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell49
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell49.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell49.R2.fastq.gz
+Your job 228322 ("A1_Cell49") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell4.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell4.R2.fastq.gz
+Sample ID:
+Cell4
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell4
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell4.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell4.R2.fastq.gz
+Your job 228323 ("A1_Cell4") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell50.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell50.R2.fastq.gz
+Sample ID:
+Cell50
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell50
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell50.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell50.R2.fastq.gz
+Your job 228324 ("A1_Cell50") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell51.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell51.R2.fastq.gz
+Sample ID:
+Cell51
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell51
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell51.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell51.R2.fastq.gz
+Your job 228325 ("A1_Cell51") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell52.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell52.R2.fastq.gz
+Sample ID:
+Cell52
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell52
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell52.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell52.R2.fastq.gz
+Your job 228326 ("A1_Cell52") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell53.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell53.R2.fastq.gz
+Sample ID:
+Cell53
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell53
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell53.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell53.R2.fastq.gz
+Your job 228327 ("A1_Cell53") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell54.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell54.R2.fastq.gz
+Sample ID:
+Cell54
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell54
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell54.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell54.R2.fastq.gz
+Your job 228328 ("A1_Cell54") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell55.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell55.R2.fastq.gz
+Sample ID:
+Cell55
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell55
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell55.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell55.R2.fastq.gz
+Your job 228329 ("A1_Cell55") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell56.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell56.R2.fastq.gz
+Sample ID:
+Cell56
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell56
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell56.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell56.R2.fastq.gz
+Your job 228330 ("A1_Cell56") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell57.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell57.R2.fastq.gz
+Sample ID:
+Cell57
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell57
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell57.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell57.R2.fastq.gz
+Your job 228331 ("A1_Cell57") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell58.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell58.R2.fastq.gz
+Sample ID:
+Cell58
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell58
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell58.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell58.R2.fastq.gz
+Your job 228332 ("A1_Cell58") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell59.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell59.R2.fastq.gz
+Sample ID:
+Cell59
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell59
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell59.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell59.R2.fastq.gz
+Your job 228333 ("A1_Cell59") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell5.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell5.R2.fastq.gz
+Sample ID:
+Cell5
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell5
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell5.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell5.R2.fastq.gz
+Your job 228334 ("A1_Cell5") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell60.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell60.R2.fastq.gz
+Sample ID:
+Cell60
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell60
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell60.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell60.R2.fastq.gz
+Your job 228335 ("A1_Cell60") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell61.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell61.R2.fastq.gz
+Sample ID:
+Cell61
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell61
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell61.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell61.R2.fastq.gz
+Your job 228336 ("A1_Cell61") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell62.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell62.R2.fastq.gz
+Sample ID:
+Cell62
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell62
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell62.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell62.R2.fastq.gz
+Your job 228337 ("A1_Cell62") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell63.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell63.R2.fastq.gz
+Sample ID:
+Cell63
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell63
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell63.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell63.R2.fastq.gz
+Your job 228338 ("A1_Cell63") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell64.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell64.R2.fastq.gz
+Sample ID:
+Cell64
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell64
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell64.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell64.R2.fastq.gz
+Your job 228339 ("A1_Cell64") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell65.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell65.R2.fastq.gz
+Sample ID:
+Cell65
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell65
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell65.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell65.R2.fastq.gz
+Your job 228340 ("A1_Cell65") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell66.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell66.R2.fastq.gz
+Sample ID:
+Cell66
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell66
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell66.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell66.R2.fastq.gz
+Your job 228341 ("A1_Cell66") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell67.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell67.R2.fastq.gz
+Sample ID:
+Cell67
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell67
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell67.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell67.R2.fastq.gz
+Your job 228342 ("A1_Cell67") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell68.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell68.R2.fastq.gz
+Sample ID:
+Cell68
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell68
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell68.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell68.R2.fastq.gz
+Your job 228343 ("A1_Cell68") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell69.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell69.R2.fastq.gz
+Sample ID:
+Cell69
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell69
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell69.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell69.R2.fastq.gz
+Your job 228344 ("A1_Cell69") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell6.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell6.R2.fastq.gz
+Sample ID:
+Cell6
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell6
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell6.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell6.R2.fastq.gz
+Your job 228345 ("A1_Cell6") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell70.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell70.R2.fastq.gz
+Sample ID:
+Cell70
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell70
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell70.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell70.R2.fastq.gz
+Your job 228346 ("A1_Cell70") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell71.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell71.R2.fastq.gz
+Sample ID:
+Cell71
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell71
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell71.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell71.R2.fastq.gz
+Your job 228347 ("A1_Cell71") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell72.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell72.R2.fastq.gz
+Sample ID:
+Cell72
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell72
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell72.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell72.R2.fastq.gz
+Your job 228348 ("A1_Cell72") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell73.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell73.R2.fastq.gz
+Sample ID:
+Cell73
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell73
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell73.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell73.R2.fastq.gz
+Your job 228349 ("A1_Cell73") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell74.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell74.R2.fastq.gz
+Sample ID:
+Cell74
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell74
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell74.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell74.R2.fastq.gz
+Your job 228350 ("A1_Cell74") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell75.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell75.R2.fastq.gz
+Sample ID:
+Cell75
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell75
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell75.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell75.R2.fastq.gz
+Your job 228351 ("A1_Cell75") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell76.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell76.R2.fastq.gz
+Sample ID:
+Cell76
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell76
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell76.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell76.R2.fastq.gz
+Your job 228352 ("A1_Cell76") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell77.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell77.R2.fastq.gz
+Sample ID:
+Cell77
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell77
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell77.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell77.R2.fastq.gz
+Your job 228353 ("A1_Cell77") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell78.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell78.R2.fastq.gz
+Sample ID:
+Cell78
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell78
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell78.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell78.R2.fastq.gz
+Your job 228354 ("A1_Cell78") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell79.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell79.R2.fastq.gz
+Sample ID:
+Cell79
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell79
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell79.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell79.R2.fastq.gz
+Your job 228355 ("A1_Cell79") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell7.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell7.R2.fastq.gz
+Sample ID:
+Cell7
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell7
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell7.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell7.R2.fastq.gz
+Your job 228356 ("A1_Cell7") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell80.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell80.R2.fastq.gz
+Sample ID:
+Cell80
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell80
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell80.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell80.R2.fastq.gz
+Your job 228357 ("A1_Cell80") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell81.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell81.R2.fastq.gz
+Sample ID:
+Cell81
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell81
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell81.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell81.R2.fastq.gz
+Your job 228358 ("A1_Cell81") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell82.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell82.R2.fastq.gz
+Sample ID:
+Cell82
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell82
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell82.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell82.R2.fastq.gz
+Your job 228359 ("A1_Cell82") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell83.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell83.R2.fastq.gz
+Sample ID:
+Cell83
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell83
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell83.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell83.R2.fastq.gz
+Your job 228360 ("A1_Cell83") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell84.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell84.R2.fastq.gz
+Sample ID:
+Cell84
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell84
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell84.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell84.R2.fastq.gz
+Your job 228361 ("A1_Cell84") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell85.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell85.R2.fastq.gz
+Sample ID:
+Cell85
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell85
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell85.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell85.R2.fastq.gz
+Your job 228362 ("A1_Cell85") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell86.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell86.R2.fastq.gz
+Sample ID:
+Cell86
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell86
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell86.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell86.R2.fastq.gz
+Your job 228363 ("A1_Cell86") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell87.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell87.R2.fastq.gz
+Sample ID:
+Cell87
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell87
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell87.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell87.R2.fastq.gz
+Your job 228364 ("A1_Cell87") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell88.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell88.R2.fastq.gz
+Sample ID:
+Cell88
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell88
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell88.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell88.R2.fastq.gz
+Your job 228365 ("A1_Cell88") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell89.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell89.R2.fastq.gz
+Sample ID:
+Cell89
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell89
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell89.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell89.R2.fastq.gz
+Your job 228366 ("A1_Cell89") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell8.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell8.R2.fastq.gz
+Sample ID:
+Cell8
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell8
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell8.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell8.R2.fastq.gz
+Your job 228367 ("A1_Cell8") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell90.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell90.R2.fastq.gz
+Sample ID:
+Cell90
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell90
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell90.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell90.R2.fastq.gz
+Your job 228368 ("A1_Cell90") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell91.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell91.R2.fastq.gz
+Sample ID:
+Cell91
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell91
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell91.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell91.R2.fastq.gz
+Your job 228369 ("A1_Cell91") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell92.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell92.R2.fastq.gz
+Sample ID:
+Cell92
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell92
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell92.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell92.R2.fastq.gz
+Your job 228370 ("A1_Cell92") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell93.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell93.R2.fastq.gz
+Sample ID:
+Cell93
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell93
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell93.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell93.R2.fastq.gz
+Your job 228371 ("A1_Cell93") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell94.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell94.R2.fastq.gz
+Sample ID:
+Cell94
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell94
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell94.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell94.R2.fastq.gz
+Your job 228372 ("A1_Cell94") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell95.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell95.R2.fastq.gz
+Sample ID:
+Cell95
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell95
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell95.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell95.R2.fastq.gz
+Your job 228373 ("A1_Cell95") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell96.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell96.R2.fastq.gz
+Sample ID:
+Cell96
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell96
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell96.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell96.R2.fastq.gz
+Your job 228374 ("A1_Cell96") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell97.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell97.R2.fastq.gz
+Sample ID:
+Cell97
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell97
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell97.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell97.R2.fastq.gz
+Your job 228375 ("A1_Cell97") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell98.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell98.R2.fastq.gz
+Sample ID:
+Cell98
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell98
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell98.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell98.R2.fastq.gz
+Your job 228376 ("A1_Cell98") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell99.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell99.R2.fastq.gz
+Sample ID:
+Cell99
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell99
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell99.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell99.R2.fastq.gz
+Your job 228377 ("A1_Cell99") has been submitted
+
+fastq Read 1 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell9.R1.fastq.gz
+fastq Read 2 path:
+../data/fastq/SxaQSEQsXbp060L2/Cell9.R2.fastq.gz
+Sample ID:
+Cell9
+Alignment output directory:
+../data/bam/SxaQSEQsXbp060L2/Cell9
+Submitting Star Alignment script for:
+../data/fastq/SxaQSEQsXbp060L2/Cell9.R1.fastq.gz
+../data/fastq/SxaQSEQsXbp060L2/Cell9.R2.fastq.gz
+Your job 228378 ("A1_Cell9") has been submitted

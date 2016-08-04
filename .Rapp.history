@@ -1,0 +1,305 @@
+rm(list=ls())
+sessionInfo()
+exDatDF <- read.csv("../data/Exprs_HTSCexon.csv", header = TRUE, row.names = 1)
+head(exDatDF)
+nCellExprD <- apply(exDatDF, 1, function(genes) length(subset(genes, genes > 1)))
+nCellExprD <- sort(nCellExprD)
+nkriegFilt <- sum(nCellExprD > 2)
+tGene <- nrow(exDatDF)
+mnCellExprD <- mean(nCellExprD)
+barplot(nCellExprD, xlab = "Genes", ylab = "Number of cells in which gene > 1 CPM", xaxt = 'n'#
+        , main = paste("Kriegstein 2015: Number of Cells With Gene Expressed"#
+                       ,"\nMean number of cells in which gene > 1 CPM: ", mnCellExprD#
+                       ,"\nTotal Genes: ", tGene#
+                       ,"\nKriegstein Filter (Red Line: Genes > 1 CPM in > 2 Cell):", nkriegFilt, sep=""))#
+abline(a = 2, b = 0, col = "red")#
+Axis(side = 1, labels = FALSE)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 0)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+barplot(gExprd, xlab = "Cells", ylab = "Number of genes TPM > 0", xaxt = 'n'#
+        , main = paste("Kriegstein 2015: Number of Genes Expressed"#
+                       ,"\nMean: ", mgExprd, sep=""))#
+Axis(side = 1, labels = FALSE)
+median(gExprd)
+gExprd
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))#
+gExprd <- sort(gExprd)#
+mgExprd <- mean(gExprd)#
+median(gExprd)
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+exDat2DF <- read.csv("../data/Exprs_HTSCexon_Run2.csv", header = TRUE, row.names = 1)
+dim(exDat1DF)
+dim(exDat2DF)
+head(sum(exDat1DF, exDat2DF))
+exDatDF <- Reduce('+', list(exDat1DF, exDat2DF))
+head(exDatDF)
+head(exDatDF1$Cell103)
+head(exDat1DF$Cell103)
+head(exDat2DF$Cell103)
+rm(list=ls())
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+exDat2DF <- read.csv("../data/Exprs_HTSCexon_Run2.csv", header = TRUE, row.names = 1)
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+head(exDat2DF$Cell103)
+head(exDat1DF$Cell103)
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+dim(exDat1DF)
+dim(exDat2DF)
+head(row.names(exDat1DF))
+head(row.names(exDat2DF))
+row.names(exDat2DF) %in% row.names(exDat1DF)
+table(row.names(exDat2DF) %in% row.names(exDat1DF))
+table(row.names(exDat1DF) %in% row.names(exDat2DF))
+row.names(exDat1DF) %in% row.names(exDat2DF)
+row.names(exDat1DF)[row.names(exDat1DF) %in% row.names(exDat2DF)]
+row.names(exDat1DF)[! row.names(exDat1DF) %in% row.names(exDat2DF)]
+dim(exDat1DF)
+rownames(exDat1DF)
+rownames(exDat2DF)
+rm(list=ls())
+sessionInfo()
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+exDat2DF <- read.csv("../data/Exprs_HTSCexon_Run2.csv", header = TRUE, row.names = 1)
+dim(exDat1DF)
+dim(exDat2DF)
+exDatDF <- Reduce('+', list(exDat1DF, exDat2DF))
+head(exDatDF)
+head(exDatDF$Cell103_ex)
+exDatDF <- Reduce('+', list(exDat2DF, exDat1DF))
+colnames(exDatDF)
+head(exDatDF$Cell103)
+head(exDat1DF$Cell103)
+head(exDat2DF$Cell103)
+head(exDat1DF)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+median(gExprd)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 1)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+median(gExprd)
+barplot(gExprd, xlab = "Cells", ylab = "Number of genes TPM > 0", xaxt = 'n'#
+        , main = paste("Kriegstein 2015: Number of Genes Expressed"#
+                       ,"\nMean: ", mgExprd, sep=""))#
+Axis(side = 1, labels = FALSE)
+hist(gExprd)
+fpm1DF <- read.csv("../data/Exprs_HTSCexon_Run2.csv", header = TRUE, row.names = 1)
+fpm1DF <- read.csv("../data/FPM.csv", header = TRUE, row.names = 1)
+fpm1DF <- read.csv("../data/FPM.csv", header = TRUE)
+head(fpm1DF)
+fpmCells <- gsub("X", "Cell", colnames(fpm1DF))
+fpmCells
+exDatDF[ , colnames(exDatDF) %in% fpmCells]
+colnames(exDatDF) %in% fpmCells
+exDatDF <- exDatDF[ , colnames(exDatDF) %in% fpmCells]
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 1)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+median(gExprd)
+hist(gExprd)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+median(gExprd)
+hist(gExprd)
+?hist
+hist(gExprd, breaks = 30)
+hist(gExprd, breaks = 20)
+?apply
+subset(exDatDF$Cell1, exDatDF$Cell1 > 5)
+exDatDF$Cell1
+colnames(exDatDF)
+subset(exDatDF$Cell100, exDatDF$Cell100 > 5)
+subset(exDatDF$Cell100, exDatDF$Cell100 > 1)
+gExprd <- apply(fpm1DF, 2, function(genes) length(subset(genes, genes > 5)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+median(gExprd)
+gExprd
+fpm1DF
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))#
+gExprd <- sort(gExprd)#
+mgExprd <- mean(gExprd)#
+median(gExprd)
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 5)))
+median(gExprd)
+mgExprd <- mean(gExprd)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 1)))
+gExprd <- sort(gExprd)
+mgExprd <- mean(gExprd)
+hist(gExprd, breaks = 20)
+exDat2DF <- exDat2DF[ , colnames(exDat2DF) %in% fpmCells]
+exDat2DF
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 1)))
+median(gExprd)
+mean(gExprd)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 1)))
+mean(gExprd)
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDat2DF, 2, function(genes) length(subset(genes, genes > 1)))
+mean(gExprd)
+median(gExprd)
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes > 5)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes > 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDat1DF, 2, function(genes) length(subset(genes, genes >= 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 5)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 1)), xlab = "Genes Detected with >=1 reads")#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 1)))#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20, , xlab = "Genes Detected with >=1 reads")
+hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"#
+	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep="")))
+hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"#
+	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep=""))
+gExprd <- apply(exDat2DF, 2, function(genes) length(subset(genes, genes > 1)))#
+mgExprd <- mean(gExprd)#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20)
+gExprd <- apply(exDatDF, 2, function(genes) length(subset(genes, genes >= 1)))#
+mgExprd <- mean(gExprd)#
+mean(gExprd)#
+median(gExprd)#
+hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"#
+	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep=""))
+pdf("../analysis/graphs/Histogram_Genes_Expressed.pdf")#
+hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"#
+	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep=""))#
+dev.off()
+cor(exDatDF1, exDatDF2)
+cor(exDat1DF, exDat2DF)
+cor(exDat1DF, exDat2DF)[1,1]
+cor(exDat1DF[,1], exDat2DF[,1])
+heatmap(cor(exDat1DF[,1], exDat2DF[,1]))
+heatmap(as.matrix(cor(exDat1DF[,1], exDat2DF[,1])))
+corR1R2 <- cor(exDat1DF, exDat2DF)
+str(corR1R2)
+head(matrix(corR1R2))
+head(as.matrix(corR1R2))
+heatmap(as.matrix(corR1R2))
+library(WGCNA)
+plot.cor(as.matrix(corR1R2))
+heatmap.2(as.matrix(corR1R2), Rowv = FALSE)
+heatmap(as.matrix(corR1R2), Rowv = FALSE)
+heatmap(as.matrix(corR1R2), Rowv = FALSE, Colv = FALSE)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+head(corR1R2)
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+exDat2DF <- read.csv("../data/Exprs_HTSCexon_Run2.csv", header = TRUE, row.names = 1)
+corR1R2 <- cor(exDat1DF, exDat2DF)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+head(corR1R2)
+labeledHeatmap(as.matrix(corR1R2))
+corR1R2 <- as.matrix(corR1R2)
+head(corR1R2)
+colnames(corR1R2)
+labeledHeatmap(corR1R2, xLabels = names(corR1R2), yLabels = names(corR1R2))
+head(corR1R2)
+corR1R2[1:5, 1;5]
+corR1R2[1:5, 1:5]
+corR1R2[1:6, 1:6]
+corR1R2[1:10, 1:10]
+round(corR1R2[1:10, 1:10], 3)
+round(corR1R2[1:10, 1:10], 2)
+corR1R2 <- cor(exDat1DF, exDat2DF, method = "spearman")
+corR1R2 <- as.matrix(corR1R2)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+head(corR1R2)
+labeledHeatmap(corR1R2, xLabels = names(corR1R2), yLabels = names(corR1R2))
+names(corR1R2)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+png("../analysis/graphs/Alignment_Stats_Graph_Genes_Expressed.png")
+barplot(gExprd, xlab = "Cells", ylab = "Number of genes TPM > 0", xaxt = 'n'#
+        , main = paste("Kriegstein 2015: Number of Genes Expressed"#
+                       ,"\nMean: ", mgExprd, sep=""))#
+Axis(side = 1, labels = FALSE)#
+dev.off()
+png("../analysis/graphs/Alignment_Stats_Graph_Genes_Expressed.png")
+png("../analysis/graphs/Histogram_Genes_Expressed.png")
+hist(gExprd, breaks = 20, xlab = "Genes Detected with >=1 reads"#
+	, main = paste("Number of Genes Expressed", "\nMean: ", mgExprd, sep=""))#
+dev.off()
+pdf("../analysis/graphs/Histogram_Genes_Expressed.pdf")#
+png("../analysis/graphs/Histogram_Genes_Expressed.png")#
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)#
+labeledHeatmap(corR1R2, xLabels = names(corR1R2), yLabels = names(corR1R2))#
+dev.off()
+dev.off()
+pdf("../analysis/graphs/Histogram_Genes_Expressed.pdf")#
+png("../analysis/graphs/Histogram_Genes_Expressed.png")#
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)#
+dev.off()
+ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
+ex2fTdF <- exDat2DF[ , colnames(exDat2DF) %in% fpmCells]
+corR1R2 <- cor(ex1fTdF, ex2fTdF, method = "spearman")
+corR1R2 <- as.matrix(corR1R2)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+corR1R2 <- as.matrix(corR1R2)
+ex1fTdF
+fpmCells <- gsub("X", "Cell", colnames(fpm1DF))
+ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
+ex2fTdF <- exDat2DF[ , colnames(exDat2DF) %in% fpmCells]
+corR1R2 <- cor(ex1fTdF, ex2fTdF, method = "spearman")
+ex2fTdF
+ex1fTdF
+exDat1DF <- read.csv("../data/Exprs_HTSCexon_Run1.csv", header = TRUE, row.names = 1)
+ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
+corR1R2 <- cor(ex1fTdF, ex2fTdF, method = "spearman")
+dim(ex1fTdF)
+colnames(exDat1DF)
+gsub("_.*", "", colnames(exDat1DF))
+colnames(exDat1DF) <- gsub("_.*", "", colnames(exDat1DF))
+ex1fTdF <- exDat1DF[ , colnames(exDat1DF) %in% fpmCells]
+dim(ex1fTdF)
+corR1R2 <- cor(exDat1DF, exDat2DF, method = "spearman")
+corR1R2 <- as.matrix(corR1R2)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+corR1R2 <- cor(ex1fTdF, ex2fTdF, method = "spearman")
+corR1R2 <- as.matrix(corR1R2)
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+dev.off()
+heatmap(as.matrix(corR1R2), Rowv = NA, Colv = NA)
+dim(corR1R2)
+gExprd
+corR1R2[1:10, ]
+tail(corR1R2)
+tail(corR1R2, 20)
+gExprd
+corR1R2[70:90, ]
+corR1R2[60:70, ]
+corR1R2[70:100, ]
+gExprd
+1e5
+1e3

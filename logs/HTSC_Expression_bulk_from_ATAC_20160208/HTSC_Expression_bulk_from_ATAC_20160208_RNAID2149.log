@@ -1,0 +1,13 @@
+Starting HTSC_Expression_bulk_from_ATAC.sh... Mon Feb 8 15:24:12 PST 2016
+Started HTSC exon on...: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2149/RNAID2149.merge.remarkdup.bam
+In bam:
+/geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2149/RNAID2149.merge.remarkdup.bam
+Start samtools sorting by name on...:
+/geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2149/RNAID2149.merge.remarkdup.bam
+Done samtools sorting by name, output:
+../data/htseq/bulk_VZ_CP_from_ATAC/tmp_RNAID2149_name_sorted.bam
+Started HTSC exon on...:
+../data/htseq/bulk_VZ_CP_from_ATAC/tmp_RNAID2149_name_sorted.bam
+Saving HTSC exon results to...: ../data/htseq/bulk_VZ_CP_from_ATAC/RNAID2149_exon_union_count.txt
+2016-02-08	18:02:09
+End of HTSC_Expression.sh...

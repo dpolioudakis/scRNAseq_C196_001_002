@@ -1,0 +1,57 @@
+Starting HTSC_Expression_bulk_from_ATAC_QSUB.sh...
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1823/1823.merge.remarkdup.bam
+In bam sample name: 1823
+Your job 237581 ("HT_1823") has been submitted
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1824/1824.merge.remarkdup.bam
+In bam sample name: 1824
+Your job 237582 ("HT_1824") has been submitted
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1825/1825.merge.remarkdup.bam
+In bam sample name: 1825
+Your job 237583 ("HT_1825") has been submitted
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1826/1826.merge.remarkdup.bam
+In bam sample name: 1826
+Your job 237584 ("HT_1826") has been submitted
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1827/1827.merge.remarkdup.bam
+In bam sample name: 1827
+Your job 237585 ("HT_1827") has been submitted
+In bam: /geschwindlabshares/eQTL/data/FetalBrainRNASeq/MergeBAM/1828/1828.merge.remarkdup.bam
+In bam sample name: 1828
+Your job 237586 ("HT_1828") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/2015-9086R/data/MergeBAM/RNAID2147/RNAID2147.merge.remarkdup.bam
+In bam sample name: RNAID2147
+Your job 237587 ("HT_RNAID2147") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2148/RNAID2148.merge.remarkdup.bam
+In bam sample name: RNAID2148
+Your job 237588 ("HT_RNAID2148") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2149/RNAID2149.merge.remarkdup.bam
+In bam sample name: RNAID2149
+Your job 237589 ("HT_RNAID2149") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2150/RNAID2150.merge.remarkdup.bam
+In bam sample name: RNAID2150
+Your job 237590 ("HT_RNAID2150") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2151/RNAID2151.merge.remarkdup.bam
+In bam sample name: RNAID2151
+Your job 237591 ("HT_RNAID2151") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2152/RNAID2152.merge.remarkdup.bam
+In bam sample name: RNAID2152
+Your job 237592 ("HT_RNAID2152") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2157/RNAID2157.merge.remarkdup.bam
+In bam sample name: RNAID2157
+Your job 237593 ("HT_RNAID2157") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/2015-9086R/data/MergeBAM/RNAID2158/RNAID2158.merge.remarkdup.bam
+In bam sample name: RNAID2158
+Your job 237594 ("HT_RNAID2158") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/2015-9086R/data/MergeBAM/RNAID2159/RNAID2159.merge.remarkdup.bam
+In bam sample name: RNAID2159
+Your job 237595 ("HT_RNAID2159") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/data/MergeBAM/RNAID2160/RNAID2160.merge.remarkdup.bam
+In bam sample name: RNAID2160
+Your job 237596 ("HT_RNAID2160") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/2015-9086R/data/MergeBAM/RNAID2161/RNAID2161.merge.remarkdup.bam
+In bam sample name: RNAID2161
+Your job 237597 ("HT_RNAID2161") has been submitted
+In bam: /geschwindlabshares/eQTL/Round2/2015-9086R/data/MergeBAM/RNAID2162/RNAID2162.merge.remarkdup.bam
+In bam sample name: RNAID2162
+Your job 237598 ("HT_RNAID2162") has been submitted
+2016-02-08	15:23:58
+End of HTSC_Expression_QSUB.sh...

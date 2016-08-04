@@ -1,0 +1,1728 @@
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell1
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell1
+../data/bam/merged/Cell1/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232130 ("QC_Cell1") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell10
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell10
+../data/bam/merged/Cell10/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232131 ("QC_Cell10") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell100
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell100
+../data/bam/merged/Cell100/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232132 ("QC_Cell100") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell101
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell101
+../data/bam/merged/Cell101/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232133 ("QC_Cell101") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell102
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell102
+../data/bam/merged/Cell102/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232134 ("QC_Cell102") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell103
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell103
+../data/bam/merged/Cell103/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232135 ("QC_Cell103") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell104
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell104
+../data/bam/merged/Cell104/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232136 ("QC_Cell104") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell105
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell105
+../data/bam/merged/Cell105/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232137 ("QC_Cell105") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell106
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell106
+../data/bam/merged/Cell106/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232138 ("QC_Cell106") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell107
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell107
+../data/bam/merged/Cell107/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232139 ("QC_Cell107") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell108
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell108
+../data/bam/merged/Cell108/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232140 ("QC_Cell108") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell109
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell109
+../data/bam/merged/Cell109/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232141 ("QC_Cell109") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell11
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell11
+../data/bam/merged/Cell11/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232142 ("QC_Cell11") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell110
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell110
+../data/bam/merged/Cell110/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232143 ("QC_Cell110") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell111
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell111
+../data/bam/merged/Cell111/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232144 ("QC_Cell111") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell112
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell112
+../data/bam/merged/Cell112/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232145 ("QC_Cell112") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell113
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell113
+../data/bam/merged/Cell113/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232146 ("QC_Cell113") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell114
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell114
+../data/bam/merged/Cell114/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232147 ("QC_Cell114") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell115
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell115
+../data/bam/merged/Cell115/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232148 ("QC_Cell115") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell116
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell116
+../data/bam/merged/Cell116/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232149 ("QC_Cell116") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell117
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell117
+../data/bam/merged/Cell117/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232150 ("QC_Cell117") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell118
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell118
+../data/bam/merged/Cell118/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232151 ("QC_Cell118") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell119
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell119
+../data/bam/merged/Cell119/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232152 ("QC_Cell119") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell12
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell12
+../data/bam/merged/Cell12/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232153 ("QC_Cell12") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell120
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell120
+../data/bam/merged/Cell120/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232154 ("QC_Cell120") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell121
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell121
+../data/bam/merged/Cell121/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232155 ("QC_Cell121") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell122
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell122
+../data/bam/merged/Cell122/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232156 ("QC_Cell122") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell123
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell123
+../data/bam/merged/Cell123/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232157 ("QC_Cell123") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell124
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell124
+../data/bam/merged/Cell124/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232158 ("QC_Cell124") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell125
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell125
+../data/bam/merged/Cell125/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232159 ("QC_Cell125") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell126
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell126
+../data/bam/merged/Cell126/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232160 ("QC_Cell126") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell127
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell127
+../data/bam/merged/Cell127/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232161 ("QC_Cell127") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell128
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell128
+../data/bam/merged/Cell128/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232162 ("QC_Cell128") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell129
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell129
+../data/bam/merged/Cell129/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232163 ("QC_Cell129") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell13
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell13
+../data/bam/merged/Cell13/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232164 ("QC_Cell13") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell130
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell130
+../data/bam/merged/Cell130/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232165 ("QC_Cell130") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell131
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell131
+../data/bam/merged/Cell131/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232166 ("QC_Cell131") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell132
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell132
+../data/bam/merged/Cell132/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232167 ("QC_Cell132") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell133
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell133
+../data/bam/merged/Cell133/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232168 ("QC_Cell133") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell134
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell134
+../data/bam/merged/Cell134/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232169 ("QC_Cell134") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell135
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell135
+../data/bam/merged/Cell135/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232170 ("QC_Cell135") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell136
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell136
+../data/bam/merged/Cell136/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232171 ("QC_Cell136") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell137
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell137
+../data/bam/merged/Cell137/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232172 ("QC_Cell137") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell138
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell138
+../data/bam/merged/Cell138/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232173 ("QC_Cell138") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell139
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell139
+../data/bam/merged/Cell139/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232174 ("QC_Cell139") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell14
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell14
+../data/bam/merged/Cell14/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232175 ("QC_Cell14") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell140
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell140
+../data/bam/merged/Cell140/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232176 ("QC_Cell140") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell141
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell141
+../data/bam/merged/Cell141/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232177 ("QC_Cell141") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell142
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell142
+../data/bam/merged/Cell142/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232178 ("QC_Cell142") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell143
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell143
+../data/bam/merged/Cell143/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232179 ("QC_Cell143") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell144
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell144
+../data/bam/merged/Cell144/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232180 ("QC_Cell144") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell145
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell145
+../data/bam/merged/Cell145/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232181 ("QC_Cell145") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell146
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell146
+../data/bam/merged/Cell146/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232182 ("QC_Cell146") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell147
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell147
+../data/bam/merged/Cell147/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232183 ("QC_Cell147") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell148
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell148
+../data/bam/merged/Cell148/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232184 ("QC_Cell148") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell149
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell149
+../data/bam/merged/Cell149/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232185 ("QC_Cell149") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell15
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell15
+../data/bam/merged/Cell15/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232186 ("QC_Cell15") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell150
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell150
+../data/bam/merged/Cell150/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232187 ("QC_Cell150") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell151
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell151
+../data/bam/merged/Cell151/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232188 ("QC_Cell151") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell152
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell152
+../data/bam/merged/Cell152/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232189 ("QC_Cell152") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell153
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell153
+../data/bam/merged/Cell153/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232190 ("QC_Cell153") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell154
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell154
+../data/bam/merged/Cell154/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232191 ("QC_Cell154") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell155
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell155
+../data/bam/merged/Cell155/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232192 ("QC_Cell155") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell156
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell156
+../data/bam/merged/Cell156/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232193 ("QC_Cell156") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell157
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell157
+../data/bam/merged/Cell157/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232194 ("QC_Cell157") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell158
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell158
+../data/bam/merged/Cell158/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232195 ("QC_Cell158") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell159
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell159
+../data/bam/merged/Cell159/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232196 ("QC_Cell159") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell16
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell16
+../data/bam/merged/Cell16/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232197 ("QC_Cell16") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell160
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell160
+../data/bam/merged/Cell160/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232198 ("QC_Cell160") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell161
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell161
+../data/bam/merged/Cell161/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232199 ("QC_Cell161") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell162
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell162
+../data/bam/merged/Cell162/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232200 ("QC_Cell162") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell163
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell163
+../data/bam/merged/Cell163/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232201 ("QC_Cell163") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell164
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell164
+../data/bam/merged/Cell164/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232202 ("QC_Cell164") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell165
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell165
+../data/bam/merged/Cell165/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232203 ("QC_Cell165") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell166
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell166
+../data/bam/merged/Cell166/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232204 ("QC_Cell166") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell167
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell167
+../data/bam/merged/Cell167/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232205 ("QC_Cell167") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell168
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell168
+../data/bam/merged/Cell168/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232206 ("QC_Cell168") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell169
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell169
+../data/bam/merged/Cell169/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232207 ("QC_Cell169") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell17
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell17
+../data/bam/merged/Cell17/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232208 ("QC_Cell17") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell170
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell170
+../data/bam/merged/Cell170/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232209 ("QC_Cell170") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell171
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell171
+../data/bam/merged/Cell171/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232210 ("QC_Cell171") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell172
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell172
+../data/bam/merged/Cell172/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232211 ("QC_Cell172") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell173
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell173
+../data/bam/merged/Cell173/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232212 ("QC_Cell173") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell174
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell174
+../data/bam/merged/Cell174/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232213 ("QC_Cell174") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell175
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell175
+../data/bam/merged/Cell175/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232214 ("QC_Cell175") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell176
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell176
+../data/bam/merged/Cell176/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232215 ("QC_Cell176") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell177
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell177
+../data/bam/merged/Cell177/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232216 ("QC_Cell177") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell178
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell178
+../data/bam/merged/Cell178/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232217 ("QC_Cell178") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell179
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell179
+../data/bam/merged/Cell179/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232218 ("QC_Cell179") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell18
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell18
+../data/bam/merged/Cell18/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232219 ("QC_Cell18") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell180
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell180
+../data/bam/merged/Cell180/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232220 ("QC_Cell180") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell181
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell181
+../data/bam/merged/Cell181/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232221 ("QC_Cell181") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell182
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell182
+../data/bam/merged/Cell182/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232222 ("QC_Cell182") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell183
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell183
+../data/bam/merged/Cell183/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232223 ("QC_Cell183") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell184
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell184
+../data/bam/merged/Cell184/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232224 ("QC_Cell184") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell185
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell185
+../data/bam/merged/Cell185/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232225 ("QC_Cell185") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell186
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell186
+../data/bam/merged/Cell186/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232226 ("QC_Cell186") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell187
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell187
+../data/bam/merged/Cell187/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232227 ("QC_Cell187") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell188
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell188
+../data/bam/merged/Cell188/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232228 ("QC_Cell188") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell189
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell189
+../data/bam/merged/Cell189/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232229 ("QC_Cell189") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell19
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell19
+../data/bam/merged/Cell19/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232230 ("QC_Cell19") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell190
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell190
+../data/bam/merged/Cell190/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232231 ("QC_Cell190") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell191
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell191
+../data/bam/merged/Cell191/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232232 ("QC_Cell191") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell192
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell192
+../data/bam/merged/Cell192/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232233 ("QC_Cell192") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell2
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell2
+../data/bam/merged/Cell2/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232234 ("QC_Cell2") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell20
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell20
+../data/bam/merged/Cell20/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232235 ("QC_Cell20") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell21
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell21
+../data/bam/merged/Cell21/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232236 ("QC_Cell21") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell22
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell22
+../data/bam/merged/Cell22/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232237 ("QC_Cell22") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell23
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell23
+../data/bam/merged/Cell23/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232238 ("QC_Cell23") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell24
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell24
+../data/bam/merged/Cell24/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232239 ("QC_Cell24") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell25
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell25
+../data/bam/merged/Cell25/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232240 ("QC_Cell25") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell26
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell26
+../data/bam/merged/Cell26/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232241 ("QC_Cell26") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell27
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell27
+../data/bam/merged/Cell27/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232242 ("QC_Cell27") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell28
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell28
+../data/bam/merged/Cell28/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232243 ("QC_Cell28") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell29
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell29
+../data/bam/merged/Cell29/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232244 ("QC_Cell29") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell3
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell3
+../data/bam/merged/Cell3/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232245 ("QC_Cell3") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell30
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell30
+../data/bam/merged/Cell30/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232246 ("QC_Cell30") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell31
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell31
+../data/bam/merged/Cell31/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232247 ("QC_Cell31") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell32
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell32
+../data/bam/merged/Cell32/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232248 ("QC_Cell32") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell33
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell33
+../data/bam/merged/Cell33/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232249 ("QC_Cell33") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell34
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell34
+../data/bam/merged/Cell34/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232250 ("QC_Cell34") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell35
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell35
+../data/bam/merged/Cell35/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232251 ("QC_Cell35") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell36
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell36
+../data/bam/merged/Cell36/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232252 ("QC_Cell36") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell37
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell37
+../data/bam/merged/Cell37/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232253 ("QC_Cell37") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell38
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell38
+../data/bam/merged/Cell38/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232254 ("QC_Cell38") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell39
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell39
+../data/bam/merged/Cell39/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232255 ("QC_Cell39") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell4
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell4
+../data/bam/merged/Cell4/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232256 ("QC_Cell4") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell40
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell40
+../data/bam/merged/Cell40/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232257 ("QC_Cell40") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell41
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell41
+../data/bam/merged/Cell41/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232258 ("QC_Cell41") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell42
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell42
+../data/bam/merged/Cell42/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232259 ("QC_Cell42") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell43
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell43
+../data/bam/merged/Cell43/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232260 ("QC_Cell43") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell44
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell44
+../data/bam/merged/Cell44/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232261 ("QC_Cell44") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell45
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell45
+../data/bam/merged/Cell45/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232262 ("QC_Cell45") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell46
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell46
+../data/bam/merged/Cell46/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232263 ("QC_Cell46") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell47
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell47
+../data/bam/merged/Cell47/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232264 ("QC_Cell47") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell48
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell48
+../data/bam/merged/Cell48/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232265 ("QC_Cell48") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell49
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell49
+../data/bam/merged/Cell49/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232266 ("QC_Cell49") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell5
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell5
+../data/bam/merged/Cell5/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232267 ("QC_Cell5") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell50
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell50
+../data/bam/merged/Cell50/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232268 ("QC_Cell50") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell51
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell51
+../data/bam/merged/Cell51/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232269 ("QC_Cell51") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell52
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell52
+../data/bam/merged/Cell52/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232270 ("QC_Cell52") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell53
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell53
+../data/bam/merged/Cell53/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232271 ("QC_Cell53") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell54
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell54
+../data/bam/merged/Cell54/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232272 ("QC_Cell54") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell55
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell55
+../data/bam/merged/Cell55/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232273 ("QC_Cell55") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell56
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell56
+../data/bam/merged/Cell56/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232274 ("QC_Cell56") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell57
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell57
+../data/bam/merged/Cell57/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232275 ("QC_Cell57") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell58
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell58
+../data/bam/merged/Cell58/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232276 ("QC_Cell58") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell59
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell59
+../data/bam/merged/Cell59/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232277 ("QC_Cell59") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell6
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell6
+../data/bam/merged/Cell6/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232278 ("QC_Cell6") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell60
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell60
+../data/bam/merged/Cell60/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232279 ("QC_Cell60") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell61
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell61
+../data/bam/merged/Cell61/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232280 ("QC_Cell61") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell62
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell62
+../data/bam/merged/Cell62/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232281 ("QC_Cell62") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell63
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell63
+../data/bam/merged/Cell63/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232282 ("QC_Cell63") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell64
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell64
+../data/bam/merged/Cell64/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232283 ("QC_Cell64") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell65
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell65
+../data/bam/merged/Cell65/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232284 ("QC_Cell65") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell66
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell66
+../data/bam/merged/Cell66/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232285 ("QC_Cell66") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell67
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell67
+../data/bam/merged/Cell67/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232286 ("QC_Cell67") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell68
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell68
+../data/bam/merged/Cell68/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232287 ("QC_Cell68") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell69
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell69
+../data/bam/merged/Cell69/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232288 ("QC_Cell69") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell7
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell7
+../data/bam/merged/Cell7/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232289 ("QC_Cell7") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell70
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell70
+../data/bam/merged/Cell70/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232290 ("QC_Cell70") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell71
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell71
+../data/bam/merged/Cell71/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232291 ("QC_Cell71") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell72
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell72
+../data/bam/merged/Cell72/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232292 ("QC_Cell72") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell73
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell73
+../data/bam/merged/Cell73/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232293 ("QC_Cell73") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell74
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell74
+../data/bam/merged/Cell74/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232294 ("QC_Cell74") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell75
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell75
+../data/bam/merged/Cell75/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232295 ("QC_Cell75") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell76
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell76
+../data/bam/merged/Cell76/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232296 ("QC_Cell76") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell77
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell77
+../data/bam/merged/Cell77/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232297 ("QC_Cell77") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell78
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell78
+../data/bam/merged/Cell78/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232298 ("QC_Cell78") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell79
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell79
+../data/bam/merged/Cell79/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232299 ("QC_Cell79") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell8
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell8
+../data/bam/merged/Cell8/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232300 ("QC_Cell8") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell80
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell80
+../data/bam/merged/Cell80/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232301 ("QC_Cell80") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell81
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell81
+../data/bam/merged/Cell81/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232302 ("QC_Cell81") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell82
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell82
+../data/bam/merged/Cell82/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232303 ("QC_Cell82") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell83
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell83
+../data/bam/merged/Cell83/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232304 ("QC_Cell83") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell84
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell84
+../data/bam/merged/Cell84/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232305 ("QC_Cell84") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell85
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell85
+../data/bam/merged/Cell85/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232306 ("QC_Cell85") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell86
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell86
+../data/bam/merged/Cell86/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232307 ("QC_Cell86") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell87
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell87
+../data/bam/merged/Cell87/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232308 ("QC_Cell87") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell88
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell88
+../data/bam/merged/Cell88/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232309 ("QC_Cell88") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell89
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell89
+../data/bam/merged/Cell89/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232310 ("QC_Cell89") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell9
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell9
+../data/bam/merged/Cell9/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232311 ("QC_Cell9") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell90
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell90
+../data/bam/merged/Cell90/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232312 ("QC_Cell90") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell91
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell91
+../data/bam/merged/Cell91/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232313 ("QC_Cell91") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell92
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell92
+../data/bam/merged/Cell92/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232314 ("QC_Cell92") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell93
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell93
+../data/bam/merged/Cell93/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232315 ("QC_Cell93") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell94
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell94
+../data/bam/merged/Cell94/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232316 ("QC_Cell94") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell95
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell95
+../data/bam/merged/Cell95/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232317 ("QC_Cell95") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell96
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell96
+../data/bam/merged/Cell96/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232318 ("QC_Cell96") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell97
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell97
+../data/bam/merged/Cell97/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232319 ("QC_Cell97") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell98
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell98
+../data/bam/merged/Cell98/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232320 ("QC_Cell98") has been submitted
+
+Sample dir:
+../data/bam/SxaQSEQsXap089L2/Cell99
+In parent dir
+../data/bam
+Out dir:
+../data/bam/merged/Cell99
+../data/bam/merged/Cell99/PEmatched_markdup_sorted.bai does not exist, qsubbing ../data/bam to QC_and_Index.sh
+Your job 232321 ("QC_Cell99") has been submitted

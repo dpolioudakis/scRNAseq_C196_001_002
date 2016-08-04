@@ -1,0 +1,2501 @@
+
+Starting HTSC_Expression_QSUB.sh...Tue Feb 9 11:52:25 PST 2016
+
+
+In bam dir:
+../data/bam/merged/Cell1
+In bam sample ID:
+Cell1
+In bam path:
+../data/bam/merged/Cell1/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell1
+Out dir:
+../htseq/merged
+Cell1
+Your job 238308 ("HT_Cell1") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell10
+In bam sample ID:
+Cell10
+In bam path:
+../data/bam/merged/Cell10/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell10
+Out dir:
+../htseq/merged
+Cell10
+Your job 238309 ("HT_Cell10") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell100
+In bam sample ID:
+Cell100
+In bam path:
+../data/bam/merged/Cell100/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell100
+Out dir:
+../htseq/merged
+Cell100
+Your job 238310 ("HT_Cell100") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell101
+In bam sample ID:
+Cell101
+In bam path:
+../data/bam/merged/Cell101/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell101
+Out dir:
+../htseq/merged
+Cell101
+Your job 238311 ("HT_Cell101") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell102
+In bam sample ID:
+Cell102
+In bam path:
+../data/bam/merged/Cell102/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell102
+Out dir:
+../htseq/merged
+Cell102
+Your job 238312 ("HT_Cell102") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell103
+In bam sample ID:
+Cell103
+In bam path:
+../data/bam/merged/Cell103/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell103
+Out dir:
+../htseq/merged
+Cell103
+Your job 238313 ("HT_Cell103") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell104
+In bam sample ID:
+Cell104
+In bam path:
+../data/bam/merged/Cell104/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell104
+Out dir:
+../htseq/merged
+Cell104
+Your job 238314 ("HT_Cell104") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell105
+In bam sample ID:
+Cell105
+In bam path:
+../data/bam/merged/Cell105/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell105
+Out dir:
+../htseq/merged
+Cell105
+Your job 238315 ("HT_Cell105") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell106
+In bam sample ID:
+Cell106
+In bam path:
+../data/bam/merged/Cell106/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell106
+Out dir:
+../htseq/merged
+Cell106
+Your job 238316 ("HT_Cell106") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell107
+In bam sample ID:
+Cell107
+In bam path:
+../data/bam/merged/Cell107/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell107
+Out dir:
+../htseq/merged
+Cell107
+Your job 238317 ("HT_Cell107") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell108
+In bam sample ID:
+Cell108
+In bam path:
+../data/bam/merged/Cell108/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell108
+Out dir:
+../htseq/merged
+Cell108
+Your job 238318 ("HT_Cell108") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell109
+In bam sample ID:
+Cell109
+In bam path:
+../data/bam/merged/Cell109/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell109
+Out dir:
+../htseq/merged
+Cell109
+Your job 238319 ("HT_Cell109") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell11
+In bam sample ID:
+Cell11
+In bam path:
+../data/bam/merged/Cell11/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell11
+Out dir:
+../htseq/merged
+Cell11
+Your job 238320 ("HT_Cell11") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell110
+In bam sample ID:
+Cell110
+In bam path:
+../data/bam/merged/Cell110/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell110
+Out dir:
+../htseq/merged
+Cell110
+Your job 238321 ("HT_Cell110") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell111
+In bam sample ID:
+Cell111
+In bam path:
+../data/bam/merged/Cell111/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell111
+Out dir:
+../htseq/merged
+Cell111
+Your job 238322 ("HT_Cell111") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell112
+In bam sample ID:
+Cell112
+In bam path:
+../data/bam/merged/Cell112/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell112
+Out dir:
+../htseq/merged
+Cell112
+Your job 238323 ("HT_Cell112") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell113
+In bam sample ID:
+Cell113
+In bam path:
+../data/bam/merged/Cell113/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell113
+Out dir:
+../htseq/merged
+Cell113
+Your job 238324 ("HT_Cell113") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell114
+In bam sample ID:
+Cell114
+In bam path:
+../data/bam/merged/Cell114/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell114
+Out dir:
+../htseq/merged
+Cell114
+Your job 238325 ("HT_Cell114") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell115
+In bam sample ID:
+Cell115
+In bam path:
+../data/bam/merged/Cell115/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell115
+Out dir:
+../htseq/merged
+Cell115
+Your job 238326 ("HT_Cell115") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell116
+In bam sample ID:
+Cell116
+In bam path:
+../data/bam/merged/Cell116/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell116
+Out dir:
+../htseq/merged
+Cell116
+Your job 238327 ("HT_Cell116") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell117
+In bam sample ID:
+Cell117
+In bam path:
+../data/bam/merged/Cell117/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell117
+Out dir:
+../htseq/merged
+Cell117
+Your job 238328 ("HT_Cell117") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell118
+In bam sample ID:
+Cell118
+In bam path:
+../data/bam/merged/Cell118/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell118
+Out dir:
+../htseq/merged
+Cell118
+Your job 238329 ("HT_Cell118") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell119
+In bam sample ID:
+Cell119
+In bam path:
+../data/bam/merged/Cell119/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell119
+Out dir:
+../htseq/merged
+Cell119
+Your job 238330 ("HT_Cell119") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell12
+In bam sample ID:
+Cell12
+In bam path:
+../data/bam/merged/Cell12/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell12
+Out dir:
+../htseq/merged
+Cell12
+Your job 238331 ("HT_Cell12") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell120
+In bam sample ID:
+Cell120
+In bam path:
+../data/bam/merged/Cell120/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell120
+Out dir:
+../htseq/merged
+Cell120
+Your job 238332 ("HT_Cell120") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell121
+In bam sample ID:
+Cell121
+In bam path:
+../data/bam/merged/Cell121/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell121
+Out dir:
+../htseq/merged
+Cell121
+Your job 238333 ("HT_Cell121") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell122
+In bam sample ID:
+Cell122
+In bam path:
+../data/bam/merged/Cell122/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell122
+Out dir:
+../htseq/merged
+Cell122
+Your job 238334 ("HT_Cell122") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell123
+In bam sample ID:
+Cell123
+In bam path:
+../data/bam/merged/Cell123/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell123
+Out dir:
+../htseq/merged
+Cell123
+Your job 238335 ("HT_Cell123") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell124
+In bam sample ID:
+Cell124
+In bam path:
+../data/bam/merged/Cell124/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell124
+Out dir:
+../htseq/merged
+Cell124
+Your job 238336 ("HT_Cell124") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell125
+In bam sample ID:
+Cell125
+In bam path:
+../data/bam/merged/Cell125/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell125
+Out dir:
+../htseq/merged
+Cell125
+Your job 238337 ("HT_Cell125") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell126
+In bam sample ID:
+Cell126
+In bam path:
+../data/bam/merged/Cell126/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell126
+Out dir:
+../htseq/merged
+Cell126
+Your job 238338 ("HT_Cell126") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell127
+In bam sample ID:
+Cell127
+In bam path:
+../data/bam/merged/Cell127/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell127
+Out dir:
+../htseq/merged
+Cell127
+Your job 238339 ("HT_Cell127") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell128
+In bam sample ID:
+Cell128
+In bam path:
+../data/bam/merged/Cell128/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell128
+Out dir:
+../htseq/merged
+Cell128
+Your job 238340 ("HT_Cell128") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell129
+In bam sample ID:
+Cell129
+In bam path:
+../data/bam/merged/Cell129/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell129
+Out dir:
+../htseq/merged
+Cell129
+Your job 238341 ("HT_Cell129") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell13
+In bam sample ID:
+Cell13
+In bam path:
+../data/bam/merged/Cell13/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell13
+Out dir:
+../htseq/merged
+Cell13
+Your job 238342 ("HT_Cell13") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell130
+In bam sample ID:
+Cell130
+In bam path:
+../data/bam/merged/Cell130/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell130
+Out dir:
+../htseq/merged
+Cell130
+Your job 238343 ("HT_Cell130") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell131
+In bam sample ID:
+Cell131
+In bam path:
+../data/bam/merged/Cell131/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell131
+Out dir:
+../htseq/merged
+Cell131
+Your job 238344 ("HT_Cell131") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell132
+In bam sample ID:
+Cell132
+In bam path:
+../data/bam/merged/Cell132/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell132
+Out dir:
+../htseq/merged
+Cell132
+Your job 238345 ("HT_Cell132") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell133
+In bam sample ID:
+Cell133
+In bam path:
+../data/bam/merged/Cell133/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell133
+Out dir:
+../htseq/merged
+Cell133
+Your job 238346 ("HT_Cell133") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell134
+In bam sample ID:
+Cell134
+In bam path:
+../data/bam/merged/Cell134/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell134
+Out dir:
+../htseq/merged
+Cell134
+Your job 238347 ("HT_Cell134") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell135
+In bam sample ID:
+Cell135
+In bam path:
+../data/bam/merged/Cell135/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell135
+Out dir:
+../htseq/merged
+Cell135
+Your job 238348 ("HT_Cell135") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell136
+In bam sample ID:
+Cell136
+In bam path:
+../data/bam/merged/Cell136/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell136
+Out dir:
+../htseq/merged
+Cell136
+Your job 238349 ("HT_Cell136") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell137
+In bam sample ID:
+Cell137
+In bam path:
+../data/bam/merged/Cell137/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell137
+Out dir:
+../htseq/merged
+Cell137
+Your job 238350 ("HT_Cell137") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell138
+In bam sample ID:
+Cell138
+In bam path:
+../data/bam/merged/Cell138/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell138
+Out dir:
+../htseq/merged
+Cell138
+Your job 238351 ("HT_Cell138") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell139
+In bam sample ID:
+Cell139
+In bam path:
+../data/bam/merged/Cell139/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell139
+Out dir:
+../htseq/merged
+Cell139
+Your job 238352 ("HT_Cell139") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell14
+In bam sample ID:
+Cell14
+In bam path:
+../data/bam/merged/Cell14/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell14
+Out dir:
+../htseq/merged
+Cell14
+Your job 238353 ("HT_Cell14") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell140
+In bam sample ID:
+Cell140
+In bam path:
+../data/bam/merged/Cell140/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell140
+Out dir:
+../htseq/merged
+Cell140
+Your job 238354 ("HT_Cell140") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell141
+In bam sample ID:
+Cell141
+In bam path:
+../data/bam/merged/Cell141/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell141
+Out dir:
+../htseq/merged
+Cell141
+Your job 238355 ("HT_Cell141") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell142
+In bam sample ID:
+Cell142
+In bam path:
+../data/bam/merged/Cell142/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell142
+Out dir:
+../htseq/merged
+Cell142
+Your job 238356 ("HT_Cell142") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell143
+In bam sample ID:
+Cell143
+In bam path:
+../data/bam/merged/Cell143/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell143
+Out dir:
+../htseq/merged
+Cell143
+Your job 238357 ("HT_Cell143") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell144
+In bam sample ID:
+Cell144
+In bam path:
+../data/bam/merged/Cell144/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell144
+Out dir:
+../htseq/merged
+Cell144
+Your job 238358 ("HT_Cell144") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell145
+In bam sample ID:
+Cell145
+In bam path:
+../data/bam/merged/Cell145/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell145
+Out dir:
+../htseq/merged
+Cell145
+Your job 238359 ("HT_Cell145") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell146
+In bam sample ID:
+Cell146
+In bam path:
+../data/bam/merged/Cell146/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell146
+Out dir:
+../htseq/merged
+Cell146
+Your job 238360 ("HT_Cell146") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell147
+In bam sample ID:
+Cell147
+In bam path:
+../data/bam/merged/Cell147/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell147
+Out dir:
+../htseq/merged
+Cell147
+Your job 238361 ("HT_Cell147") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell148
+In bam sample ID:
+Cell148
+In bam path:
+../data/bam/merged/Cell148/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell148
+Out dir:
+../htseq/merged
+Cell148
+Your job 238362 ("HT_Cell148") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell149
+In bam sample ID:
+Cell149
+In bam path:
+../data/bam/merged/Cell149/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell149
+Out dir:
+../htseq/merged
+Cell149
+Your job 238363 ("HT_Cell149") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell15
+In bam sample ID:
+Cell15
+In bam path:
+../data/bam/merged/Cell15/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell15
+Out dir:
+../htseq/merged
+Cell15
+Your job 238364 ("HT_Cell15") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell150
+In bam sample ID:
+Cell150
+In bam path:
+../data/bam/merged/Cell150/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell150
+Out dir:
+../htseq/merged
+Cell150
+Your job 238365 ("HT_Cell150") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell151
+In bam sample ID:
+Cell151
+In bam path:
+../data/bam/merged/Cell151/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell151
+Out dir:
+../htseq/merged
+Cell151
+Your job 238366 ("HT_Cell151") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell152
+In bam sample ID:
+Cell152
+In bam path:
+../data/bam/merged/Cell152/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell152
+Out dir:
+../htseq/merged
+Cell152
+Your job 238367 ("HT_Cell152") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell153
+In bam sample ID:
+Cell153
+In bam path:
+../data/bam/merged/Cell153/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell153
+Out dir:
+../htseq/merged
+Cell153
+Your job 238368 ("HT_Cell153") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell154
+In bam sample ID:
+Cell154
+In bam path:
+../data/bam/merged/Cell154/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell154
+Out dir:
+../htseq/merged
+Cell154
+Your job 238369 ("HT_Cell154") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell155
+In bam sample ID:
+Cell155
+In bam path:
+../data/bam/merged/Cell155/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell155
+Out dir:
+../htseq/merged
+Cell155
+Your job 238370 ("HT_Cell155") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell156
+In bam sample ID:
+Cell156
+In bam path:
+../data/bam/merged/Cell156/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell156
+Out dir:
+../htseq/merged
+Cell156
+Your job 238371 ("HT_Cell156") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell157
+In bam sample ID:
+Cell157
+In bam path:
+../data/bam/merged/Cell157/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell157
+Out dir:
+../htseq/merged
+Cell157
+Your job 238372 ("HT_Cell157") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell158
+In bam sample ID:
+Cell158
+In bam path:
+../data/bam/merged/Cell158/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell158
+Out dir:
+../htseq/merged
+Cell158
+Your job 238373 ("HT_Cell158") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell159
+In bam sample ID:
+Cell159
+In bam path:
+../data/bam/merged/Cell159/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell159
+Out dir:
+../htseq/merged
+Cell159
+Your job 238374 ("HT_Cell159") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell16
+In bam sample ID:
+Cell16
+In bam path:
+../data/bam/merged/Cell16/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell16
+Out dir:
+../htseq/merged
+Cell16
+Your job 238375 ("HT_Cell16") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell160
+In bam sample ID:
+Cell160
+In bam path:
+../data/bam/merged/Cell160/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell160
+Out dir:
+../htseq/merged
+Cell160
+Your job 238376 ("HT_Cell160") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell161
+In bam sample ID:
+Cell161
+In bam path:
+../data/bam/merged/Cell161/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell161
+Out dir:
+../htseq/merged
+Cell161
+Your job 238377 ("HT_Cell161") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell162
+In bam sample ID:
+Cell162
+In bam path:
+../data/bam/merged/Cell162/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell162
+Out dir:
+../htseq/merged
+Cell162
+Your job 238378 ("HT_Cell162") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell163
+In bam sample ID:
+Cell163
+In bam path:
+../data/bam/merged/Cell163/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell163
+Out dir:
+../htseq/merged
+Cell163
+Your job 238379 ("HT_Cell163") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell164
+In bam sample ID:
+Cell164
+In bam path:
+../data/bam/merged/Cell164/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell164
+Out dir:
+../htseq/merged
+Cell164
+Your job 238380 ("HT_Cell164") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell165
+In bam sample ID:
+Cell165
+In bam path:
+../data/bam/merged/Cell165/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell165
+Out dir:
+../htseq/merged
+Cell165
+Your job 238381 ("HT_Cell165") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell166
+In bam sample ID:
+Cell166
+In bam path:
+../data/bam/merged/Cell166/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell166
+Out dir:
+../htseq/merged
+Cell166
+Your job 238382 ("HT_Cell166") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell167
+In bam sample ID:
+Cell167
+In bam path:
+../data/bam/merged/Cell167/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell167
+Out dir:
+../htseq/merged
+Cell167
+Your job 238383 ("HT_Cell167") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell168
+In bam sample ID:
+Cell168
+In bam path:
+../data/bam/merged/Cell168/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell168
+Out dir:
+../htseq/merged
+Cell168
+Your job 238384 ("HT_Cell168") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell169
+In bam sample ID:
+Cell169
+In bam path:
+../data/bam/merged/Cell169/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell169
+Out dir:
+../htseq/merged
+Cell169
+Your job 238385 ("HT_Cell169") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell17
+In bam sample ID:
+Cell17
+In bam path:
+../data/bam/merged/Cell17/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell17
+Out dir:
+../htseq/merged
+Cell17
+Your job 238386 ("HT_Cell17") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell170
+In bam sample ID:
+Cell170
+In bam path:
+../data/bam/merged/Cell170/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell170
+Out dir:
+../htseq/merged
+Cell170
+Your job 238387 ("HT_Cell170") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell171
+In bam sample ID:
+Cell171
+In bam path:
+../data/bam/merged/Cell171/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell171
+Out dir:
+../htseq/merged
+Cell171
+Your job 238388 ("HT_Cell171") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell172
+In bam sample ID:
+Cell172
+In bam path:
+../data/bam/merged/Cell172/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell172
+Out dir:
+../htseq/merged
+Cell172
+Your job 238389 ("HT_Cell172") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell173
+In bam sample ID:
+Cell173
+In bam path:
+../data/bam/merged/Cell173/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell173
+Out dir:
+../htseq/merged
+Cell173
+Your job 238390 ("HT_Cell173") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell174
+In bam sample ID:
+Cell174
+In bam path:
+../data/bam/merged/Cell174/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell174
+Out dir:
+../htseq/merged
+Cell174
+Your job 238391 ("HT_Cell174") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell175
+In bam sample ID:
+Cell175
+In bam path:
+../data/bam/merged/Cell175/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell175
+Out dir:
+../htseq/merged
+Cell175
+Your job 238392 ("HT_Cell175") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell176
+In bam sample ID:
+Cell176
+In bam path:
+../data/bam/merged/Cell176/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell176
+Out dir:
+../htseq/merged
+Cell176
+Your job 238393 ("HT_Cell176") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell177
+In bam sample ID:
+Cell177
+In bam path:
+../data/bam/merged/Cell177/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell177
+Out dir:
+../htseq/merged
+Cell177
+Your job 238394 ("HT_Cell177") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell178
+In bam sample ID:
+Cell178
+In bam path:
+../data/bam/merged/Cell178/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell178
+Out dir:
+../htseq/merged
+Cell178
+Your job 238395 ("HT_Cell178") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell179
+In bam sample ID:
+Cell179
+In bam path:
+../data/bam/merged/Cell179/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell179
+Out dir:
+../htseq/merged
+Cell179
+Your job 238396 ("HT_Cell179") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell18
+In bam sample ID:
+Cell18
+In bam path:
+../data/bam/merged/Cell18/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell18
+Out dir:
+../htseq/merged
+Cell18
+Your job 238397 ("HT_Cell18") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell180
+In bam sample ID:
+Cell180
+In bam path:
+../data/bam/merged/Cell180/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell180
+Out dir:
+../htseq/merged
+Cell180
+Your job 238398 ("HT_Cell180") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell181
+In bam sample ID:
+Cell181
+In bam path:
+../data/bam/merged/Cell181/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell181
+Out dir:
+../htseq/merged
+Cell181
+Your job 238399 ("HT_Cell181") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell182
+In bam sample ID:
+Cell182
+In bam path:
+../data/bam/merged/Cell182/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell182
+Out dir:
+../htseq/merged
+Cell182
+Your job 238400 ("HT_Cell182") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell183
+In bam sample ID:
+Cell183
+In bam path:
+../data/bam/merged/Cell183/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell183
+Out dir:
+../htseq/merged
+Cell183
+Your job 238401 ("HT_Cell183") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell184
+In bam sample ID:
+Cell184
+In bam path:
+../data/bam/merged/Cell184/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell184
+Out dir:
+../htseq/merged
+Cell184
+Your job 238402 ("HT_Cell184") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell185
+In bam sample ID:
+Cell185
+In bam path:
+../data/bam/merged/Cell185/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell185
+Out dir:
+../htseq/merged
+Cell185
+Your job 238403 ("HT_Cell185") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell186
+In bam sample ID:
+Cell186
+In bam path:
+../data/bam/merged/Cell186/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell186
+Out dir:
+../htseq/merged
+Cell186
+Your job 238404 ("HT_Cell186") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell187
+In bam sample ID:
+Cell187
+In bam path:
+../data/bam/merged/Cell187/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell187
+Out dir:
+../htseq/merged
+Cell187
+Your job 238405 ("HT_Cell187") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell188
+In bam sample ID:
+Cell188
+In bam path:
+../data/bam/merged/Cell188/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell188
+Out dir:
+../htseq/merged
+Cell188
+Your job 238406 ("HT_Cell188") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell189
+In bam sample ID:
+Cell189
+In bam path:
+../data/bam/merged/Cell189/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell189
+Out dir:
+../htseq/merged
+Cell189
+Your job 238407 ("HT_Cell189") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell19
+In bam sample ID:
+Cell19
+In bam path:
+../data/bam/merged/Cell19/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell19
+Out dir:
+../htseq/merged
+Cell19
+Your job 238408 ("HT_Cell19") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell190
+In bam sample ID:
+Cell190
+In bam path:
+../data/bam/merged/Cell190/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell190
+Out dir:
+../htseq/merged
+Cell190
+Your job 238409 ("HT_Cell190") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell191
+In bam sample ID:
+Cell191
+In bam path:
+../data/bam/merged/Cell191/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell191
+Out dir:
+../htseq/merged
+Cell191
+Your job 238410 ("HT_Cell191") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell192
+In bam sample ID:
+Cell192
+In bam path:
+../data/bam/merged/Cell192/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell192
+Out dir:
+../htseq/merged
+Cell192
+Your job 238411 ("HT_Cell192") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell2
+In bam sample ID:
+Cell2
+In bam path:
+../data/bam/merged/Cell2/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell2
+Out dir:
+../htseq/merged
+Cell2
+Your job 238412 ("HT_Cell2") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell20
+In bam sample ID:
+Cell20
+In bam path:
+../data/bam/merged/Cell20/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell20
+Out dir:
+../htseq/merged
+Cell20
+Your job 238413 ("HT_Cell20") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell21
+In bam sample ID:
+Cell21
+In bam path:
+../data/bam/merged/Cell21/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell21
+Out dir:
+../htseq/merged
+Cell21
+Your job 238414 ("HT_Cell21") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell22
+In bam sample ID:
+Cell22
+In bam path:
+../data/bam/merged/Cell22/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell22
+Out dir:
+../htseq/merged
+Cell22
+Your job 238415 ("HT_Cell22") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell23
+In bam sample ID:
+Cell23
+In bam path:
+../data/bam/merged/Cell23/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell23
+Out dir:
+../htseq/merged
+Cell23
+Your job 238416 ("HT_Cell23") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell24
+In bam sample ID:
+Cell24
+In bam path:
+../data/bam/merged/Cell24/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell24
+Out dir:
+../htseq/merged
+Cell24
+Your job 238417 ("HT_Cell24") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell25
+In bam sample ID:
+Cell25
+In bam path:
+../data/bam/merged/Cell25/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell25
+Out dir:
+../htseq/merged
+Cell25
+Your job 238418 ("HT_Cell25") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell26
+In bam sample ID:
+Cell26
+In bam path:
+../data/bam/merged/Cell26/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell26
+Out dir:
+../htseq/merged
+Cell26
+Your job 238419 ("HT_Cell26") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell27
+In bam sample ID:
+Cell27
+In bam path:
+../data/bam/merged/Cell27/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell27
+Out dir:
+../htseq/merged
+Cell27
+Your job 238420 ("HT_Cell27") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell28
+In bam sample ID:
+Cell28
+In bam path:
+../data/bam/merged/Cell28/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell28
+Out dir:
+../htseq/merged
+Cell28
+Your job 238421 ("HT_Cell28") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell29
+In bam sample ID:
+Cell29
+In bam path:
+../data/bam/merged/Cell29/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell29
+Out dir:
+../htseq/merged
+Cell29
+Your job 238422 ("HT_Cell29") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell3
+In bam sample ID:
+Cell3
+In bam path:
+../data/bam/merged/Cell3/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell3
+Out dir:
+../htseq/merged
+Cell3
+Your job 238423 ("HT_Cell3") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell30
+In bam sample ID:
+Cell30
+In bam path:
+../data/bam/merged/Cell30/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell30
+Out dir:
+../htseq/merged
+Cell30
+Your job 238424 ("HT_Cell30") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell31
+In bam sample ID:
+Cell31
+In bam path:
+../data/bam/merged/Cell31/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell31
+Out dir:
+../htseq/merged
+Cell31
+Your job 238425 ("HT_Cell31") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell32
+In bam sample ID:
+Cell32
+In bam path:
+../data/bam/merged/Cell32/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell32
+Out dir:
+../htseq/merged
+Cell32
+Your job 238426 ("HT_Cell32") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell33
+In bam sample ID:
+Cell33
+In bam path:
+../data/bam/merged/Cell33/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell33
+Out dir:
+../htseq/merged
+Cell33
+Your job 238427 ("HT_Cell33") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell34
+In bam sample ID:
+Cell34
+In bam path:
+../data/bam/merged/Cell34/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell34
+Out dir:
+../htseq/merged
+Cell34
+Your job 238428 ("HT_Cell34") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell35
+In bam sample ID:
+Cell35
+In bam path:
+../data/bam/merged/Cell35/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell35
+Out dir:
+../htseq/merged
+Cell35
+Your job 238429 ("HT_Cell35") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell36
+In bam sample ID:
+Cell36
+In bam path:
+../data/bam/merged/Cell36/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell36
+Out dir:
+../htseq/merged
+Cell36
+Your job 238430 ("HT_Cell36") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell37
+In bam sample ID:
+Cell37
+In bam path:
+../data/bam/merged/Cell37/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell37
+Out dir:
+../htseq/merged
+Cell37
+Your job 238431 ("HT_Cell37") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell38
+In bam sample ID:
+Cell38
+In bam path:
+../data/bam/merged/Cell38/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell38
+Out dir:
+../htseq/merged
+Cell38
+Your job 238432 ("HT_Cell38") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell39
+In bam sample ID:
+Cell39
+In bam path:
+../data/bam/merged/Cell39/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell39
+Out dir:
+../htseq/merged
+Cell39
+Your job 238433 ("HT_Cell39") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell4
+In bam sample ID:
+Cell4
+In bam path:
+../data/bam/merged/Cell4/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell4
+Out dir:
+../htseq/merged
+Cell4
+Your job 238434 ("HT_Cell4") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell40
+In bam sample ID:
+Cell40
+In bam path:
+../data/bam/merged/Cell40/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell40
+Out dir:
+../htseq/merged
+Cell40
+Your job 238435 ("HT_Cell40") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell41
+In bam sample ID:
+Cell41
+In bam path:
+../data/bam/merged/Cell41/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell41
+Out dir:
+../htseq/merged
+Cell41
+Your job 238436 ("HT_Cell41") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell42
+In bam sample ID:
+Cell42
+In bam path:
+../data/bam/merged/Cell42/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell42
+Out dir:
+../htseq/merged
+Cell42
+Your job 238437 ("HT_Cell42") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell43
+In bam sample ID:
+Cell43
+In bam path:
+../data/bam/merged/Cell43/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell43
+Out dir:
+../htseq/merged
+Cell43
+Your job 238438 ("HT_Cell43") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell44
+In bam sample ID:
+Cell44
+In bam path:
+../data/bam/merged/Cell44/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell44
+Out dir:
+../htseq/merged
+Cell44
+Your job 238439 ("HT_Cell44") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell45
+In bam sample ID:
+Cell45
+In bam path:
+../data/bam/merged/Cell45/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell45
+Out dir:
+../htseq/merged
+Cell45
+Your job 238440 ("HT_Cell45") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell46
+In bam sample ID:
+Cell46
+In bam path:
+../data/bam/merged/Cell46/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell46
+Out dir:
+../htseq/merged
+Cell46
+Your job 238441 ("HT_Cell46") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell47
+In bam sample ID:
+Cell47
+In bam path:
+../data/bam/merged/Cell47/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell47
+Out dir:
+../htseq/merged
+Cell47
+Your job 238442 ("HT_Cell47") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell48
+In bam sample ID:
+Cell48
+In bam path:
+../data/bam/merged/Cell48/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell48
+Out dir:
+../htseq/merged
+Cell48
+Your job 238443 ("HT_Cell48") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell49
+In bam sample ID:
+Cell49
+In bam path:
+../data/bam/merged/Cell49/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell49
+Out dir:
+../htseq/merged
+Cell49
+Your job 238444 ("HT_Cell49") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell5
+In bam sample ID:
+Cell5
+In bam path:
+../data/bam/merged/Cell5/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell5
+Out dir:
+../htseq/merged
+Cell5
+Your job 238445 ("HT_Cell5") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell50
+In bam sample ID:
+Cell50
+In bam path:
+../data/bam/merged/Cell50/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell50
+Out dir:
+../htseq/merged
+Cell50
+Your job 238446 ("HT_Cell50") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell51
+In bam sample ID:
+Cell51
+In bam path:
+../data/bam/merged/Cell51/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell51
+Out dir:
+../htseq/merged
+Cell51
+Your job 238447 ("HT_Cell51") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell52
+In bam sample ID:
+Cell52
+In bam path:
+../data/bam/merged/Cell52/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell52
+Out dir:
+../htseq/merged
+Cell52
+Your job 238448 ("HT_Cell52") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell53
+In bam sample ID:
+Cell53
+In bam path:
+../data/bam/merged/Cell53/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell53
+Out dir:
+../htseq/merged
+Cell53
+Your job 238449 ("HT_Cell53") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell54
+In bam sample ID:
+Cell54
+In bam path:
+../data/bam/merged/Cell54/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell54
+Out dir:
+../htseq/merged
+Cell54
+Your job 238450 ("HT_Cell54") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell55
+In bam sample ID:
+Cell55
+In bam path:
+../data/bam/merged/Cell55/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell55
+Out dir:
+../htseq/merged
+Cell55
+Your job 238451 ("HT_Cell55") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell56
+In bam sample ID:
+Cell56
+In bam path:
+../data/bam/merged/Cell56/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell56
+Out dir:
+../htseq/merged
+Cell56
+Your job 238452 ("HT_Cell56") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell57
+In bam sample ID:
+Cell57
+In bam path:
+../data/bam/merged/Cell57/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell57
+Out dir:
+../htseq/merged
+Cell57
+Your job 238453 ("HT_Cell57") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell58
+In bam sample ID:
+Cell58
+In bam path:
+../data/bam/merged/Cell58/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell58
+Out dir:
+../htseq/merged
+Cell58
+Your job 238454 ("HT_Cell58") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell59
+In bam sample ID:
+Cell59
+In bam path:
+../data/bam/merged/Cell59/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell59
+Out dir:
+../htseq/merged
+Cell59
+Your job 238455 ("HT_Cell59") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell6
+In bam sample ID:
+Cell6
+In bam path:
+../data/bam/merged/Cell6/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell6
+Out dir:
+../htseq/merged
+Cell6
+Your job 238456 ("HT_Cell6") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell60
+In bam sample ID:
+Cell60
+In bam path:
+../data/bam/merged/Cell60/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell60
+Out dir:
+../htseq/merged
+Cell60
+Your job 238457 ("HT_Cell60") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell61
+In bam sample ID:
+Cell61
+In bam path:
+../data/bam/merged/Cell61/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell61
+Out dir:
+../htseq/merged
+Cell61
+Your job 238458 ("HT_Cell61") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell62
+In bam sample ID:
+Cell62
+In bam path:
+../data/bam/merged/Cell62/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell62
+Out dir:
+../htseq/merged
+Cell62
+Your job 238459 ("HT_Cell62") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell63
+In bam sample ID:
+Cell63
+In bam path:
+../data/bam/merged/Cell63/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell63
+Out dir:
+../htseq/merged
+Cell63
+Your job 238460 ("HT_Cell63") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell64
+In bam sample ID:
+Cell64
+In bam path:
+../data/bam/merged/Cell64/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell64
+Out dir:
+../htseq/merged
+Cell64
+Your job 238461 ("HT_Cell64") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell65
+In bam sample ID:
+Cell65
+In bam path:
+../data/bam/merged/Cell65/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell65
+Out dir:
+../htseq/merged
+Cell65
+Your job 238462 ("HT_Cell65") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell66
+In bam sample ID:
+Cell66
+In bam path:
+../data/bam/merged/Cell66/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell66
+Out dir:
+../htseq/merged
+Cell66
+Your job 238463 ("HT_Cell66") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell67
+In bam sample ID:
+Cell67
+In bam path:
+../data/bam/merged/Cell67/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell67
+Out dir:
+../htseq/merged
+Cell67
+Your job 238464 ("HT_Cell67") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell68
+In bam sample ID:
+Cell68
+In bam path:
+../data/bam/merged/Cell68/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell68
+Out dir:
+../htseq/merged
+Cell68
+Your job 238465 ("HT_Cell68") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell69
+In bam sample ID:
+Cell69
+In bam path:
+../data/bam/merged/Cell69/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell69
+Out dir:
+../htseq/merged
+Cell69
+Your job 238466 ("HT_Cell69") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell7
+In bam sample ID:
+Cell7
+In bam path:
+../data/bam/merged/Cell7/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell7
+Out dir:
+../htseq/merged
+Cell7
+Your job 238467 ("HT_Cell7") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell70
+In bam sample ID:
+Cell70
+In bam path:
+../data/bam/merged/Cell70/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell70
+Out dir:
+../htseq/merged
+Cell70
+Your job 238468 ("HT_Cell70") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell71
+In bam sample ID:
+Cell71
+In bam path:
+../data/bam/merged/Cell71/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell71
+Out dir:
+../htseq/merged
+Cell71
+Your job 238469 ("HT_Cell71") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell72
+In bam sample ID:
+Cell72
+In bam path:
+../data/bam/merged/Cell72/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell72
+Out dir:
+../htseq/merged
+Cell72
+Your job 238470 ("HT_Cell72") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell73
+In bam sample ID:
+Cell73
+In bam path:
+../data/bam/merged/Cell73/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell73
+Out dir:
+../htseq/merged
+Cell73
+Your job 238471 ("HT_Cell73") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell74
+In bam sample ID:
+Cell74
+In bam path:
+../data/bam/merged/Cell74/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell74
+Out dir:
+../htseq/merged
+Cell74
+Your job 238472 ("HT_Cell74") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell75
+In bam sample ID:
+Cell75
+In bam path:
+../data/bam/merged/Cell75/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell75
+Out dir:
+../htseq/merged
+Cell75
+Your job 238473 ("HT_Cell75") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell76
+In bam sample ID:
+Cell76
+In bam path:
+../data/bam/merged/Cell76/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell76
+Out dir:
+../htseq/merged
+Cell76
+Your job 238474 ("HT_Cell76") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell77
+In bam sample ID:
+Cell77
+In bam path:
+../data/bam/merged/Cell77/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell77
+Out dir:
+../htseq/merged
+Cell77
+Your job 238475 ("HT_Cell77") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell78
+In bam sample ID:
+Cell78
+In bam path:
+../data/bam/merged/Cell78/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell78
+Out dir:
+../htseq/merged
+Cell78
+Your job 238476 ("HT_Cell78") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell79
+In bam sample ID:
+Cell79
+In bam path:
+../data/bam/merged/Cell79/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell79
+Out dir:
+../htseq/merged
+Cell79
+Your job 238477 ("HT_Cell79") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell8
+In bam sample ID:
+Cell8
+In bam path:
+../data/bam/merged/Cell8/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell8
+Out dir:
+../htseq/merged
+Cell8
+Your job 238478 ("HT_Cell8") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell80
+In bam sample ID:
+Cell80
+In bam path:
+../data/bam/merged/Cell80/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell80
+Out dir:
+../htseq/merged
+Cell80
+Your job 238479 ("HT_Cell80") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell81
+In bam sample ID:
+Cell81
+In bam path:
+../data/bam/merged/Cell81/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell81
+Out dir:
+../htseq/merged
+Cell81
+Your job 238480 ("HT_Cell81") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell82
+In bam sample ID:
+Cell82
+In bam path:
+../data/bam/merged/Cell82/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell82
+Out dir:
+../htseq/merged
+Cell82
+Your job 238481 ("HT_Cell82") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell83
+In bam sample ID:
+Cell83
+In bam path:
+../data/bam/merged/Cell83/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell83
+Out dir:
+../htseq/merged
+Cell83
+Your job 238482 ("HT_Cell83") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell84
+In bam sample ID:
+Cell84
+In bam path:
+../data/bam/merged/Cell84/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell84
+Out dir:
+../htseq/merged
+Cell84
+Your job 238483 ("HT_Cell84") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell85
+In bam sample ID:
+Cell85
+In bam path:
+../data/bam/merged/Cell85/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell85
+Out dir:
+../htseq/merged
+Cell85
+Your job 238484 ("HT_Cell85") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell86
+In bam sample ID:
+Cell86
+In bam path:
+../data/bam/merged/Cell86/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell86
+Out dir:
+../htseq/merged
+Cell86
+Your job 238485 ("HT_Cell86") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell87
+In bam sample ID:
+Cell87
+In bam path:
+../data/bam/merged/Cell87/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell87
+Out dir:
+../htseq/merged
+Cell87
+Your job 238486 ("HT_Cell87") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell88
+In bam sample ID:
+Cell88
+In bam path:
+../data/bam/merged/Cell88/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell88
+Out dir:
+../htseq/merged
+Cell88
+Your job 238487 ("HT_Cell88") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell89
+In bam sample ID:
+Cell89
+In bam path:
+../data/bam/merged/Cell89/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell89
+Out dir:
+../htseq/merged
+Cell89
+Your job 238488 ("HT_Cell89") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell9
+In bam sample ID:
+Cell9
+In bam path:
+../data/bam/merged/Cell9/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell9
+Out dir:
+../htseq/merged
+Cell9
+Your job 238489 ("HT_Cell9") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell90
+In bam sample ID:
+Cell90
+In bam path:
+../data/bam/merged/Cell90/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell90
+Out dir:
+../htseq/merged
+Cell90
+Your job 238490 ("HT_Cell90") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell91
+In bam sample ID:
+Cell91
+In bam path:
+../data/bam/merged/Cell91/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell91
+Out dir:
+../htseq/merged
+Cell91
+Your job 238491 ("HT_Cell91") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell92
+In bam sample ID:
+Cell92
+In bam path:
+../data/bam/merged/Cell92/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell92
+Out dir:
+../htseq/merged
+Cell92
+Your job 238492 ("HT_Cell92") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell93
+In bam sample ID:
+Cell93
+In bam path:
+../data/bam/merged/Cell93/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell93
+Out dir:
+../htseq/merged
+Cell93
+Your job 238493 ("HT_Cell93") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell94
+In bam sample ID:
+Cell94
+In bam path:
+../data/bam/merged/Cell94/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell94
+Out dir:
+../htseq/merged
+Cell94
+Your job 238494 ("HT_Cell94") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell95
+In bam sample ID:
+Cell95
+In bam path:
+../data/bam/merged/Cell95/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell95
+Out dir:
+../htseq/merged
+Cell95
+Your job 238495 ("HT_Cell95") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell96
+In bam sample ID:
+Cell96
+In bam path:
+../data/bam/merged/Cell96/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell96
+Out dir:
+../htseq/merged
+Cell96
+Your job 238496 ("HT_Cell96") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell97
+In bam sample ID:
+Cell97
+In bam path:
+../data/bam/merged/Cell97/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell97
+Out dir:
+../htseq/merged
+Cell97
+Your job 238497 ("HT_Cell97") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell98
+In bam sample ID:
+Cell98
+In bam path:
+../data/bam/merged/Cell98/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell98
+Out dir:
+../htseq/merged
+Cell98
+Your job 238498 ("HT_Cell98") has been submitted
+
+In bam dir:
+../data/bam/merged/Cell99
+In bam sample ID:
+Cell99
+In bam path:
+../data/bam/merged/Cell99/PEmatched_markdup_sorted.bam
+In sam path:
+../data/bam/merged/Cell99
+Out dir:
+../htseq/merged
+Cell99
+Your job 238499 ("HT_Cell99") has been submitted
+
+End of 4_HTSC_Expression_QSUB.sh... Tue Feb 9 11:52:31 PST 2016

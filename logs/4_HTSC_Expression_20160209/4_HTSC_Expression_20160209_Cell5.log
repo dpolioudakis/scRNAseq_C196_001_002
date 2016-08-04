@@ -1,0 +1,18 @@
+
+Starting 4_HTSC_Expression.sh... Tue Feb 9 12:07:11 PST 2016
+
+In bam:
+../data/bam/merged/Cell5/PEmatched_markdup_sorted.bam
+SampleID:
+Cell5
+Out dir:
+../htseq/merged
+Start samtools sorting by name on...:
+../data/bam/merged/Cell5/PEmatched_markdup_sorted.bam
+Done samtools sorting by name, output:
+../data/bam/merged/Cell5/PEmatched_deduplicated_name_sorted.bam
+Started HTSC exon on...:
+../data/bam/merged/Cell5/PEmatched_deduplicated_name_sorted.bam
+Saving HTSC exon results to...: ../htseq/merged/Cell5_exon_union_count.txt
+
+End of 4_HTSC_Expression.sh... Tue Feb 9 12:15:14 PST 2016

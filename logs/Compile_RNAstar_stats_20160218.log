@@ -1,0 +1,2707 @@
+
+Starting Compile_RNAstar_stats.sh...Thu Feb 18 15:29:03 PST 2016
+
+
+#####
+
+Lane:
+../data/bam/SxaQSEQsXap089L2
+Basename:
+SxaQSEQsXap089L2
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell1
+Basename:
+Cell1
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell1/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell10
+Basename:
+Cell10
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell10/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell100
+Basename:
+Cell100
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell100/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell101
+Basename:
+Cell101
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell101/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell102
+Basename:
+Cell102
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell102/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell103
+Basename:
+Cell103
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell103/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell104
+Basename:
+Cell104
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell104/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell105
+Basename:
+Cell105
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell105/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell106
+Basename:
+Cell106
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell106/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell107
+Basename:
+Cell107
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell107/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell108
+Basename:
+Cell108
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell108/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell109
+Basename:
+Cell109
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell109/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell11
+Basename:
+Cell11
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell11/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell110
+Basename:
+Cell110
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell110/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell111
+Basename:
+Cell111
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell111/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell112
+Basename:
+Cell112
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell112/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell113
+Basename:
+Cell113
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell113/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell114
+Basename:
+Cell114
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell114/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell115
+Basename:
+Cell115
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell115/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell116
+Basename:
+Cell116
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell116/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell117
+Basename:
+Cell117
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell117/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell118
+Basename:
+Cell118
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell118/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell119
+Basename:
+Cell119
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell119/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell12
+Basename:
+Cell12
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell12/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell120
+Basename:
+Cell120
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell120/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell121
+Basename:
+Cell121
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell121/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell122
+Basename:
+Cell122
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell122/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell123
+Basename:
+Cell123
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell123/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell124
+Basename:
+Cell124
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell124/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell125
+Basename:
+Cell125
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell125/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell126
+Basename:
+Cell126
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell126/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell127
+Basename:
+Cell127
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell127/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell128
+Basename:
+Cell128
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell128/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell129
+Basename:
+Cell129
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell129/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell13
+Basename:
+Cell13
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell13/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell130
+Basename:
+Cell130
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell130/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell131
+Basename:
+Cell131
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell131/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell132
+Basename:
+Cell132
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell132/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell133
+Basename:
+Cell133
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell133/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell134
+Basename:
+Cell134
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell134/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell135
+Basename:
+Cell135
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell135/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell136
+Basename:
+Cell136
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell136/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell137
+Basename:
+Cell137
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell137/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell138
+Basename:
+Cell138
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell138/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell139
+Basename:
+Cell139
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell139/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell14
+Basename:
+Cell14
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell14/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell140
+Basename:
+Cell140
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell140/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell141
+Basename:
+Cell141
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell141/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell142
+Basename:
+Cell142
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell142/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell143
+Basename:
+Cell143
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell143/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell144
+Basename:
+Cell144
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell144/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell145
+Basename:
+Cell145
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell145/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell146
+Basename:
+Cell146
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell146/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell147
+Basename:
+Cell147
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell147/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell148
+Basename:
+Cell148
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell148/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell149
+Basename:
+Cell149
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell149/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell15
+Basename:
+Cell15
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell15/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell150
+Basename:
+Cell150
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell150/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell151
+Basename:
+Cell151
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell151/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell152
+Basename:
+Cell152
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell152/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell153
+Basename:
+Cell153
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell153/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell154
+Basename:
+Cell154
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell154/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell155
+Basename:
+Cell155
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell155/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell156
+Basename:
+Cell156
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell156/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell157
+Basename:
+Cell157
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell157/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell158
+Basename:
+Cell158
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell158/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell159
+Basename:
+Cell159
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell159/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell16
+Basename:
+Cell16
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell16/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell160
+Basename:
+Cell160
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell160/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell161
+Basename:
+Cell161
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell161/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell162
+Basename:
+Cell162
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell162/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell163
+Basename:
+Cell163
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell163/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell164
+Basename:
+Cell164
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell164/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell165
+Basename:
+Cell165
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell165/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell166
+Basename:
+Cell166
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell166/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell167
+Basename:
+Cell167
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell167/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell168
+Basename:
+Cell168
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell168/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell169
+Basename:
+Cell169
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell169/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell17
+Basename:
+Cell17
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell17/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell170
+Basename:
+Cell170
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell170/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell171
+Basename:
+Cell171
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell171/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell172
+Basename:
+Cell172
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell172/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell173
+Basename:
+Cell173
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell173/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell174
+Basename:
+Cell174
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell174/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell175
+Basename:
+Cell175
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell175/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell176
+Basename:
+Cell176
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell176/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell177
+Basename:
+Cell177
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell177/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell178
+Basename:
+Cell178
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell178/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell179
+Basename:
+Cell179
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell179/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell18
+Basename:
+Cell18
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell18/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell180
+Basename:
+Cell180
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell180/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell181
+Basename:
+Cell181
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell181/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell182
+Basename:
+Cell182
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell182/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell183
+Basename:
+Cell183
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell183/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell184
+Basename:
+Cell184
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell184/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell185
+Basename:
+Cell185
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell185/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell186
+Basename:
+Cell186
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell186/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell187
+Basename:
+Cell187
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell187/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell188
+Basename:
+Cell188
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell188/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell189
+Basename:
+Cell189
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell189/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell19
+Basename:
+Cell19
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell19/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell190
+Basename:
+Cell190
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell190/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell191
+Basename:
+Cell191
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell191/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell192
+Basename:
+Cell192
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell192/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell2
+Basename:
+Cell2
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell2/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell20
+Basename:
+Cell20
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell20/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell21
+Basename:
+Cell21
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell21/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell22
+Basename:
+Cell22
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell22/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell23
+Basename:
+Cell23
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell23/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell24
+Basename:
+Cell24
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell24/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell25
+Basename:
+Cell25
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell25/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell26
+Basename:
+Cell26
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell26/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell27
+Basename:
+Cell27
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell27/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell28
+Basename:
+Cell28
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell28/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell29
+Basename:
+Cell29
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell29/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell3
+Basename:
+Cell3
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell3/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell30
+Basename:
+Cell30
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell30/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell31
+Basename:
+Cell31
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell31/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell32
+Basename:
+Cell32
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell32/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell33
+Basename:
+Cell33
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell33/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell34
+Basename:
+Cell34
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell34/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell35
+Basename:
+Cell35
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell35/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell36
+Basename:
+Cell36
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell36/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell37
+Basename:
+Cell37
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell37/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell38
+Basename:
+Cell38
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell38/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell39
+Basename:
+Cell39
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell39/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell4
+Basename:
+Cell4
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell4/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell40
+Basename:
+Cell40
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell40/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell41
+Basename:
+Cell41
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell41/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell42
+Basename:
+Cell42
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell42/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell43
+Basename:
+Cell43
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell43/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell44
+Basename:
+Cell44
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell44/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell45
+Basename:
+Cell45
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell45/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell46
+Basename:
+Cell46
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell46/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell47
+Basename:
+Cell47
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell47/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell48
+Basename:
+Cell48
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell48/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell49
+Basename:
+Cell49
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell49/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell5
+Basename:
+Cell5
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell5/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell50
+Basename:
+Cell50
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell50/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell51
+Basename:
+Cell51
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell51/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell52
+Basename:
+Cell52
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell52/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell53
+Basename:
+Cell53
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell53/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell54
+Basename:
+Cell54
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell54/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell55
+Basename:
+Cell55
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell55/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell56
+Basename:
+Cell56
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell56/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell57
+Basename:
+Cell57
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell57/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell58
+Basename:
+Cell58
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell58/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell59
+Basename:
+Cell59
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell59/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell6
+Basename:
+Cell6
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell6/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell60
+Basename:
+Cell60
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell60/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell61
+Basename:
+Cell61
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell61/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell62
+Basename:
+Cell62
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell62/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell63
+Basename:
+Cell63
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell63/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell64
+Basename:
+Cell64
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell64/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell65
+Basename:
+Cell65
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell65/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell66
+Basename:
+Cell66
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell66/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell67
+Basename:
+Cell67
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell67/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell68
+Basename:
+Cell68
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell68/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell69
+Basename:
+Cell69
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell69/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell7
+Basename:
+Cell7
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell7/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell70
+Basename:
+Cell70
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell70/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell71
+Basename:
+Cell71
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell71/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell72
+Basename:
+Cell72
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell72/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell73
+Basename:
+Cell73
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell73/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell74
+Basename:
+Cell74
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell74/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell75
+Basename:
+Cell75
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell75/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell76
+Basename:
+Cell76
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell76/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell77
+Basename:
+Cell77
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell77/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell78
+Basename:
+Cell78
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell78/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell79
+Basename:
+Cell79
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell79/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell8
+Basename:
+Cell8
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell8/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell80
+Basename:
+Cell80
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell80/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell81
+Basename:
+Cell81
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell81/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell82
+Basename:
+Cell82
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell82/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell83
+Basename:
+Cell83
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell83/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell84
+Basename:
+Cell84
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell84/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell85
+Basename:
+Cell85
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell85/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell86
+Basename:
+Cell86
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell86/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell87
+Basename:
+Cell87
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell87/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell88
+Basename:
+Cell88
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell88/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell89
+Basename:
+Cell89
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell89/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell9
+Basename:
+Cell9
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell9/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell90
+Basename:
+Cell90
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell90/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell91
+Basename:
+Cell91
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell91/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell92
+Basename:
+Cell92
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell92/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell93
+Basename:
+Cell93
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell93/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell94
+Basename:
+Cell94
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell94/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell95
+Basename:
+Cell95
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell95/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell96
+Basename:
+Cell96
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell96/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell97
+Basename:
+Cell97
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell97/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell98
+Basename:
+Cell98
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell98/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXap089L2/Cell99
+Basename:
+Cell99
+Log:
+../data/bam/SxaQSEQsXap089L2/Cell99/Log.final.out
+
+#####
+
+Lane:
+../data/bam/SxaQSEQsXbp060L2
+Basename:
+SxaQSEQsXbp060L2
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell1
+Basename:
+Cell1
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell1/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell10
+Basename:
+Cell10
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell10/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell100
+Basename:
+Cell100
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell100/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell101
+Basename:
+Cell101
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell101/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell102
+Basename:
+Cell102
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell102/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell103
+Basename:
+Cell103
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell103/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell104
+Basename:
+Cell104
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell104/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell105
+Basename:
+Cell105
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell105/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell106
+Basename:
+Cell106
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell106/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell107
+Basename:
+Cell107
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell107/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell108
+Basename:
+Cell108
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell108/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell109
+Basename:
+Cell109
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell109/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell11
+Basename:
+Cell11
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell11/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell110
+Basename:
+Cell110
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell110/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell111
+Basename:
+Cell111
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell111/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell112
+Basename:
+Cell112
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell112/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell113
+Basename:
+Cell113
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell113/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell114
+Basename:
+Cell114
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell114/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell115
+Basename:
+Cell115
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell115/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell116
+Basename:
+Cell116
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell116/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell117
+Basename:
+Cell117
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell117/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell118
+Basename:
+Cell118
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell118/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell119
+Basename:
+Cell119
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell119/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell12
+Basename:
+Cell12
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell12/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell120
+Basename:
+Cell120
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell120/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell121
+Basename:
+Cell121
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell121/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell122
+Basename:
+Cell122
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell122/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell123
+Basename:
+Cell123
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell123/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell124
+Basename:
+Cell124
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell124/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell125
+Basename:
+Cell125
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell125/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell126
+Basename:
+Cell126
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell126/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell127
+Basename:
+Cell127
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell127/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell128
+Basename:
+Cell128
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell128/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell129
+Basename:
+Cell129
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell129/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell13
+Basename:
+Cell13
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell13/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell130
+Basename:
+Cell130
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell130/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell131
+Basename:
+Cell131
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell131/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell132
+Basename:
+Cell132
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell132/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell133
+Basename:
+Cell133
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell133/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell134
+Basename:
+Cell134
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell134/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell135
+Basename:
+Cell135
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell135/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell136
+Basename:
+Cell136
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell136/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell137
+Basename:
+Cell137
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell137/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell138
+Basename:
+Cell138
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell138/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell139
+Basename:
+Cell139
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell139/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell14
+Basename:
+Cell14
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell14/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell140
+Basename:
+Cell140
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell140/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell141
+Basename:
+Cell141
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell141/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell142
+Basename:
+Cell142
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell142/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell143
+Basename:
+Cell143
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell143/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell144
+Basename:
+Cell144
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell144/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell145
+Basename:
+Cell145
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell145/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell146
+Basename:
+Cell146
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell146/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell147
+Basename:
+Cell147
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell147/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell148
+Basename:
+Cell148
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell148/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell149
+Basename:
+Cell149
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell149/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell15
+Basename:
+Cell15
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell15/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell150
+Basename:
+Cell150
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell150/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell151
+Basename:
+Cell151
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell151/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell152
+Basename:
+Cell152
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell152/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell153
+Basename:
+Cell153
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell153/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell154
+Basename:
+Cell154
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell154/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell155
+Basename:
+Cell155
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell155/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell156
+Basename:
+Cell156
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell156/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell157
+Basename:
+Cell157
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell157/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell158
+Basename:
+Cell158
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell158/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell159
+Basename:
+Cell159
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell159/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell16
+Basename:
+Cell16
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell16/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell160
+Basename:
+Cell160
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell160/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell161
+Basename:
+Cell161
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell161/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell162
+Basename:
+Cell162
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell162/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell163
+Basename:
+Cell163
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell163/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell164
+Basename:
+Cell164
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell164/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell165
+Basename:
+Cell165
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell165/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell166
+Basename:
+Cell166
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell166/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell167
+Basename:
+Cell167
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell167/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell168
+Basename:
+Cell168
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell168/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell169
+Basename:
+Cell169
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell169/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell17
+Basename:
+Cell17
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell17/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell170
+Basename:
+Cell170
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell170/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell171
+Basename:
+Cell171
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell171/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell172
+Basename:
+Cell172
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell172/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell173
+Basename:
+Cell173
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell173/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell174
+Basename:
+Cell174
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell174/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell175
+Basename:
+Cell175
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell175/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell176
+Basename:
+Cell176
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell176/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell177
+Basename:
+Cell177
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell177/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell178
+Basename:
+Cell178
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell178/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell179
+Basename:
+Cell179
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell179/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell18
+Basename:
+Cell18
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell18/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell180
+Basename:
+Cell180
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell180/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell181
+Basename:
+Cell181
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell181/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell182
+Basename:
+Cell182
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell182/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell183
+Basename:
+Cell183
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell183/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell184
+Basename:
+Cell184
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell184/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell185
+Basename:
+Cell185
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell185/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell186
+Basename:
+Cell186
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell186/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell187
+Basename:
+Cell187
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell187/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell188
+Basename:
+Cell188
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell188/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell189
+Basename:
+Cell189
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell189/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell19
+Basename:
+Cell19
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell19/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell190
+Basename:
+Cell190
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell190/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell191
+Basename:
+Cell191
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell191/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell192
+Basename:
+Cell192
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell192/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell2
+Basename:
+Cell2
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell2/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell20
+Basename:
+Cell20
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell20/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell21
+Basename:
+Cell21
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell21/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell22
+Basename:
+Cell22
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell22/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell23
+Basename:
+Cell23
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell23/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell24
+Basename:
+Cell24
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell24/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell25
+Basename:
+Cell25
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell25/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell26
+Basename:
+Cell26
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell26/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell27
+Basename:
+Cell27
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell27/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell28
+Basename:
+Cell28
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell28/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell29
+Basename:
+Cell29
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell29/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell3
+Basename:
+Cell3
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell3/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell30
+Basename:
+Cell30
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell30/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell31
+Basename:
+Cell31
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell31/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell32
+Basename:
+Cell32
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell32/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell33
+Basename:
+Cell33
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell33/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell34
+Basename:
+Cell34
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell34/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell35
+Basename:
+Cell35
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell35/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell36
+Basename:
+Cell36
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell36/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell37
+Basename:
+Cell37
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell37/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell38
+Basename:
+Cell38
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell38/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell39
+Basename:
+Cell39
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell39/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell4
+Basename:
+Cell4
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell4/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell40
+Basename:
+Cell40
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell40/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell41
+Basename:
+Cell41
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell41/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell42
+Basename:
+Cell42
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell42/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell43
+Basename:
+Cell43
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell43/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell44
+Basename:
+Cell44
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell44/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell45
+Basename:
+Cell45
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell45/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell46
+Basename:
+Cell46
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell46/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell47
+Basename:
+Cell47
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell47/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell48
+Basename:
+Cell48
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell48/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell49
+Basename:
+Cell49
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell49/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell5
+Basename:
+Cell5
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell5/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell50
+Basename:
+Cell50
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell50/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell51
+Basename:
+Cell51
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell51/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell52
+Basename:
+Cell52
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell52/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell53
+Basename:
+Cell53
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell53/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell54
+Basename:
+Cell54
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell54/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell55
+Basename:
+Cell55
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell55/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell56
+Basename:
+Cell56
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell56/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell57
+Basename:
+Cell57
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell57/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell58
+Basename:
+Cell58
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell58/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell59
+Basename:
+Cell59
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell59/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell6
+Basename:
+Cell6
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell6/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell60
+Basename:
+Cell60
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell60/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell61
+Basename:
+Cell61
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell61/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell62
+Basename:
+Cell62
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell62/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell63
+Basename:
+Cell63
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell63/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell64
+Basename:
+Cell64
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell64/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell65
+Basename:
+Cell65
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell65/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell66
+Basename:
+Cell66
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell66/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell67
+Basename:
+Cell67
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell67/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell68
+Basename:
+Cell68
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell68/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell69
+Basename:
+Cell69
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell69/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell7
+Basename:
+Cell7
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell7/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell70
+Basename:
+Cell70
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell70/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell71
+Basename:
+Cell71
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell71/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell72
+Basename:
+Cell72
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell72/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell73
+Basename:
+Cell73
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell73/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell74
+Basename:
+Cell74
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell74/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell75
+Basename:
+Cell75
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell75/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell76
+Basename:
+Cell76
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell76/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell77
+Basename:
+Cell77
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell77/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell78
+Basename:
+Cell78
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell78/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell79
+Basename:
+Cell79
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell79/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell8
+Basename:
+Cell8
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell8/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell80
+Basename:
+Cell80
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell80/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell81
+Basename:
+Cell81
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell81/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell82
+Basename:
+Cell82
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell82/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell83
+Basename:
+Cell83
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell83/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell84
+Basename:
+Cell84
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell84/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell85
+Basename:
+Cell85
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell85/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell86
+Basename:
+Cell86
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell86/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell87
+Basename:
+Cell87
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell87/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell88
+Basename:
+Cell88
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell88/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell89
+Basename:
+Cell89
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell89/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell9
+Basename:
+Cell9
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell9/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell90
+Basename:
+Cell90
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell90/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell91
+Basename:
+Cell91
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell91/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell92
+Basename:
+Cell92
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell92/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell93
+Basename:
+Cell93
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell93/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell94
+Basename:
+Cell94
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell94/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell95
+Basename:
+Cell95
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell95/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell96
+Basename:
+Cell96
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell96/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell97
+Basename:
+Cell97
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell97/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell98
+Basename:
+Cell98
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell98/Log.final.out
+
+In dir:
+../data/bam/SxaQSEQsXbp060L2/Cell99
+Basename:
+Cell99
+Log:
+../data/bam/SxaQSEQsXbp060L2/Cell99/Log.final.out
+
+End of Compile_RNAstar_stats.sh... Thu Feb 18 15:29:05 PST 2016

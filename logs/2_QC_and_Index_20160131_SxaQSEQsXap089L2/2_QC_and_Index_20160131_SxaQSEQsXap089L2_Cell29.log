@@ -1,0 +1,18 @@
+Starting script... Sun Jan 31 13:33:17 PST 2016
+In dirs:
+../data/bam/SxaQSEQsXap089L2/Cell29
+Out dir:
+../data/bam/SxaQSEQsXap089L2/Cell29
+1
+Running QC stats scripts from PicardTools...
+sorted reads file is now indexed
+reordered_reads.bam is now created
+alignment_stats.txt is now created
+rnaseq_stats.txt is now created
+gcbias_summary stats are now created
+duplicates are now marked
+all reads left are now only proper pairs
+marked-duplicates file is now sorted
+marked-duplicates file is now indexed
+cleaning up the extra .bam files
+Starting end... Sun Jan 31 13:39:26 PST 2016

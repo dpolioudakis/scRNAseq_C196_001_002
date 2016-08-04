@@ -1,0 +1,22 @@
+
+Cell139
+Script is beginning...
+Analysis complete for Cell139.R1.fastq.gz
+Analysis complete for Cell139.R2.fastq.gz
+FastQC complete
+Feb 16 17:28:05 ..... Started STAR run
+Feb 16 17:28:17 ..... Started mapping
+Feb 16 17:28:30 ..... Started sorting BAM
+Feb 16 17:28:37 ..... Finished successfully
+STAR alignment complete
+
+Cell139
+Script is beginning...
+Analysis complete for Cell139.R1.fastq.gz
+Analysis complete for Cell139.R2.fastq.gz
+FastQC complete
+Feb 16 18:52:44 ..... Started STAR run
+Feb 16 18:58:39 ..... Started mapping
+Feb 16 18:58:56 ..... Started sorting BAM
+Feb 16 18:59:08 ..... Finished successfully
+STAR alignment complete
